@@ -39,8 +39,8 @@ document.addEventListener('DOMContentLoaded', function() {
                         if (row['Filière'] != "Toutes filières") {
                             filiere.innerHTML = getFiliere(row['Filière']);
                         } else {
-                            filières.forEach(filiere => {
-                                filiere.innerHTML += getFiliere(filiere);
+                            filières.forEach(f => {
+                                filiere.innerHTML += getFiliere(f);
                             });
                         }
 
