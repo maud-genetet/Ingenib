@@ -1,12 +1,12 @@
 const filières = ["Elec", "Matméca", "Télécom", "Info", "RSI", "SEE"];
 const nom_filières = ["Électronique", "Modélisation mathématiques et mécaniques", "Télécommunications", "Informatique", "Réseaux et Systèmes d'Information", "Systèmes Électroniques et Embarqués"];
 const couleurs = ["#337ab7", "#ff2929", "#e8c243", "#006600", "#ff66cc", "#9933ff"];
-
+const icon = ["fa-microchip", "fa-area-chart", "fa-wifi", "fa-laptop", "fa-sitemap", "fa-code-fork"];
 
 function getFiliere(filière) {
     return `<span class="fa-stack" data-toggle="tooltip" data-placement="bottom" title="${nom_filières[filières.indexOf(filière)]}">
                 <i class="fa fa-circle fa-stack-2x " style="color: ${couleurs[filières.indexOf(filière)]}"></i>
-                <i class="fa fa-laptop fa-fw fa-stack-1x fa-inverse"></i>
+                <i class="fa ${icon[filières.indexOf(filière)]} fa-fw fa-stack-1x fa-inverse"></i>
               </span>`;
 }
 
