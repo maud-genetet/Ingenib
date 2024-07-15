@@ -12,41 +12,28 @@ document.addEventListener('DOMContentLoaded', function() {
                 complete: function(results) {
                     const data = results.data;
                     const stageDiv = document.querySelector('.stage');
+                    /*<div class="col-md-4 col-sm-6">
+        <div class="thumbnail">
+          <div class="caption">
+            <h3>Afficher votre publicité</h3>
+            <p>Un guide du visiteur et un site Internet sont à disposition des participants au forum sur lesquels vous
+              pouvez réserver un encart publicitaire.</p>
+          </div>
+        </div>
+      </div>*/
                     data.forEach((row, index) => {
                         const colDiv = document.createElement('div');
                         colDiv.className = 'col-md-4 col-sm-6';
-
                         const thumbnailDiv = document.createElement('div');
                         thumbnailDiv.className = 'thumbnail';
-
                         const captionDiv = document.createElement('div');
                         captionDiv.className = 'caption';
-
                         const h3 = document.createElement('h3');
-                        h3.textContent = row["Nom de l'entreprise"];
-
-                        const pDomaine = document.createElement('p');
-                        pDomaine.textContent = row["Domaine de compétences"];
-
-                        const pStages = document.createElement('p');
-                        pStages.textContent = row["Stages Proposés"];
-
-                        const pAnnee = document.createElement('p');
-                        pAnnee.textContent = row["Année de création"];
-
-                        const pEmployes = document.createElement('p');
-                        pEmployes.textContent = row["Nombre d'employés"];
-
-                        const pChiffre = document.createElement('p');
-                        pChiffre.textContent = row["Chiffre d'Affaires"];
-
+                        h3.textContent = row['Nom de l\'entreprise'];
+                        const p = document.createElement('p');
+                        p.textContent = row['Stages Proposés'];
                         captionDiv.appendChild(h3);
-                        captionDiv.appendChild(pDomaine);
-                        captionDiv.appendChild(pStages);
-                        captionDiv.appendChild(pAnnee);
-                        captionDiv.appendChild(pEmployes);
-                        captionDiv.appendChild(pChiffre);
-                        
+                        captionDiv.appendChild(p);
                         thumbnailDiv.appendChild(captionDiv);
                         colDiv.appendChild(thumbnailDiv);
                         stageDiv.appendChild(colDiv);
