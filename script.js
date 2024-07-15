@@ -60,7 +60,8 @@ function chargeElement(type_filiere) {
                             h3.textContent = row['Nom de l\'entreprise'];
                             const p = document.createElement('p');
                             row['Domaine de compétences'] == "" ? p.textContent = "Domaine de compétences : Non précisé" : p.textContent = "Domaine de compétences : " + row['Domaine de compétences'];
-                            row['Stages Proposés'] == "" ? p.textContent = "Stages Proposés : Non précisé" : p.textContent = "Stages Proposés : " + row['Stages Proposés'];
+                            p.textContent += "\n";
+                            row['Stages Proposés'] == "" ? p.textContent += "Stages Proposés : Non précisé" : p.textContent += "Stages Proposés : " + row['Stages Proposés'];
                             const filiere = document.createElement('div');
                             if (row['Filière'] != "Toutes filières") {
                                 filiere.innerHTML = getFiliere(row['Filière']);
