@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <!-- CSRF Token -->
+  <meta name="csrf-token" content="M8eZcADFs5sXRux1riBnDUjuezbpfFwmlRcLjreQ">
+
+  <meta name="description"
+    content="Le forum INGENIB est un évènement annuel majeur pour les élèves-ingénieurs de l'ENSEIRB-MATMECA et de l'ENSC, les deux écoles organisatrices de cette manifestation.">
+  <link rel="icon" src="img/logo.png">
+
+  <title>Forum Ingenib - Espace Stages
+  </title>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+  <!-- <link media="all" type="text/css" rel="stylesheet" href="https://www.ingenib.fr/css/bootstrap.min.css"> -->
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+  <!-- <link media="all" type="text/css" rel="stylesheet" href="https://www.ingenib.fr/css/PT+Sans.css"> -->
+  <!-- Custom styles for this template -->
+  <link media="all" type="text/css" rel="stylesheet" href="https://www.ingenib.fr/css/ingenib.css">
+
+  <!-- Scripts -->
+
+  <script src="https://use.fontawesome.com/10e10ba2a2.js"></script>
+
+
+
+</head>
+<!-- NAVBAR
+================================================== -->
+
+<body>
+
+  <nav class="navbar navbar-default navbar-fixed-top navbar-ingenib">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+          aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand navbar-brand-ingenib" href="https://www.ingenib.fr"><img
+            src="https://www.ingenib.fr/ingenib4.png" class="logo-ingenib" alt="Logo Ingénib"></a>
+      </div>
+      <div id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-left">
+
+          <li><a href="https://www.ingenib.fr/evenement" class="navbar-menu-ingenib navbar-menu-event ">L'événement</a>
+          </li>
+
+
+          <li><a href="https://www.ingenib.fr/companies" class="navbar-menu-ingenib navbar-menu-company ">Espace
+              entreprises</a></li>
+          <li><a href="https://www.ingenib.fr/students" class="navbar-menu-ingenib navbar-menu-student ">Espace
+              étudiants</a></li>
+
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="https://www.ingenib.fr/login" class="navbar-menu-login btn-connec">Se connecter</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="visible-xs" style="margin-top:80px;"></div>
+
+  <div class="container container-ingenib">
+
+    <div class="row featurette">
+      <h1 class="text-center row-title ">Trouvez votre stage avec Ingénib</h1>
+      <hr class="row-title-hr row-title-hr-company">
+      <h2 class="text-center">Choisisez votre filière</h2>
+      <div style="display:flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap;">
+        <button id="tout" class="btn" style="margin: 10px;">Tout</button>
+        <button id="informatique" class="btn" style="margin: 10px; background-color: #006600; color: white;">Informatique</button>
+        <button id="electronique" class="btn" style="margin: 10px; background-color: #337ab7; color: white;">Électronique</button>
+        <button id="telecom" class="btn" style="margin: 10px; background-color: #e8c243; color: white;">Télécommunications</button>
+        <button id="matmeca" class="btn" style="margin: 10px; background-color: #ff2929; color: white;">Matmeca</button>
+        <button id="rsi" class="btn" style="margin: 10px; background-color: #ff66cc; color: white;">RSI</button>
+        <button id="see" class="btn" style="margin: 10px; background-color: #9933ff; color: white;">SEE</button>
+        <button id="ihs" class="btn" style="margin: 10px; background-color: #88ff75; color: white;">I.H.S</button>
+        <button id="ergonomie" class="btn" style="margin: 10px; background-color: #eda13e; color: white;">Ergonomie</button>
+        <button id="facteur" class="btn" style="margin: 10px; background-color: #200766; color: white;">Facteur humain</button>
+      </div>
+
+
+      <hr class="row-title-hr row-title-hr-company">
+
+      <div class="col-md-4 col-sm-6">
+        <div class="thumbnail">
+          <div class="caption">
+            <h3>Louer un stand</h3>
+
+            <p>Nous vous proposons des stands en présentiel pour vous permettre d'entrer en contact avec les
+              élèves-ingénieurs.</p>
+            <div>
+              <span class="fa-stack" data-toggle="tooltip" data-placement="bottom" title="Informatique">
+                <i class="fa fa-circle fa-stack-2x " style="color: #006600"></i>
+                <i class="fa fa-laptop fa-fw fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="fa-stack" data-toggle="tooltip" data-placement="bottom" title="Électronique">
+                <i class="fa fa-circle fa-stack-2x " style="color: #337ab7"></i>
+                <i class="fa fa-microchip fa-fw fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="fa-stack" data-toggle="tooltip" data-placement="bottom" title="Télécommunications">
+                <i class="fa fa-circle fa-stack-2x " style="color: #e8c243"></i>
+                <i class="fa fa-wifi fa-fw fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="fa-stack" data-toggle="tooltip" data-placement="bottom"
+                title="Modélisation mathématiques et mécaniques">
+                <i class="fa fa-circle fa-stack-2x " style="color: #ff2929"></i>
+                <i class="fa fa-area-chart fa-fw fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="fa-stack" data-toggle="tooltip" data-placement="bottom"
+                title="Réseaux et Systèmes d&#039;Information">
+                <i class="fa fa-circle fa-stack-2x " style="color: #ff66cc"></i>
+                <i class="fa fa-sitemap fa-fw fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="fa-stack" data-toggle="tooltip" data-placement="bottom"
+                title="Systèmes Électroniques et Embarqués">
+                <i class="fa fa-circle fa-stack-2x " style="color: #9933ff"></i>
+                <i class="fa fa-code-fork fa-fw fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="fa-stack" data-toggle="tooltip" data-placement="bottom" title="I.H.S">
+                <i class="fa fa-circle fa-stack-2x " style="color: #88ff75"></i>
+                <i class="fa fa-universal-access fa-fw fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="fa-stack" data-toggle="tooltip" data-placement="bottom" title="Ergonomie">
+                <i class="fa fa-circle fa-stack-2x " style="color: #eda13e"></i>
+                <i class="fa fa-eye fa-fw fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="fa-stack" data-toggle="tooltip" data-placement="bottom" title="Facteur humain">
+                <i class="fa fa-circle fa-stack-2x " style="color: #200766"></i>
+                <i class="fa fa-users fa-fw fa-stack-1x fa-inverse"></i>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 col-sm-6">
+        <div class="thumbnail">
+          <div class="caption">
+            <h3>Afficher votre publicité</h3>
+            <p>Un guide du visiteur et un site Internet sont à disposition des participants au forum sur lesquels vous
+              pouvez réserver un encart publicitaire.</p>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="col-md-4 col-sm-6">
+        <div class="thumbnail">
+          <div class="caption">
+            <h3>Afficher votre publicité</h3>
+            <p>Un guide du visiteur et un site Internet sont à disposition des participants au forum sur lesquels vous
+              pouvez réserver un encart publicitaire.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 col-sm-6">
+        <div class="thumbnail">
+          <div class="caption">
+            <h3>Afficher votre publicité</h3>
+            <p>Un guide du visiteur et un site Internet sont à disposition des participants au forum sur lesquels vous
+              pouvez réserver un encart publicitaire.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 col-sm-6">
+        <div class="thumbnail">
+          <div class="caption">
+            <h3>Afficher votre publicité</h3>
+            <p>Un guide du visiteur et un site Internet sont à disposition des participants au forum sur lesquels vous
+              pouvez réserver un encart publicitaire.</p>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+
+  </div>
+
+
+
+
+  <footer class="footer1">
+    <div class="container">
+      <hr class="featurette-divider footer-divider">
+      <div class="row"><!-- row -->
+        <div class="col-sm-4">
+          <address>
+            <strong>ENSEIRB-MATMECA</strong><br>
+            Avenue des facultés<br>
+            33400 Talence, France<br>
+            Contact équipe Ingénib 2024 : <br>
+            <a href="https://www.ingenib.fr/contact">Formulaire de contact</a><br>
+            VAUTRIN-DI PIETRO Pierre (Président), 0767670681<br>
+            GENETET LAGARDÈRE Maud (Vice présidente), 0602629457<br>
+            MÉZAILLE LOUIS (Vice président), 0783242519<br>
+            AIMI Laora (Relation Entreprise), 0781744445<br>
+            MAACH Samy (Relation Entreprise), 0783566411<br>
+          </address>
+        </div>
+        <div class="col-sm-4">
+        </div>
+
+      </div>
+      <div class="row">
+        <p class="text-center small">
+          <!-- Réalisé par Vincent Ruello 
+                && Andréas Cottet + Tom Claudel + Alex Delaveau -->
+          Copyright Ingénib - 2023 - 2024
+        </p>
+      </div>
+    </div>
+
+  </footer>
+
+
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <!-- <script src="https://www.ingenib.fr/js/jquery.min.js"></script> -->
+  <!-- <script src="https://www.ingenib.fr/js/bootstrap.min.js"></script> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+    crossorigin="anonymous"></script>
+
+
+
+</body>
+
+</html>
