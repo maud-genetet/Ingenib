@@ -93,5 +93,5 @@ function chargeElement(type_filiere) {
 }
 
 document.addEventListener('DOMContentLoaded', function () {
-    chargeElement();
+    chargeElement("tout");
 });
