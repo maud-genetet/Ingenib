@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         const h3 = document.createElement('h3');
                         h3.textContent = row['Nom de l\'entreprise'];
                         const p = document.createElement('p');
-                        p.textContent = "<b>Stages Proposés</b> : " + row['Stages Proposés'];
+                        p.textContent = "Stages Proposés : " + row['Stages Proposés'];
                         const filiere = document.createElement('div');
                         if (row['Filière'] != "Toutes filières") {
                             filiere.innerHTML = getFiliere(row['Filière']);
@@ -44,8 +44,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             });
                         }
 
+
                         captionDiv.appendChild(h3);
                         captionDiv.appendChild(p);
+                        captionDiv.appendChild(filiere);
                         thumbnailDiv.appendChild(captionDiv);
                         colDiv.appendChild(thumbnailDiv);
                         stageDiv.appendChild(colDiv);
