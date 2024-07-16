@@ -11,10 +11,10 @@ function getFiliere(filière) {
 }
 
 function getDivWithInfo(colonne, texte) {
-    if (texte =! "") {
+    if (texte != "") {
         return `<div>
                     <h4>${colonne}</h4>
-                    <p>${texte}</p>
+                    <span>${texte}</span>
                 </div>`;
     }
     return "";
