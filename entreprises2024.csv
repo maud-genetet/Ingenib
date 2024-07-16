@@ -46,10 +46,10 @@ In an environment with industrial and certification constraints (DO178B and C, D
 AKKODIS,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
 ALTEN SA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
 APSIDE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
-Armée de Terre,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,www.sengager.fr,,,"L'armée de Terre, c'est : 130 000 hommes et femmes, 16 000 postes à pourvoir dans plus de 100 spécialités !
+Armée de Terre,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.sengager.fr,,,"L'armée de Terre, c'est : 130 000 hommes et femmes, 16 000 postes à pourvoir dans plus de 100 spécialités !
 Sans diplôme ou détenteur d’un BAC +5, l’armée de Terre permet à 16 000 hommes et femmes d’allier action et responsabilité, de vivre une expérience humaine et professionnelle sans équivalent dans plus de 100 spécialités : maître-chien, météorologue, pilote de chars de combat, moniteur sportif, développeur informatique, analyste d’images, combattant des forces spéciales, maintenancier, pilote de drone, etc.",,,,
 ASSYSTEM France,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
-ASTEK GROUP,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://astekgroup.fr/,,"Défense, Transport, Energy, life sciences, Finance, government, Télécom, Média, Retail, internet services","Créé en 1988, Astek est un groupe international de conseil en technologies et en transformation digitale présent dans 22 pays à travers le monde. 
+ASTEK GROUP,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.astekgroup.fr/,,"Défense, Transport, Energy, life sciences, Finance, government, Télécom, Média, Retail, internet services","Créé en 1988, Astek est un groupe international de conseil en technologies et en transformation digitale présent dans 22 pays à travers le monde. 
 
 Fort de notre expertise dans de nombreux secteurs industriels et tertiaires, le Groupe accompagne ses clients internationaux dans le déploiement intelligent de leurs produits et de leurs services, et dans la mise en œuvre de leur transformation digitale.  
 
@@ -81,12 +81,12 @@ Astek est en forte croissance. Après avoir atteint avec 2 ans d’avance notre 
 
 <p>Stage – 3 Stages – fin d’études / ingénieur – Ingénieur innovation Cybersécurité, blockchain – Paris, France (H/F)</p>
 
-<p>Retrouvez toutes nos offres sur :  <a href=""https://astekjob.fr/"">https://astekjob.fr/</a></p>","<p>Après un stage de fin d'étude, il est possible de vous embaucher en CDI pour votre premier emploi. </p>"
+<p>Retrouvez toutes nos offres sur :  <a href=""astekjob.fr/"">astekjob.fr/</a></p>","<p>Après un stage de fin d'étude, il est possible de vous embaucher en CDI pour votre premier emploi. </p>"
 ATOS France,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
 axYus,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
 BeTomorrow,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
 Bordeaux Métropole,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.bordeaux-metropole.fr/,,,,,,,
-Capgemini,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.capgemini.com/fr-fr/carrieres/parcours-professionnels/etudiants-diplomes/stage-et-alternance/,50 pays,"Stratégie, Transformation, Technologie, Application, ingénierie, Opération","Capgemini, partenaire de la transformation business et technologique de ses clients, les accompagne dans leur transition vers un monde plus digital et durable, tout en créant un impact positif pour la société. Le Groupe, responsable et multiculturel, rassemble 340 000 collaborateurs dans plus de 50 pays. Depuis plus de 55 ans, ses clients lui font confiance pour répondre à l’ensemble de leurs besoins grâce à la technologie. Capgemini propose des services et solutions de bout en bout, allant de la stratégie et du design jusqu’à l’ingénierie, en tirant parti de ses compétences de pointe en intelligence artificielle, en cloud, et en data, ainsi que de son expertise sectorielle et de son écosystème de partenaires. Le Groupe a réalisé un chiffre d’affaires de 22,5 milliards d’euros en 2023. Get the future you want* | www.capgemini.com","<ul><li>Ingénieur Cloud, Ingénieur DevOps, Ingénieur systèmes & réseaux</li>
+Capgemini,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.capgemini.com/fr-fr/carrieres/parcours-professionnels/etudiants-diplomes/stage-et-alternance/,50 pays,"Stratégie, Transformation, Technologie, Application, ingénierie, Opération","Capgemini, partenaire de la transformation business et technologique de ses clients, les accompagne dans leur transition vers un monde plus digital et durable, tout en créant un impact positif pour la société. Le Groupe, responsable et multiculturel, rassemble 340 000 collaborateurs dans plus de 50 pays. Depuis plus de 55 ans, ses clients lui font confiance pour répondre à l’ensemble de leurs besoins grâce à la technologie. Capgemini propose des services et solutions de bout en bout, allant de la stratégie et du design jusqu’à l’ingénierie, en tirant parti de ses compétences de pointe en intelligence artificielle, en cloud, et en data, ainsi que de son expertise sectorielle et de son écosystème de partenaires. Le Groupe a réalisé un chiffre d’affaires de 22,5 milliards d’euros en 2023. Get the future you want* | https://www.capgemini.com","<ul><li>Ingénieur Cloud, Ingénieur DevOps, Ingénieur systèmes & réseaux</li>
         <li>Développeur, Consultant technique, UX Designer</li>
         <li>Ingénieur calcul, Projecteur CAO</li>
         <li>Ingénieur contrôle commande, Ingénieur systèmes</li>
@@ -127,7 +127,7 @@ Capgemini,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.capgemini
 <p>Stage – Développeur JAVA (Industrie 4.0) H/F</p>
 
 ","<p>Chez Capgemini, on t’écoute, on te challenge, et surtout on te fait confiance. Tes missions seront multi-secteurs, multi-technologies et à forte responsabilité. Entre deux missions chez le client, tu peux profiter de conférences (startups, éditeurs, experts), de formations en présentiel ou en ligne, d’un accès libre à des plateformes (Coursera, Pluralsight…) ou rejoindre l’un de nos clubs associatifs (sport, musique, tech…) ou nos incubateurs de projets. Et après chaque mission, tu fais le point avec ton RH, ton manager et ton carrière manager. Parcours d’accélération, certifications, formations à de nouveaux métiers… On te donne les clés, à toi de construire ta carrière à ton rythme.</p>"
-CDISCOUNT,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://emploi.cdiscount.com/,,,"Cdiscount, c’est le pari fou d’une startup ecommerce lancée en 1998 àBordeaux.
+CDISCOUNT,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.emploi.cdiscount.com/,,,"Cdiscount, c’est le pari fou d’une startup ecommerce lancée en 1998 àBordeaux.
 En plus de 25 ans, Cdiscount a contribué à faire entrer le digital dans le quotidien des foyers français, faisant de lui un acteur incontournable du numérique. Aujourd’hui Cdiscount a fait évoluer son modèle vers une plateforme B2C et B2B avec les filiales C-Logistics, Octopia, et Peaksys.",,,,
 CEA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
 CGI,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.cgi.com/france/fr-fr,"Canada, États-Unis, France, Espagne, Suisse, Maroc etc","informatique, conseil","Chez CGI, nous sommes convaincus que l’innovation technologique permet aussi bien d’accélérer la transformation de la société et de son économie, que le développement de ses collaborateurs et collaboratrices.
@@ -153,7 +153,7 @@ Vous êtes unique et ça nous plaît !","<ul><li>Métiers du Conseil : conseil e
 
 <p>Tu souhaites réaliser des missions passionnantes et être au cœur des enjeux de nos clients ? Tu souhaites bénéficier d’un management de proximité reconnu, pour un meilleur partage des expériences et un accompagnement sur la durée ? Tu souhaites rejoindre une entreprise engagée pour l’intérêt général et l’inclusion ? Tu es bien chez CGI !</p>","<p>Vous êtes <span style=""color:#000000;"">accompagné(e)e par un management de proximité afin d’évoluer au sein de nos différentes entités et filières. Nous veillons à la qualité et à la pertinence des formations proposées, nous choisissons les meilleurs dispositifs d’évolution des savoir-faire et savoir-être au regard des situations de chacun. Qu’elles soient techniques, certifiantes, en accompagnement des prises de fonction, CGI propose un large éventail de formations pour développer les compétences de ses professionnels quel que soit le métier ou le niveau d'expérience.</span></p>"
 Cheops Technology,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
-CNES,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,www.cnes.fr,France,Spatial,"Le Centre national d'études spatiales est un établissement public à caractère industriel et commercial chargé d’élaborer et de proposer au gouvernement français le programme spatial français, puis de le mettre en œuvre.
+CNES,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.cnes.fr,France,Spatial,"Le Centre national d'études spatiales est un établissement public à caractère industriel et commercial chargé d’élaborer et de proposer au gouvernement français le programme spatial français, puis de le mettre en œuvre.
 Nos 4 priorités stratégiques sont :
 -        Renforcer notre autonomie stratégique
 -        Soutenir la compétitivité de l’écosystème spatial
@@ -200,7 +200,7 @@ Nos 4 priorités stratégiques sont :
 
 <p>Publication : de Janvier à Mars.</p>
 
-<p>Toutes nos offres sont mises en ligne régulièremen: <a href=""https://recrutement.cnes.fr/"">https://recrutement.cnes.fr/</a></p>","<p>Nous accordons une attention particulière au développement et à l'enrichissement des compétences de nos collaborateurs. Chacun doit pouvoir être acteur de sa carrière et disposer des moyens de construire son parcours professionnel.</p>
+<p>Toutes nos offres sont mises en ligne régulièremen: <a href=""recrutement.cnes.fr/"">recrutement.cnes.fr/</a></p>","<p>Nous accordons une attention particulière au développement et à l'enrichissement des compétences de nos collaborateurs. Chacun doit pouvoir être acteur de sa carrière et disposer des moyens de construire son parcours professionnel.</p>
 
 <p>Ainsi, nous veillons à maintenir le haut niveau de compétences et l'expertise de nos collaborateurs grâce à une politique de formation ambitieuse et innovante. Pour cela, le CNES consacre 5% de la masse salariale à la formation de ses collaborateurs.</p>
 
@@ -327,7 +327,7 @@ Exail est né en 2022 après qu’ECA Group et iXblue ont uni leurs forces. Le g
         <li>Contribuer à <strong>l'évolution de l'entreprise</strong></li>
         <li>Des <strong>évolutions possibles</strong> en fonction de nos opportunités en interne</li>
 </ul>"
-EXOES,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,https://exoes.com/,France,Ingénierie,"EXOES est un pionnier des technologies de pointe visant à développer la mobilité durable et à atténuer le changement climatique. L'entreprise est particulièrement réputée pour être l'un des spécialistes mondiaux de la technologie de refroidissement par immersion.
+EXOES,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.exoes.com/,France,Ingénierie,"EXOES est un pionnier des technologies de pointe visant à développer la mobilité durable et à atténuer le changement climatique. L'entreprise est particulièrement réputée pour être l'un des spécialistes mondiaux de la technologie de refroidissement par immersion.
 
 EXOES est l'expert en gestion thermique dans le domaine de l'électromobilité. Elle fournit des services d'ingénierie avancés, de la conception à l'intégration des véhicules, et fabrique des produits de haute performance tels que des blocs-batteries, des pompes à chaleur et des composants électroniques de puissance. Ses principaux clients sont des équipementiers, des fournisseurs de premier rang et des fabricants de fluides.
 
@@ -360,7 +360,7 @@ Exoes développera sa présence internationale, poursuivra l'expansion dynamique
 <p>- 100% de nos stages réussis donnent lieu à une embauche en CDI.</p>
 
 <p>- Rejoindre un groupe en pleine croissance avec des opportunités d’évolution rapide en France et à l’international.</p>"
-FINAXYS,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://finaxys.com/,France,ESN dans la Banque Finance Assurance,"Comme Henry Ford, les Finaxyens pensent qu'en avançant ensemble, le succès viendra de lui-même ! 
+FINAXYS,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.finaxys.com/,France,ESN dans la Banque Finance Assurance,"Comme Henry Ford, les Finaxyens pensent qu'en avançant ensemble, le succès viendra de lui-même ! 
 Mais qui sommes-nous ? 
 La Finaxys family c'est du conseil IT auprès des groupes bancaires, des assurances, des néo-banques et des fintechs ! De quoi faire vivre une aventure exceptionnelle et inédite à nos 350 experts situés à Paris. 
 Notre offre de conseil couvre les enjeux technologiques d'aujourd'hui et surtout de demain ce qui nous permet  d'accompagner nos clients sur la digitalisation de leurs métiers. 
@@ -401,13 +401,13 @@ humaine proposant des missions challengeantes avec une réelle proximité avec l
 
 <p> </p>","<p>Intégrer la Finaxys Academy, c'est se donner la possibilité de continuer en CDI chez Finaxys ! Chaque année, 90% de nos stagiaires poursuivent leur aventure chez Finaxys et même souvent en prestation chez le client chez qui ils ont réalisé leur stage. Alors, saute le pas et rejoins nous ! </p>"
 FORTIL,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
-GESTFORM,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,www.gestform.com,,,"GESTFORM, Entreprise Adaptée, prestataire de services de gestion documentaire numérique et de sous-traitance administrative auprès de Grands Comptes prestigieux (Airbus, Orange, Ariane Group, SNCF …), GESTFORM allie depuis 30 ans performance économique et valeurs humaines.
+GESTFORM,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.gestform.com,,,"GESTFORM, Entreprise Adaptée, prestataire de services de gestion documentaire numérique et de sous-traitance administrative auprès de Grands Comptes prestigieux (Airbus, Orange, Ariane Group, SNCF …), GESTFORM allie depuis 30 ans performance économique et valeurs humaines.
 GESTFORM, c'est 400 salariés répartis sur 3 sites, Paris-Bordeaux-Toulouse et une volonté de placer l’innovation et l’amélioration continue au cœur de notre fonctionnement.
 Nous proposons des services innovants et investissons dans la performance sociale, le dialogue, le développement des compétences.
 Depuis son origine en 1986, GESTFORM s’est attachée à promouvoir des valeurs telles que : le Respect, la Loyauté, la Confiance, la Satisfaction Clients et l’Exigence.
-Vous souhaitez en savoir plus sur GESTFORM ? Rendez-vous sur notre site : http://www.gestform.com/
+Vous souhaitez en savoir plus sur GESTFORM ? Rendez-vous sur notre site : http://https://www.gestform.com/
 Vous pouvez également nous suivre sur :
-LinkedIn : https://fr.linkedin.com/company/gestform","<p>Au sein du SI</p>
+LinkedIn : fr.linkedin.com/company/gestform","<p>Au sein du SI</p>
 
 <p>- Développeur Full stack ou Front end ou Back end selon votre profil et votre appétence</p>
 
@@ -438,7 +438,7 @@ LinkedIn : https://fr.linkedin.com/company/gestform","<p>Au sein du SI</p>
 <p>- Devsecops</p>
 
 <p>Un plan de carrière est mis en place avec le DSI et nous mettons en place des formations nécessaires afin de vous faire monter en compétences</p>"
-INGELIANCE TECHNOLOGIES,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,www.ingeliance.com,,,,,,,
+INGELIANCE TECHNOLOGIES,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.ingeliance.com,,,,,,,
 Marine nationale,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
 MUREX,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.murex.com/en,,,,,,,
 NAVAL GROUP,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.naval-group.com/fr,,"Industriel, défense, Naval","Naval Group, acteur incontournable du naval de Défense, conçoit, réalise, maintient en service, déconstruit et démantèle des navires de surface, des sous-marins, des porte-avions, mais également des drones et autres systèmes autonomes. 
@@ -446,7 +446,7 @@ Maître d’œuvre industriel, concepteur et intégrateur d’ensemble des navir
 Cette entreprise regroupe près de 500 métiers avec des parcours riches et variés au travers de l’ensemble de ses 10 sites implantés en France.
 
 
-Naval Group compte parmi les acteurs internationaux du naval de défense. Depuis plus de 400 ans, nous repoussons sans cesse les limites pour construire le naval de demain. Ouvriers, techniciens, ingénieurs, c'est avec passion que nos 17 000 collaborateurs, en France et à l'international, mettent en commun leurs savoir-faire uniques pour imaginer, concevoir, réaliser et entretenir des produits et des systèmes d'exception tels qu'un sous-marin, un porte-avions ou une frégate de combat. Nous sommes convaincus que la diversité et l'inclusion sont synonymes de richesse et de performance. Nous souhaitons intégrer une véritable diversité de profils : femmes et hommes, avec une mixité sociale et une diversité de formations, de générations, d'origines, de compétences et de talents, mais aussi de parcours de vie. Nos métiers évoluent, nos collaborateurs aussi. Nous nous engageons dans le développement professionnel de nos collaborateurs via la formation continue. Nos collaborateurs développent ainsi leur parcours professionnel selon leurs envies et en adéquation avec les besoins du groupe.",<p>https://www.naval-group.com/fr/nous-rejoindre</p>,<p>Nous recherchons des étudiants (Stages / Alternances) ou des demandeurs d'emploi.</p>,<p>https://www.naval-group.com/fr/nous-rejoindre?keywords=&offerFamilyCategory=&contractType=2463&country=&city=&op=Rechercher&form_build_id=form-vNzSSv9IKnsem5qLapaOFn53y3oM2MWP05DjvR2Qpng&form_id=talent_soft_offers_filters_form#offer-list-content</p>,<p>Les futurs recrutés se voient proposer des postes à forte responsabilité et la possibilité d’évoluer rapidement géographiquement ou sur d’autres métiers en accompagnant la croissance du Groupe à l’international et son développement sur de nouveaux marchés.</p>
+Naval Group compte parmi les acteurs internationaux du naval de défense. Depuis plus de 400 ans, nous repoussons sans cesse les limites pour construire le naval de demain. Ouvriers, techniciens, ingénieurs, c'est avec passion que nos 17 000 collaborateurs, en France et à l'international, mettent en commun leurs savoir-faire uniques pour imaginer, concevoir, réaliser et entretenir des produits et des systèmes d'exception tels qu'un sous-marin, un porte-avions ou une frégate de combat. Nous sommes convaincus que la diversité et l'inclusion sont synonymes de richesse et de performance. Nous souhaitons intégrer une véritable diversité de profils : femmes et hommes, avec une mixité sociale et une diversité de formations, de générations, d'origines, de compétences et de talents, mais aussi de parcours de vie. Nos métiers évoluent, nos collaborateurs aussi. Nous nous engageons dans le développement professionnel de nos collaborateurs via la formation continue. Nos collaborateurs développent ainsi leur parcours professionnel selon leurs envies et en adéquation avec les besoins du groupe.","<p><a href=""https://www.naval-group.com/fr/nous-rejoindre"">Nous rejoindre</a></p>",<p>Nous recherchons des étudiants (Stages / Alternances) ou des demandeurs d'emploi.</p>,"<p><a href=""https://www.naval-group.com/fr/nous-rejoindre?keywords=&offerFamilyCategory=&contractType=2463&country=&city=&op=Rechercher&form_build_id=form-vNzSSv9IKnsem5qLapaOFn53y3oM2MWP05DjvR2Qpng&form_id=talent_soft_offers_filters_form#offer-list-content"">Offres de Stages</a></p>",<p>Les futurs recrutés se voient proposer des postes à forte responsabilité et la possibilité d’évoluer rapidement géographiquement ou sur d’autres métiers en accompagnant la croissance du Groupe à l’international et son développement sur de nouveaux marchés.</p>
 NXP Semiconducteurs,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
 Onepoint,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.groupeonepoint.com/fr/,,,,,,,
 SERMA,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.serma.com/,,,"Le groupe SERMA (CA de 174M , plus de 1 400 collaborateurs) est un acteur global indépendant et multisectoriel, nous accompagnons nos partenaires sur l ensemble du cycle de vie des produits et services en tant qu'expert spécialisé dans les systèmes électroniques embarqués et industriels. 
@@ -497,7 +497,7 @@ En tant que Groupe industriel, SERMA bénéficie de la convention collective de 
 <p>- Ingénieur Evaluation Software</p>
 
 <p>- Ingénieur Evaluation Hardware</p>",,,"<p>Le développement constant de SERMA depuis maintenant plus de 30 ans est synonyme d opportunités et d évolutions professionnelles : changement de métier, mutation, prise de responsabilités, etc. </p>"
-SII,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://sii-group.com/fr-FR,,,"Créée en 2003, l'implantation bordelaise de SII a réellement démarré son développement en 2008, pour connaître une croissance fulgurante de 60 à 200 consultants entre 2018 et aujourd’hui. Ce succès s'explique par l'expertise de SII dans les domaines du numérique et du conseil en technologies, ainsi que par son engagement à répondre aux besoins spécifiques des clients de la région Nouvelle-Aquitaine.
+SII,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.sii-group.com/fr-FR,,,"Créée en 2003, l'implantation bordelaise de SII a réellement démarré son développement en 2008, pour connaître une croissance fulgurante de 60 à 200 consultants entre 2018 et aujourd’hui. Ce succès s'explique par l'expertise de SII dans les domaines du numérique et du conseil en technologies, ainsi que par son engagement à répondre aux besoins spécifiques des clients de la région Nouvelle-Aquitaine.
 
 L’agence Nouvelle-Aquitaine entend poursuivre sa croissance et renforcer son positionnement de partenaire privilégié des entreprises de la région, dans les domaines tels que l'aéronautique, la défense, l'énergie, le secteur bancaire, les télécommunications, le commerce, le retail et la santé. 
 
@@ -625,7 +625,7 @@ Oser et créer.​","<p>En tant que stagiaire, rejoins plus de 120 collaborateur
         <li><strong>FLEX@SQLI </strong>: Politique de 3 jours/ semaine </li>
 </ul>"
 SYS1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,,,
-Talan,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://talan.com/,,,,,,,
+Talan,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.talan.com/,,,,,,,
 TDM,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.tdm-ing.com/,,,"TDM est équipementier sur spécifications pour équipements électronique pour DASSAULT, vend une gamme de produits propres et possède un B.E . pour développer de nouveaux projets et équipements.",,,,
 TechnicAtome,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.technicatome.com/,France,"Nucléaire, Energie, défense","Vous avez le souhait de travailler au sein d’un collectif, dans une entreprise française à taille humaine, à la pointe des technologies ? 
 Portée par plus de 2000 collaborateurs répartis sur 8 sites implantés dans tout l’hexagone, TechnicAtome conçoit les réacteurs nucléaires compacts des sous-marins et porte-avions de la Marine Française, tout en œuvrant dans le domaine du nucléaire civil sur des projets innovants tels que le Réacteur Jules Horowitz ou encore les Small Modular Reactors . 
@@ -670,14 +670,14 @@ Cette conviction, Thales l’exprime clairement dans sa raison d’être : « Co
         <li>Vous êtes dynamique, rigoureux(se) et proactif(ve)</li>
         <li>Vous parlez anglais couramment</li>
         <li>L'allemand serait un plus</li>
-</ul>","<p>Nous avons beaucoup d'offres à pourvoir pour des stages/alternances dans de nombreuses villes en France et en Allemagne. Pour en savoir plus, nous vous envourageons à consulter nos offres sur notre site internet: <a href=""https://jobs.technologyandstrategy.com/"">Technology & Strategy Group Careers (technologyandstrategy.com)</a></p>","<p><strong>Directeur technique</strong>: Le responsable technique est chargé de gérer toutes les activités techniques de son domaine, de son unité commerciale, de son secteur d'activité ou même de l'entreprise. Sa mission se répartit généralement entre l'avant-vente, le développement et l'après-vente.</p>
+</ul>","<p>Nous avons beaucoup d'offres à pourvoir pour des stages/alternances dans de nombreuses villes en France et en Allemagne. Pour en savoir plus, nous vous envourageons à consulter nos offres sur notre site internet: <a href=""jobs.technologyandstrategy.com/"">Technology & Strategy Group Careers (technologyandstrategy.com)</a></p>","<p><strong>Directeur technique</strong>: Le responsable technique est chargé de gérer toutes les activités techniques de son domaine, de son unité commerciale, de son secteur d'activité ou même de l'entreprise. Sa mission se répartit généralement entre l'avant-vente, le développement et l'après-vente.</p>
 
 <p><strong>Directeur de projet d'ingénierie</strong>: Le directeur de projet est chargé de gérer un ou plusieurs projets, de la phase d'étude à la livraison, dans le cadre des objectifs fixés et en veillant au respect des exigences en matière de coûts, de délais et de qualité. Il/elle anticipe les impacts des changements et conduit l'accompagnement du changement.</p>
 
 <p><strong>Directeur de projet informatique</strong>: Le directeur de projet informatique est chargé de gérer un ou plusieurs projets, de la phase d'étude à la réalisation, dans le cadre des objectifs fixés et en veillant au respect des exigences de coût, de délai et de qualité. Il anticipe les impacts des transformations et conduit l'accompagnement du changement.</p>
 
 <p><strong>Directeur opérationnel</strong>: Le directeur opérationnel organise son équipe, structure ses offres et est responsable de l'élargissement de son champ d'action et du développement de ses activités.</p>"
-THELIO,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,www.thelio.fr,France,Conseil en systèmes et logiciels informatiques,"Cabinet de Conseil et d’Intégration Data, Thélio est né pour relever un défi : démystifier le monde de la Data pour la rendre accessible à toutes les entreprises. Sa raison d’être ? Des entreprises et organisations plus performantes, innovantes et humaines, grâce à l’intelligence de la donnée.
+THELIO,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.thelio.fr,France,Conseil en systèmes et logiciels informatiques,"Cabinet de Conseil et d’Intégration Data, Thélio est né pour relever un défi : démystifier le monde de la Data pour la rendre accessible à toutes les entreprises. Sa raison d’être ? Des entreprises et organisations plus performantes, innovantes et humaines, grâce à l’intelligence de la donnée.
 Né à Bordeaux et continuant sa croissance à Lyon, Aix en Provence et Toulouse, Thélio intervient sur toute la chaîne de valeur de la donnée : Stratégie & Gouvernance Data, Data Visualisation, Modern Data Platform, Intégration Data, Master Data Management, Qualité & Conformité de la Donnée.
 Ce qui nous différencie des autres acteurs de la data : notre capacité à accompagner nos clients de bout en bout sur l’ensemble de la chaine de valeur de la donnée, du conseil à la mise en œuvre au travers de solutions pérennes et évolutives, et en totale indépendance des éditeurs. Le fort niveau d’expertise et la complémentarité de nos consultant(e)s, qui sont des professionnel(le)s expérimenté(e)s et reconnu(e)s. Le souci constant d’apporter de la valeur à nos clients quelle que soit la prestation. Et surtout nos valeurs : une culture d’entreprise libérée qui encourage l’initiative et l’intelligence collective, avec un impact concret pour nos collaborateurs : auto-gestion du temps de travail, télétravail, initiatives internes, RSE etc.
 Pourquoi nous rejoindre ?
