@@ -61,6 +61,7 @@ function chargeElement(type_filiere) {
                         if (type_filiere == "tout" || row[type_filiere] == "TRUE") {
 
                             const colDiv = document.createElement('div');
+                            colDiv.style = "margin: 10px;";
 
                             const thumbnailDiv = document.createElement('div');
                             thumbnailDiv.className = 'thumbnail';
@@ -71,14 +72,6 @@ function chargeElement(type_filiere) {
                             const h3 = document.createElement('h3');
                             h3.textContent = row['Entreprises'];
                             h3.style = "margin: 5px;";
-                            if (row['Site'] != ""){
-                                const lienSite = document.createElement('a');
-                                lienSite.href = row['Site'];
-                                lienSite.textContent = "Site Web";
-                                lienSite.target = "_blank";
-                                lienSite.style = "margin: 10px; color: white; background-color: rgb(139 198 62); padding: 5px; border-radius: 5px;";
-                                h3.appendChild(lienSite);
-                            }
 
                             const contenu = document.createElement('div');
                             contenu.style = "display: none; flex-direction: column; width: 100%;";
@@ -91,12 +84,20 @@ function chargeElement(type_filiere) {
                             contenu.innerHTML += getDivWithInfo("Evolutions", row["Evolutions"]);
                             
                             const filiere = document.createElement('div');
-                            filiere.style = "margin: 5px;";
+                            filiere.style = "margin: 5px; display: flex; flex-direction: row; justify-content: center;";
                             filieres.forEach(f => {
                                 if (row[f] == "TRUE") {
                                     filiere.innerHTML += getFiliere(f);
                                 }
                             });
+                            if (row['Site'] != ""){
+                                const lienSite = document.createElement('a');
+                                lienSite.href = row['Site'];
+                                lienSite.textContent = "Site Web";
+                                lienSite.target = "_blank";
+                                lienSite.style = "margin: 10px; color: white; background-color: rgb(139 198 62); padding: 5px; border-radius: 5px;";
+                                filiere.appendChild(lienSite);
+                            }
 
 
                             captionDiv.appendChild(h3);
