@@ -1,29 +1,28 @@
-const filières = ["Elec", "Matméca", "Télécom", "Info", "RSI", "SEE"];
-const nom_filières = ["Électronique", "Modélisation mathématiques et mécaniques", "Télécommunications", "Informatique", "Réseaux et Systèmes d'Information", "Systèmes Électroniques et Embarqués"];
-const couleurs = ["#337ab7", "#ff2929", "#e8c243", "#006600", "#ff66cc", "#9933ff"];
-const icon = ["fa-microchip", "fa-area-chart", "fa-wifi", "fa-laptop", "fa-sitemap", "fa-code-fork"];
+const filieres = ["E", "M", "T", "I", "RSI", "SEE", "IHS", "ER", "F"];
+const colonnes = ["Secteurs", "Presentation", "Metiers", "Profils", "Offres", "Evolutions"];
+const couleursFilieres = ["#337ab7", "#ff2929", "#e8c243", "#006600", "#ff66cc", "#9933ff", "#88ff75", "#eda13e", "#200766"];
+const iconFilieres = ["fa-microchip", "fa-area-chart", "fa-wifi", "fa-laptop", "fa-sitemap", "fa-code-fork", "fa-universal-access", "fa-eye", "fa-users"];
+const buttonFilieres = document.querySelectorAll('.btn');
 
 function getFiliere(filière) {
-    return `<span class="fa-stack" data-toggle="tooltip" data-placement="bottom" title="${nom_filières[filières.indexOf(filière)]}">
-                <i class="fa fa-circle fa-stack-2x " style="color: ${couleurs[filières.indexOf(filière)]}"></i>
-                <i class="fa ${icon[filières.indexOf(filière)]} fa-fw fa-stack-1x fa-inverse"></i>
+    return `<span class="fa-stack" data-toggle="tooltip" data-placement="bottom">
+                <i class="fa fa-circle fa-stack-2x " style="color: ${couleursFilieres[filieres.indexOf(filière)]}"></i>
+                <i class="fa ${iconFilieres[filieres.indexOf(filière)]} fa-fw fa-stack-1x fa-inverse"></i>
               </span>`;
 }
 
-/**  <button id="tout" class="btn" style="margin: 10px;">Tout</button>
-        <button id="Info" class="btn"
-          style="margin: 10px; background-color: #006600; color: white;">Informatique</button>
-        <button id="Elec" class="btn"
-          style="margin: 10px; background-color: #337ab7; color: white;">Électronique</button>
-        <button id="Télécom" class="btn"
-          style="margin: 10px; background-color: #e8c243; color: white;">Télécommunications</button>
-        <button id="Matméca" class="btn" style="margin: 10px; background-color: #ff2929; color: white;">Matmeca</button>
-        <button id="RSI" class="btn" style="margin: 10p */
-const button = document.querySelectorAll('.btn');
+function getDivWithInfo(colonne, texte) {
+    if (texte =! "") {
+        return `<div>
+                    <h4>${colonne}</h4>
+                    <p>${texte}</p>
+                </div>`;
+    }
+    return "";
+}
 
-// si on clique sur un bouton on affiche les stages correspondants
-if (button) {
-    button.forEach(b => {
+if (buttonFilieres) {
+    buttonFilieres.forEach(b => {
         b.addEventListener('click', function () {
             document.querySelector('.stage').innerHTML = "";
             chargeElement(b.id);
@@ -34,7 +33,7 @@ if (button) {
 
 
 function chargeElement(type_filiere) {
-    fetch('ingenib2023entreprises.csv')
+    fetch('entreprises2024.csv')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Erreur lors du chargement du fichier CSV');
@@ -48,33 +47,45 @@ function chargeElement(type_filiere) {
                     const data = results.data;
                     const stageDiv = document.querySelector('.stage');
                     data.forEach((row, index) => {
-                        if (type_filiere == "tout" || row['Filière'] == type_filiere || row['Filière'] == "Toutes filières") {
+                        if (type_filiere == "tout" || row[type_filiere] == "TRUE") {
 
                             const colDiv = document.createElement('div');
                             colDiv.className = 'col-md-4 col-sm-6';
+
                             const thumbnailDiv = document.createElement('div');
                             thumbnailDiv.className = 'thumbnail';
+
                             const captionDiv = document.createElement('div');
                             captionDiv.className = 'caption';
+
                             const h3 = document.createElement('h3');
-                            h3.textContent = row['Nom de l\'entreprise'];
-                            const p = document.createElement('p');
-                            row['Domaine de compétences'] == "" ? p.textContent = "Domaine de compétences : Non précisé" : p.textContent = "Domaine de compétences : " + row['Domaine de compétences'];
-                            p.textContent += "\n";
-                            row['Stages Proposés'] == "" ? p.textContent += "Stages Proposés : Non précisé" : p.textContent += "Stages Proposés : " + row['Stages Proposés'];
+                            h3.textContent = row['Entreprises'];
+
+                            const lienSite = document.createElement('a');
+                            lienSite.href = row['Site'];
+                            lienSite.textContent = "Site Web";
+                            lienSite.target = "_blank";
+                            lienSite.style = "margin-right: 10px; color: white; background-color: #337ab7; padding: 5px; border-radius: 5px;";
+
+                            const contenu = document.createElement('div');
+                            contenu.style = "display: flex; flex-direction: column; width: 100%;";
+                            
+                            colonnes.forEach(c => {
+                                contenu.innerHTML += getDivWithInfo(c, row[c]);
+                            });
+                            
                             const filiere = document.createElement('div');
-                            if (row['Filière'] != "Toutes filières") {
-                                filiere.innerHTML = getFiliere(row['Filière']);
-                            } else {
-                                filières.forEach(f => {
+                            filieres.forEach(f => {
+                                if (row[f] == "TRUE") {
                                     filiere.innerHTML += getFiliere(f);
-                                });
-                            }
+                                }
+                            });
 
 
                             captionDiv.appendChild(h3);
-                            captionDiv.appendChild(p);
                             captionDiv.appendChild(filiere);
+                            captionDiv.appendChild(contenu);
+                            
                             thumbnailDiv.appendChild(captionDiv);
                             colDiv.appendChild(thumbnailDiv);
                             stageDiv.appendChild(colDiv);
