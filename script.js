@@ -50,7 +50,6 @@ function chargeElement(type_filiere) {
 
                             const colDiv = document.createElement('div');
                             colDiv.className = 'col-md-4 col-sm-6';
-                            colDiv.id = row['Entreprises'];
 
                             const thumbnailDiv = document.createElement('div');
                             thumbnailDiv.className = 'thumbnail';
@@ -105,7 +104,9 @@ function chargeElement(type_filiere) {
 
                             captionDiv.appendChild(h3);
                             captionDiv.appendChild(filiere);
-                            captionDiv.appendChild(lienSite);
+                            if (row['Site'] != ""){
+                                captionDiv.appendChild(lienSite);
+                            }
                             captionDiv.appendChild(buttonVoirPlus);
                             captionDiv.appendChild(contenu);
                             
