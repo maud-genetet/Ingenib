@@ -1,5 +1,5 @@
 const filieres = ["E", "M", "T", "I", "RSI", "SEE", "IHS", "ER", "F"];
-const couleursFilieres = ["#337ab7", "#ff2929", "#e8c243", "#006600", "#ff66cc", "#9933ff", "#88ff75", "#eda13e", "#200766"];
+const couleursFilieres = ["#337ab7", "#ff2929", "#e8c243", "#006600", "#9933ff", "#ff66cc", "#88ff75", "#eda13e", "#200766"];
 const iconFilieres = ["fa-microchip", "fa-area-chart", "fa-wifi", "fa-laptop", "fa-sitemap", "fa-code-fork", "fa-universal-access", "fa-eye", "fa-users"];
 const buttonFilieres = document.querySelectorAll('.btn');
 const btnVoirPlus = document.querySelectorAll('.btn-voir-plus');
