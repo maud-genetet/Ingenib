@@ -28,20 +28,6 @@ buttonFilieres.forEach(b => {
     });
 });
 
-btnVoirPlus.forEach(b => {
-    b.addEventListener('click', function () {
-        console.log(b.id);
-        const contenu = document.getElementById("contenu_" + b.id.split("_")[1]);
-        if (contenu.style.display == "none") {
-            contenu.style.display = "flex";
-            b.textContent = "Voir moins";
-        } else {
-            contenu.style.display = "none";
-            b.textContent = "Voir plus";
-        }
-    });
-});
-
 
 function chargeElement(type_filiere) {
     fetch('entreprises2024.csv')
@@ -57,7 +43,7 @@ function chargeElement(type_filiere) {
                 complete: function (results) {
                     const data = results.data;
                     const stageDiv = document.querySelector('.stage');
-                    data.forEach((row) => {
+                    data.forEach((row, index) => {
                         if (type_filiere == "tout" || row[type_filiere] == "TRUE") {
 
                             const colDiv = document.createElement('div');
@@ -75,35 +61,35 @@ function chargeElement(type_filiere) {
 
                             const contenu = document.createElement('div');
                             contenu.style = "display: none; flex-direction: column; width: 100%;";
-                            contenu.id = "contenu_" + row['Entreprises'];
-                            
+                            contenu.id = "contenu_" + index;
+
                             contenu.innerHTML += getDivWithInfo("Présentation", row["Presentation"]);
                             contenu.innerHTML += getDivWithInfo("Métiers", row["Metiers"]);
                             contenu.innerHTML += getDivWithInfo("Profils", row["Profils"]);
                             contenu.innerHTML += getDivWithInfo("Offres", row["Offres"]);
                             contenu.innerHTML += getDivWithInfo("Evolutions", row["Evolutions"]);
-                            
+
                             const filiere = document.createElement('div');
+                            if (row['Site'] != "") {
+                                const lienSite = document.createElement('a');
+                                lienSite.href = row['Site'];
+                                lienSite.textContent = "Site Web";
+                                lienSite.target = "_blank";
+                                lienSite.style = "margin: 10px; margin-left: 0px; color: white; background-color: rgb(139 198 62); padding: 5px; border-radius: 5px;";
+                                filiere.appendChild(lienSite);
+                            }
                             filiere.style = "margin: 5px; display: flex; flex-direction: row; align-items: center;";
                             filieres.forEach(f => {
                                 if (row[f] == "TRUE") {
                                     filiere.innerHTML += getFiliere(f);
                                 }
                             });
-                            if (row['Site'] != ""){
-                                const lienSite = document.createElement('a');
-                                lienSite.href = row['Site'];
-                                lienSite.textContent = "Site Web";
-                                lienSite.target = "_blank";
-                                lienSite.style = "margin: 10px; color: white; background-color: rgb(139 198 62); padding: 5px; border-radius: 5px;";
-                                filiere.appendChild(lienSite);
-                            }
 
 
                             captionDiv.appendChild(h3);
                             captionDiv.appendChild(filiere);
-                            
-                            
+
+
                             captionDiv.innerHTML += getDivWithInfo("Secteurs", row["Secteurs"]);
                             captionDiv.appendChild(contenu);
                             if (contenu.innerHTML != "") {
@@ -111,8 +97,20 @@ function chargeElement(type_filiere) {
                                 buttonVoirPlus.className = 'btn-voir-plus';
                                 buttonVoirPlus.textContent = "Voir plus";
                                 buttonVoirPlus.style = "margin: 10px;";
-                                buttonVoirPlus.id = "btn_" + row['Entreprises'];
+                                buttonVoirPlus.id = "btn_" + index;
                                 captionDiv.appendChild(buttonVoirPlus);
+
+                                buttonVoirPlus.addEventListener('click', function () {
+                                    const contenu = document.querySelector("#contenu_" + index);
+                                    if (contenu.style.display == "none") {
+                                        contenu.style.display = "flex";
+                                        buttonVoirPlus.textContent = "Voir moins";
+                                    } else {
+                                        contenu.style.display = "none";
+                                        buttonVoirPlus.textContent = "Voir plus";
+                                    }
+                                }
+                                );
                             }
                             thumbnailDiv.appendChild(captionDiv);
                             colDiv.appendChild(thumbnailDiv);
