@@ -64,11 +64,11 @@ function chargeElement(type_filiere) {
                             contenu.style = "display: none; flex-direction: column; width: 100%;";
                             contenu.id = "contenu_" + index;
 
-                            contenu.innerHTML += getDivWithInfo("Présentation", row["Presentation"]);
-                            contenu.innerHTML += getDivWithInfo("Métiers", row["Metiers"]);
-                            contenu.innerHTML += getDivWithInfo("Profils", row["Profils"]);
-                            contenu.innerHTML += getDivWithInfo("Offres", row["Offres"]);
-                            contenu.innerHTML += getDivWithInfo("Evolutions", row["Evolutions"]);
+                            contenu.innerHTML += getDivWithInfo("Présentation de l'entreprise", row["Presentation"]);
+                            contenu.innerHTML += getDivWithInfo("Métiers des jeunes diplomés", row["Metiers"]);
+                            contenu.innerHTML += getDivWithInfo("Description des profils recherchés", row["Profils"]);
+                            contenu.innerHTML += getDivWithInfo("Offres de stages", row["Offres"]);
+                            contenu.innerHTML += getDivWithInfo("Perspectives d'évolution au sein de l'entreprise", row["Evolutions"]);
 
                             const filiere = document.createElement('div');
                             if (row['Site'] != "") {
