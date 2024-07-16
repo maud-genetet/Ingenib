@@ -39,6 +39,7 @@ btnVoirPlus.forEach(b => {
             b.textContent = "Voir plus";
         }
     });
+});
 
 
 function chargeElement(type_filiere) {
