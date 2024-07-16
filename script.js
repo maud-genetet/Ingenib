@@ -30,6 +30,7 @@ buttonFilieres.forEach(b => {
 
 btnVoirPlus.forEach(b => {
     b.addEventListener('click', function () {
+        console.log(b.id);
         const contenu = document.getElementById("contenu_" + b.id.split("_")[1]);
         if (contenu.style.display == "none") {
             contenu.style.display = "flex";
@@ -76,7 +77,6 @@ function chargeElement(type_filiere) {
                             contenu.style = "display: none; flex-direction: column; width: 100%;";
                             contenu.id = "contenu_" + row['Entreprises'];
                             
-                            contenu.innerHTML += getDivWithInfo("Secteurs", row["Secteurs"]);
                             contenu.innerHTML += getDivWithInfo("Présentation", row["Presentation"]);
                             contenu.innerHTML += getDivWithInfo("Métiers", row["Metiers"]);
                             contenu.innerHTML += getDivWithInfo("Profils", row["Profils"]);
@@ -109,6 +109,7 @@ function chargeElement(type_filiere) {
                                 captionDiv.appendChild(lienSite);
                             }
                             captionDiv.appendChild(buttonVoirPlus);
+                            captionDiv.innerHTML += getDivWithInfo("Secteurs", row["Secteurs"]);
                             captionDiv.appendChild(contenu);
                             
                             thumbnailDiv.appendChild(captionDiv);
