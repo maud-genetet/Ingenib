@@ -1,5 +1,4 @@
 const filieres = ["E", "M", "T", "I", "RSI", "SEE", "IHS", "ER", "F"];
-const colonnes = ["Secteurs", "Presentation", "Metiers", "Profils", "Offres", "Evolutions"];
 const couleursFilieres = ["#337ab7", "#ff2929", "#e8c243", "#006600", "#ff66cc", "#9933ff", "#88ff75", "#eda13e", "#200766"];
 const iconFilieres = ["fa-microchip", "fa-area-chart", "fa-wifi", "fa-laptop", "fa-sitemap", "fa-code-fork", "fa-universal-access", "fa-eye", "fa-users"];
 const buttonFilieres = document.querySelectorAll('.btn');
@@ -70,9 +69,12 @@ function chargeElement(type_filiere) {
                             const contenu = document.createElement('div');
                             contenu.style = "display: flex; flex-direction: column; width: 100%;";
                             
-                            colonnes.forEach(c => {
-                                contenu.innerHTML += getDivWithInfo(c, row[c]);
-                            });
+                            contenu.innerHTML += getDivWithInfo("Secteurs", row["Secteurs"]);
+                            contenu.innerHTML += getDivWithInfo("Présentation", row["Presentation"]);
+                            contenu.innerHTML += getDivWithInfo("Métiers", row["Metiers"]);
+                            contenu.innerHTML += getDivWithInfo("Profils", row["Profils"]);
+                            contenu.innerHTML += getDivWithInfo("Offres", row["Offres"]);
+                            contenu.innerHTML += getDivWithInfo("Evolutions", row["Evolutions"]);
                             
                             const filiere = document.createElement('div');
                             filieres.forEach(f => {
@@ -84,6 +86,7 @@ function chargeElement(type_filiere) {
 
                             captionDiv.appendChild(h3);
                             captionDiv.appendChild(filiere);
+                            captionDiv.appendChild(lienSite);
                             captionDiv.appendChild(contenu);
                             
                             thumbnailDiv.appendChild(captionDiv);
