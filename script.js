@@ -59,12 +59,13 @@ function chargeElement(type_filiere) {
 
                             const h3 = document.createElement('h3');
                             h3.textContent = row['Entreprises'];
+                            h3.style = "margin: 5px;";
 
                             const lienSite = document.createElement('a');
                             lienSite.href = row['Site'];
                             lienSite.textContent = "Site Web";
                             lienSite.target = "_blank";
-                            lienSite.style = "margin-right: 10px; color: white; background-color: #337ab7; padding: 5px; border-radius: 5px;";
+                            lienSite.style = "margin-right: 10px; color: white; background-color: rgb(139 198 62); padding: 5px; border-radius: 5px;";
 
                             const contenu = document.createElement('div');
                             contenu.style = "display: flex; flex-direction: column; width: 100%;";
@@ -77,6 +78,7 @@ function chargeElement(type_filiere) {
                             contenu.innerHTML += getDivWithInfo("Evolutions", row["Evolutions"]);
                             
                             const filiere = document.createElement('div');
+                            filiere.style = "margin-bottom: 5px;";
                             filieres.forEach(f => {
                                 if (row[f] == "TRUE") {
                                     filiere.innerHTML += getFiliere(f);
