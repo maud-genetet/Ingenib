@@ -98,6 +98,7 @@ function chargeElement(type_filiere) {
                                 buttonVoirPlus.className = 'btn-voir-plus';
                                 buttonVoirPlus.textContent = "Voir plus";
                                 buttonVoirPlus.id = "btn_" + index;
+                                buttonVoirPlus.style = "margin-top: 5px;";
                                 captionDiv.appendChild(buttonVoirPlus);
 
                                 buttonVoirPlus.addEventListener('click', function () {
