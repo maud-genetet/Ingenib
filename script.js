@@ -54,6 +54,7 @@ function chargeElement(type_filiere) {
 
                             const captionDiv = document.createElement('div');
                             captionDiv.className = 'caption';
+                            captionDiv.style = "margin-bottom: 5px;";
 
                             const h3 = document.createElement('h3');
                             h3.textContent = row['Entreprises'];
