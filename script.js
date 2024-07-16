@@ -102,6 +102,9 @@ function chargeElement(type_filiere) {
                                 lienSite.style = "margin: 10px; color: white; background-color: rgb(139 198 62); padding: 5px; border-radius: 5px;";
                                 captionDiv.appendChild(lienSite);
                             }
+                            
+                            captionDiv.innerHTML += getDivWithInfo("Secteurs", row["Secteurs"]);
+                            captionDiv.appendChild(contenu);
                             if (contenu.innerHTML != "") {
                                 const buttonVoirPlus = document.createElement('button');
                                 buttonVoirPlus.className = 'btn-voir-plus';
@@ -110,9 +113,6 @@ function chargeElement(type_filiere) {
                                 buttonVoirPlus.id = "btn_" + row['Entreprises'];
                                 captionDiv.appendChild(buttonVoirPlus);
                             }
-                            captionDiv.innerHTML += getDivWithInfo("Secteurs", row["Secteurs"]);
-                            captionDiv.appendChild(contenu);
-                            
                             thumbnailDiv.appendChild(captionDiv);
                             colDiv.appendChild(thumbnailDiv);
                             stageDiv.appendChild(colDiv);
