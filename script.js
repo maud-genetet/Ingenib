@@ -72,6 +72,14 @@ function chargeElement(type_filiere) {
                             const h3 = document.createElement('h3');
                             h3.textContent = row['Entreprises'];
                             h3.style = "margin: 5px;";
+                            if (row['Site'] != ""){
+                                const lienSite = document.createElement('a');
+                                lienSite.href = row['Site'];
+                                lienSite.textContent = "Site Web";
+                                lienSite.target = "_blank";
+                                lienSite.style = "margin: 10px; color: white; background-color: rgb(139 198 62); padding: 5px; border-radius: 5px;";
+                                h3.appendChild(lienSite);
+                            }
 
                             const contenu = document.createElement('div');
                             contenu.style = "display: none; flex-direction: column; width: 100%;";
@@ -94,14 +102,7 @@ function chargeElement(type_filiere) {
 
                             captionDiv.appendChild(h3);
                             captionDiv.appendChild(filiere);
-                            if (row['Site'] != ""){
-                                const lienSite = document.createElement('a');
-                                lienSite.href = row['Site'];
-                                lienSite.textContent = "Site Web";
-                                lienSite.target = "_blank";
-                                lienSite.style = "margin: 10px; color: white; background-color: rgb(139 198 62); padding: 5px; border-radius: 5px;";
-                                captionDiv.appendChild(lienSite);
-                            }
+                            
                             
                             captionDiv.innerHTML += getDivWithInfo("Secteurs", row["Secteurs"]);
                             captionDiv.appendChild(contenu);
