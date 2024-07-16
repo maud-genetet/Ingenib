@@ -61,7 +61,6 @@ function chargeElement(type_filiere) {
                         if (type_filiere == "tout" || row[type_filiere] == "TRUE") {
 
                             const colDiv = document.createElement('div');
-                            colDiv.className = 'col-md-4 col-sm-6';
 
                             const thumbnailDiv = document.createElement('div');
                             thumbnailDiv.className = 'thumbnail';
