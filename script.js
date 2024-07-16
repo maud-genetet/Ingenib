@@ -78,7 +78,7 @@ function chargeElement(type_filiere) {
                                 lienSite.style = "margin: 10px; margin-left: 0px; color: white; background-color: rgb(139 198 62); padding: 5px; border-radius: 5px;";
                                 filiere.appendChild(lienSite);
                             }
-                            filiere.style = "margin: 5px; display: flex; flex-direction: row; align-items: center;";
+                            filiere.style = "display: flex; flex-direction: row; align-items: center;";
                             filieres.forEach(f => {
                                 if (row[f] == "TRUE") {
                                     filiere.innerHTML += getFiliere(f);
@@ -96,7 +96,6 @@ function chargeElement(type_filiere) {
                                 const buttonVoirPlus = document.createElement('button');
                                 buttonVoirPlus.className = 'btn-voir-plus';
                                 buttonVoirPlus.textContent = "Voir plus";
-                                buttonVoirPlus.style = "margin: 10px;";
                                 buttonVoirPlus.id = "btn_" + index;
                                 captionDiv.appendChild(buttonVoirPlus);
 
