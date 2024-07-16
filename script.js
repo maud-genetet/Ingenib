@@ -45,11 +45,12 @@ function chargeElement(type_filiere) {
                 complete: function (results) {
                     const data = results.data;
                     const stageDiv = document.querySelector('.stage');
-                    data.forEach((row, index) => {
+                    data.forEach((row) => {
                         if (type_filiere == "tout" || row[type_filiere] == "TRUE") {
 
                             const colDiv = document.createElement('div');
                             colDiv.className = 'col-md-4 col-sm-6';
+                            colDiv.id = row['Entreprises'];
 
                             const thumbnailDiv = document.createElement('div');
                             thumbnailDiv.className = 'thumbnail';
@@ -61,14 +62,17 @@ function chargeElement(type_filiere) {
                             h3.textContent = row['Entreprises'];
                             h3.style = "margin: 5px;";
 
-                            const lienSite = document.createElement('a');
-                            lienSite.href = row['Site'];
-                            lienSite.textContent = "Site Web";
-                            lienSite.target = "_blank";
-                            lienSite.style = "margin-right: 10px; color: white; background-color: rgb(139 198 62); padding: 5px; border-radius: 5px;";
+                            if (row['Site'] != "") {
+                                const lienSite = document.createElement('a');
+                                lienSite.href = row['Site'];
+                                lienSite.textContent = "Site Web";
+                                lienSite.target = "_blank";
+                                lienSite.style = "margin: 10px; color: white; background-color: rgb(139 198 62); padding: 5px; border-radius: 5px;";
+                            }
 
                             const contenu = document.createElement('div');
                             contenu.style = "display: flex; flex-direction: column; width: 100%;";
+                            contenu.id = "contenu_" + row['Entreprises'];
                             
                             contenu.innerHTML += getDivWithInfo("Secteurs", row["Secteurs"]);
                             contenu.innerHTML += getDivWithInfo("Présentation", row["Presentation"]);
@@ -76,9 +80,22 @@ function chargeElement(type_filiere) {
                             contenu.innerHTML += getDivWithInfo("Profils", row["Profils"]);
                             contenu.innerHTML += getDivWithInfo("Offres", row["Offres"]);
                             contenu.innerHTML += getDivWithInfo("Evolutions", row["Evolutions"]);
+
+                            const buttonVoirPlus = document.createElement('button');
+                            buttonVoirPlus.className = "btn btn-primary";
+                            buttonVoirPlus.textContent = "Voir plus";
+                            buttonVoirPlus.style = "margin: 10px;";
+                            buttonVoirPlus.addEventListener('click', function () {
+                                const contenu = document.getElementById("contenu_" + row['Entreprises']);
+                                if (contenu.style.display == "none") {
+                                    contenu.style.display = "flex";
+                                } else {
+                                    contenu.style.display = "none";
+                                }
+                            });
                             
                             const filiere = document.createElement('div');
-                            filiere.style = "margin-bottom: 5px;";
+                            filiere.style = "margin: 5px;";
                             filieres.forEach(f => {
                                 if (row[f] == "TRUE") {
                                     filiere.innerHTML += getFiliere(f);
@@ -89,6 +106,7 @@ function chargeElement(type_filiere) {
                             captionDiv.appendChild(h3);
                             captionDiv.appendChild(filiere);
                             captionDiv.appendChild(lienSite);
+                            captionDiv.appendChild(buttonVoirPlus);
                             captionDiv.appendChild(contenu);
                             
                             thumbnailDiv.appendChild(captionDiv);
