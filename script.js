@@ -82,12 +82,6 @@ function chargeElement(type_filiere) {
                             contenu.innerHTML += getDivWithInfo("Profils", row["Profils"]);
                             contenu.innerHTML += getDivWithInfo("Offres", row["Offres"]);
                             contenu.innerHTML += getDivWithInfo("Evolutions", row["Evolutions"]);
-
-                            const buttonVoirPlus = document.createElement('button');
-                            buttonVoirPlus.className = 'btn-voir-plus';
-                            buttonVoirPlus.textContent = "Voir plus";
-                            buttonVoirPlus.style = "margin: 10px;";
-                            buttonVoirPlus.id = "btn_" + row['Entreprises'];
                             
                             const filiere = document.createElement('div');
                             filiere.style = "margin: 5px;";
@@ -108,7 +102,14 @@ function chargeElement(type_filiere) {
                                 lienSite.style = "margin: 10px; color: white; background-color: rgb(139 198 62); padding: 5px; border-radius: 5px;";
                                 captionDiv.appendChild(lienSite);
                             }
-                            captionDiv.appendChild(buttonVoirPlus);
+                            if (contenu.innerHTML != "") {
+                                const buttonVoirPlus = document.createElement('button');
+                                buttonVoirPlus.className = 'btn-voir-plus';
+                                buttonVoirPlus.textContent = "Voir plus";
+                                buttonVoirPlus.style = "margin: 10px;";
+                                buttonVoirPlus.id = "btn_" + row['Entreprises'];
+                                captionDiv.appendChild(buttonVoirPlus);
+                            }
                             captionDiv.innerHTML += getDivWithInfo("Secteurs", row["Secteurs"]);
                             captionDiv.appendChild(contenu);
                             
