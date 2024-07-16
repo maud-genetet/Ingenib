@@ -84,7 +84,7 @@ function chargeElement(type_filiere) {
                             contenu.innerHTML += getDivWithInfo("Evolutions", row["Evolutions"]);
                             
                             const filiere = document.createElement('div');
-                            filiere.style = "margin: 5px; display: flex; flex-direction: row; justify-content: center;";
+                            filiere.style = "margin: 5px; display: flex; flex-direction: row; align-items: center;";
                             filieres.forEach(f => {
                                 if (row[f] == "TRUE") {
                                     filiere.innerHTML += getFiliere(f);
