@@ -82,6 +82,14 @@
       background-color: #200766;
     }
 
+    .filiere-container {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
     .footer-divider {
       margin: 30px 0;
       border-top: 1px solid #ddd;
@@ -89,14 +97,6 @@
 
     .text-center small {
       font-size: 0.85em;
-    }
-
-    .filieres {
-      display: flex;
-      flex-direction: row;
-      align-items: center;
-      justify-content: center;
-      flex-wrap: wrap;
     }
   </style>
 
@@ -141,7 +141,7 @@
       <h1 class="text-center row-title">Trouvez votre stage avec Ingénib</h1>
       <hr class="row-title-hr row-title-hr-company">
       <h2 class="text-center">Choisissez votre filière</h2>
-      <div class="filieres">
+      <div class="filiere-container">
         <button id="tout" class="btn btn-filiere">Tout</button>
         <button id="I" class="btn btn-filiere btn-filiere-informatique">Informatique</button>
         <button id="E" class="btn btn-filiere btn-filiere-electronique">Électronique</button>
@@ -197,10 +197,8 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
     integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
     crossorigin="anonymous"></script>
-
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
   <script src="script.js"></script>
-
 </body>
 
 </html>
