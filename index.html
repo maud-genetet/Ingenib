@@ -46,6 +46,11 @@
       color: white;
     }
 
+    .btn-filiere:hover {
+      opacity: 0.8;
+      color: white;
+    }
+
     .btn-filiere-informatique {
       background-color: #006600;
     }
@@ -82,6 +87,10 @@
       background-color: #200766;
     }
 
+    .btn-filiere-tout {
+      background-color: #333;
+    }
+
     .filiere-container {
       display: flex;
       flex-direction: row;
@@ -97,6 +106,10 @@
 
     .text-center small {
       font-size: 0.85em;
+    }
+
+    .navbar-ingenib {
+      position: sticky;
     }
   </style>
 
@@ -139,10 +152,10 @@
   <div class="container container-ingenib">
     <div class="row featurette">
       <h1 class="text-center row-title">Trouvez votre stage avec Ingénib</h1>
-      <hr class="row-title-hr row-title-hr-company">
+      <hr>
       <h2 class="text-center">Choisissez votre filière</h2>
       <div class="filiere-container">
-        <button id="tout" class="btn btn-filiere">Tout</button>
+        <button id="tout" class="btn btn-filiere btn-filiere-tout">Tout</button>
         <button id="I" class="btn btn-filiere btn-filiere-informatique">Informatique</button>
         <button id="E" class="btn btn-filiere btn-filiere-electronique">Électronique</button>
         <button id="T" class="btn btn-filiere btn-filiere-telecom">Télécommunications</button>
@@ -153,7 +166,7 @@
         <button id="ER" class="btn btn-filiere btn-filiere-ergo">Ergonomie</button>
         <button id="F" class="btn btn-filiere btn-filiere-facteur">Facteur humain</button>
       </div>
-      <hr class="row-title-hr row-title-hr-company">
+      <hr>
       <div class="stage"></div>
     </div>
   </div>
