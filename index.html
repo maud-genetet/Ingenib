@@ -4,8 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   <!-- CSRF Token -->
   <meta name="csrf-token" content="M8eZcADFs5sXRux1riBnDUjuezbpfFwmlRcLjreQ">
 
@@ -13,40 +12,20 @@
     content="Le forum INGENIB est un évènement annuel majeur pour les élèves-ingénieurs de l'ENSEIRB-MATMECA et de l'ENSC, les deux écoles organisatrices de cette manifestation.">
   <link href="img/logo.png" rel="shortcut icon">
 
-  <title>Forum Ingenib - Espace Stages
-  </title>
+  <title>Forum Ingenib - Espace Stages</title>
 
   <!-- Styles -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
     integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
-  <!-- <link media="all" type="text/css" rel="stylesheet" href="https://www.ingenib.fr/css/bootstrap.min.css"> -->
-  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-  <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
-  <!-- <link media="all" type="text/css" rel="stylesheet" href="https://www.ingenib.fr/css/PT+Sans.css"> -->
-  <!-- Custom styles for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Muli|Anton|PT+Sans" rel="stylesheet">
   <link media="all" type="text/css" rel="stylesheet" href="https://www.ingenib.fr/css/ingenib.css">
   <link rel="stylesheet" src="assets/style.css">
 
   <!-- Scripts -->
-
   <script src="https://use.fontawesome.com/10e10ba2a2.js"></script>
-
-
-
-
 </head>
-<!-- NAVBAR
-================================================== -->
 
 <body>
-
   <nav class="navbar navbar-default navbar-fixed-top navbar-ingenib">
     <div class="container">
       <div class="navbar-header">
@@ -62,18 +41,13 @@
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-left">
-
-          <li><a href="https://www.ingenib.fr/evenement" class="navbar-menu-ingenib navbar-menu-event ">L'événement</a>
+          <li><a href="https://www.ingenib.fr/evenement" class="navbar-menu-ingenib navbar-menu-event">L'événement</a>
           </li>
-
-
-          <li><a href="https://www.ingenib.fr/companies" class="navbar-menu-ingenib navbar-menu-company ">Espace
+          <li><a href="https://www.ingenib.fr/companies" class="navbar-menu-ingenib navbar-menu-company">Espace
               entreprises</a></li>
-          <li><a href="https://www.ingenib.fr/students" class="navbar-menu-ingenib navbar-menu-student ">Espace
+          <li><a href="https://www.ingenib.fr/students" class="navbar-menu-ingenib navbar-menu-student">Espace
               étudiants</a></li>
-
         </ul>
-
         <ul class="nav navbar-nav navbar-right">
           <li><a href="https://www.ingenib.fr/login" class="navbar-menu-login btn-connec">Se connecter</a></li>
         </ul>
@@ -81,48 +55,34 @@
     </div>
   </nav>
 
-  <div class="visible-xs" style="margin-top:80px;"></div>
+  <div class="visible-xs spacer-xs"></div>
 
   <div class="container container-ingenib">
-
     <div class="row featurette">
-      <h1 class="text-center row-title ">Trouvez votre stage avec Ingénib</h1>
+      <h1 class="text-center row-title">Trouvez votre stage avec Ingénib</h1>
       <hr class="row-title-hr row-title-hr-company">
-      <h2 class="text-center">Choisisez votre filière</h2>
+      <h2 class="text-center">Choisissez votre filière</h2>
       <div style="display:flex; flex-direction: row; align-items: center; justify-content: center; flex-wrap: wrap;">
-        <button id="tout" class="btn" style="margin: 10px;">Tout</button>
-        <button id="I" class="btn"
-          style="margin: 10px; background-color: #006600; color: white;">Informatique</button>
-        <button id="E" class="btn"
-          style="margin: 10px; background-color: #337ab7; color: white;">Électronique</button>
-        <button id="T" class="btn"
-          style="margin: 10px; background-color: #e8c243; color: white;">Télécommunications</button>
-        <button id="M" class="btn" style="margin: 10px; background-color: #ff2929; color: white;">Matmeca</button>
-        <button id="RSI" class="btn" style="margin: 10px; background-color: #9933ff; color: white;">RSI</button>
-        <button id="SEE" class="btn" style="margin: 10px; background-color: #ff66cc; color: white;">SEE</button>
-        <button id="IHS" class="btn" style="margin: 10px; background-color: #88ff75; color: white;">I.H.S</button>
-        <button id="ER" class="btn"
-          style="margin: 10px; background-color: #eda13e; color: white;">Ergonomie</button>
-        <button id="F" class="btn" style="margin: 10px; background-color: #200766; color: white;">Facteur
-          humain</button>
+        <button id="tout" class="btn btn-filiere">Tout</button>
+        <button id="I" class="btn btn-filiere btn-filiere-informatique">Informatique</button>
+        <button id="E" class="btn btn-filiere btn-filiere-electronique">Électronique</button>
+        <button id="T" class="btn btn-filiere btn-filiere-telecom">Télécommunications</button>
+        <button id="M" class="btn btn-filiere btn-filiere-matmeca">Matmeca</button>
+        <button id="RSI" class="btn btn-filiere btn-filiere-rsi">RSI</button>
+        <button id="SEE" class="btn btn-filiere btn-filiere-see">SEE</button>
+        <button id="IHS" class="btn btn-filiere btn-filiere-ihs">I.H.S</button>
+        <button id="ER" class="btn btn-filiere btn-filiere-ergo">Ergonomie</button>
+        <button id="F" class="btn btn-filiere btn-filiere-facteur">Facteur humain</button>
       </div>
-
-
       <hr class="row-title-hr row-title-hr-company">
       <div class="stage"></div>
-
     </div>
   </div>
-
-  </div>
-
-
-
 
   <footer class="footer1">
     <div class="container">
       <hr class="featurette-divider footer-divider">
-      <div class="row"><!-- row -->
+      <div class="row">
         <div class="col-sm-4">
           <address>
             <strong>ENSEIRB-MATMECA</strong><br>
@@ -139,7 +99,6 @@
         </div>
         <div class="col-sm-4">
         </div>
-
       </div>
       <div class="row">
         <p class="text-center small">
@@ -149,25 +108,18 @@
         </p>
       </div>
     </div>
-
   </footer>
 
-
-  <!-- Bootstrap core JavaScript
-    ================================================== -->
+  <!-- Bootstrap core JavaScript -->
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
   <!-- <script src="https://www.ingenib.fr/js/jquery.min.js"></script> -->
   <!-- <script src="https://www.ingenib.fr/js/bootstrap.min.js"></script> -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
-    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-    crossorigin="anonymous"></script>
-
+    integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
   <script src="script.js"></script>
-
-
 
 </body>
 
