@@ -82,6 +82,7 @@ function chargeElement(type_filiere) {
                             captionDiv.appendChild(h3);
                             captionDiv.appendChild(filiere);
                             captionDiv.innerHTML += getDivWithInfo("Secteurs", row["Secteurs"]);
+                            captionDiv.innerHTML += getDivWithInfo("Pays", row["Pays"]);
                             captionDiv.appendChild(contenu);
 
                             if (contenu.innerHTML) {
