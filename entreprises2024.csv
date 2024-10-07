@@ -1,6 +1,47 @@
-Entreprises,I,E,T,M,RSI,SEE,IHS,ER,F,Site,Pays,Secteurs,Presentation,Metiers,Profils,Offres,Evolutions
-Advans Group,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,"France, International","Ingénierie, Systèmes Embarqués, Industrie",,,,,
-AECE Group,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,https://www.aece-group.com/,France,"Aéronautique, Défense, Industrie","Les activités d'AECE Group - Aquitaine Électronique - s'étendent de l'étude à la réalisation en atelier en passant par la conception, l'industrialisation & l'intégration pour les secteurs de l’aéronautique, de la défense et également de l’industrie. 
+Entreprises,I,E,T,M,RSI,SEE,IHS,ER,F,Site,Pays,Secteurs,Presentation,Metiers,Profils,Offres,Evolutions,Aperçu
+Advans Group,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.advans-group.com/fr/,France,Ingénierie,"ELSYS Design rassemble une communauté de spécialistes en systèmes embarqués passionnés par leur métier et par les nouvelles technologies.
+
+Nous mettons en œuvre nos expertises et savoir-faire au service de nos clients (grands comptes, petites & moyennes entreprises et start-up) pour les aider à relever les défis liés à la conception des toutes dernières technologies électroniques et logicielles.
+
+Nous sommes implantés à Paris, Lille, Lyon, Grenoble, Sophia Antipolis, Aix en Provence, Toulouse, Rennes, Nantes, au Portugal, en Serbie et aux Etats-Unis. Consulter la carte de nos implantations.
+
+ELSYS Design est la branche spécialisée dans les systèmes embarqués d’ADVANS Group, qui réunit plusieurs autres sociétés expertes dans les domaines du logiciel et de la mécanique.","<p><strong>Domaines d’expertise</strong><br>
+ELSYS Design a constitué une équipe de spécialistes dans tous les métiers de la conception de systèmes électroniques et logiciels :</p>
+
+<ul><li>Architecture hardware et software de cartes et calculateurs</li>
+        <li>Electronique de puissance, analogique</li>
+        <li>Conception et vérification d’ASIC, de FPGA et de circuits intégrés</li>
+        <li>Développement de logiciel embarqué temps réel</li>
+        <li>Banc de test, intégration, validation, test, industrialisation</li>
+</ul>","<p>Nous recrutons tout au long de l’année des ingénieurs électroniciens ou informaticiens mêlant potentiel technique, passion et savoir-être:</p>
+
+<ul><li>Ingénieur conception FPGA / IP </li>
+        <li>Conception ASIC / SOC</li>
+        <li>Verificiation de circuits intégrés numériques</li>
+        <li>Conception de cartes électroniques</li>
+        <li>Développement dlogiciel bas nivea</li>
+        <li>Conception mécanique.</li>
+</ul>","<p>Au programme chez ELSYS Design : mise en pratique et approfondissement des connaissances théoriques, découverte de nouveaux langages et outils, le tout encadré par un ingénieur expérimenté.</p>
+
+<p>Ces stages / alternances s’adressent principalement à des étudiants en 5ème année d’école ou d’université car il s’agit d’opportunités de type pré-embauche: si tout s’est bien passé, nous vous proposerons de rester avec nous pour votre premier emploi !</p>
+
+<p>Nous proposons des stages / alternances dans les principales spécialités d’ELSYS Design :</p>
+
+<ul><li>Logiciel embarqué</li>
+        <li>FPGA / SoC</li>
+        <li>Vérification UVM</li>
+        <li>Carte électronique</li>
+        <li>Système embarqué</li>
+        <li>Ingénierie d'affaires</li>
+</ul>","<p>Après votre stage ou votre alternance, si tout s’est bien passé, nous vous proposerons de poursuivre l’aventure avec nous afin de participer à la conception de systèmes complexes toujours plus performants.</p>",
+Advens,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.advens.fr/,France,Cybersécurité,"Advens est un leader français, indépendant et souverain en matière de Cybersécurité. Nous sommes présents partout en France, en Europe, et au Québec !
+ Notre mission est de protéger 24 heures sur 24, 365 jours par an, des organisations publiques et privées qui dépendent toujours plus du numérique et qui exposent toujours plus leurs ressources, face à des attaquants toujours plus professionnels. 
+
+Cette mission nous guide et nous anime au quotidien. Mais elle ne nous suffit pas. Notre performance financière nous permet de soutenir et d’accélérer des projets à impact, au travers du fond de dotation « Advens for People And Planet ».
+
+Vous êtes passionnés par la cybersécurité et vous recherchez une opportunité ?
+Nous proposons des stages et des alternances allant du plus fonctionnel au plus technique. Nous aurons forcément une mission à vous proposer !",<p>Consultant GRC - Architecte Sécurité - Auditeur / Pentester - Analyste SOC - Intégrateur</p>,,,,
+AECE Group,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,https://www.aece-group.com/,France,"Aéronautique,Défense,Industrie","Les activités d'AECE Group - Aquitaine Électronique - s'étendent de l'étude à la réalisation en atelier en passant par la conception, l'industrialisation & l'intégration pour les secteurs de l’aéronautique, de la défense et également de l’industrie. 
 
 ✈️ Notre force ?  
 
@@ -26,12 +67,20 @@ Pour embarquer dans l’aventure Aquitaine Électronique, retrouvez nos offres d
 
 <p>- Electronique embarqués</p>
 
-<p>- Automatisme et Info Indus</p>",
-AFD.Tech part of Accenture,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.afd.tech/,"France, Belgique, Maroc","Conseil informatique, Télécoms, Cybersécurité","AFD.TECH part of Accenture est une société de conseil et d’ingénierie spécialisée dans les télécommunications et la transformation digitale des grandes entreprises. Partenaire des grands défis tech & data, nos experts accompagnent nos clients dans des projets complexes et ambitieux. Pour construire le monde de demain. Nos équipes d’experts et de spécialistes accompagnent nos clients grands comptes dans les secteurs de la banque, des télécoms, du ferroviaire, des énergies et de la grande distribution.","<ul><li>Applicatif: développeur full stack, data analyst, testeur</li>
+<p>- Automatisme et Info Indus</p>",,"<p>Offres courament disponibles :</p>
+
+<p>- Electrotechnique</p>
+
+<p>- Electronique</p>
+
+<p>- Electronique embarqués</p>
+
+<p>- Automatisme et Info Indus</p>"
+AFD.Tech part of Accenture,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.afd.tech/,"France, Belgique, Maroc",Conseil informatique,"AFD.TECH part of Accenture est une société de conseil et d’ingénierie spécialisée dans les télécommunications et la transformation digitale des grandes entreprises. Partenaire des grands défis tech & data, nos experts accompagnent nos clients dans des projets complexes et ambitieux. Pour construire le monde de demain. Nos équipes d’experts et de spécialistes accompagnent nos clients grands comptes dans les secteurs de la banque, des télécoms, du ferroviaire, des énergies et de la grande distribution.","<ul><li>Applicatif: développeur full stack, data analyst, testeur</li>
         <li>Infrastructure: Ingénieur système, réseau, cloud, devops, cybersécurité</li>
         <li>Fonctionnel: Chef de projet, Product Owner, Scrum Master, Business Analyst, PMO</li>
-</ul>",<p>BAC+5 (Université ou école d'ingénieur)</p>,,
-Airbus Operations SAS,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.airbus.com/,"France, International","Aéronautique, Spatial, Défense","Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of €64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.","<p>You will join the ""Avionics Software"" department, within ""Avionics and Simulation products"" engineering domain. This organization is an in-house avionics equipment and simulators supplier. Engineers in this domain are responsible for the design, the development, the production and the support of critical embedded products (e.g. Flight Controls, Flight Warning, Communication, Maintenance equipment) for all Airbus aircrafts. This organization is also Chamber of Reference on Software and Electronics thanks to accomplished and experienced teams. The scope of activities also extends to other Airbus divisions and partners in some cases.<br>
+</ul>",<p>BAC+5 (Université ou école d'ingénieur)</p>,,,
+Airbus Operations SAS,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.airbus.com/,,,"Airbus is a global leader in aeronautics, space and related services. In 2018 it generated revenues of €64 billion and employed a workforce of around 134,000. Airbus offers the most comprehensive range of passenger airliners. Airbus is also a European leader providing tanker, combat, transport and mission aircraft, as well as one of the world's leading space companies. In helicopters, Airbus provides the most efficient civil and military rotorcraft solutions worldwide.","<p>You will join the ""Avionics Software"" department, within ""Avionics and Simulation products"" engineering domain. This organization is an in-house avionics equipment and simulators supplier. Engineers in this domain are responsible for the design, the development, the production and the support of critical embedded products (e.g. Flight Controls, Flight Warning, Communication, Maintenance equipment) for all Airbus aircrafts. This organization is also Chamber of Reference on Software and Electronics thanks to accomplished and experienced teams. The scope of activities also extends to other Airbus divisions and partners in some cases.<br>
 You will be in charge of developing the avionics real-time software, implementing all the steps of the development cycle process and the associated software engineering regarding methods and tools.<br>
 This job requires an awareness of any potential compliance risks, as the foundation for our success, reputation and sustainable growth.<br>
  </p>","<p>You will join a software team in charge of the development of the software components which are part of embedded avionics applications such as Flight Controls, to run on specific or modular hardware platforms.<br>
@@ -73,9 +122,70 @@ In an environment with industrial and certification constraints (DO178B and C, D
 
 <p>- Management </p>
 
-<p>And plenty of different jobs within Airbus .... </p>"
-Akkodis,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,"France, International","Ingénierie, Conseil, Technologies",,,,,
-Alten SA,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.alten.fr/carriere/jobs/,"France, International","Automobile, Transport, Aéronautique, Spatial, Énergie, Télécoms, Banque, Finance, Assurance","Depuis plus de 30 ans, avec près de 57 000 collaborateurs présents dans plus de 30 pays, le Groupe ALTEN s'impose comme un leader mondial de l’Ingénierie et de l’IT Services. 
+<p>And plenty of different jobs within Airbus .... </p>",
+Akkodis,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.akkodis.com/fr,France,"automotive, Transports, aérospatiale, défense, Energie, Banque, Finance, Assurance, logistique","Akkodis, est un acteur mondial de l'ingénierie et de l'IT et un leader dans la smart industrie.  Nous accompagnons nos clients dans leurs projets de transformation digitale via 4 lignes de service : Consulting, Solutions, Talent et Academy. Akkodis est un partenaire technologique de confiance pour ses clients à l'échelle internationale. Nous co-créons et nous imaginons des solutions de pointe pour répondre aux défis majeurs de notre société, qu'il s'agisse d'accélérer la transition énergétique et de développer la mobilité verte, ou encore de construire des approches centrées sur les utilisateurs.
+
+Dotés d'une forte culture de l'inclusion et de la diversité, nos 50 000 experts en IT et en ingénierie, présents dans 30 pays, allient les meilleures compétences technologiques à une connaissance transverse de toutes les industries pour façonner un futur plus durable. Nous sommes passionnés par l'idée d'inventer ensemble un avenir meilleur.
+
+Akkodis en France, ce sont près de 9.000 experts en IT et en ingénierie répartis sur l'ensemble du territoire, des collaborateurs partageant des valeurs fortes d'honnêteté, de respect, d'équité et d'inclusion. Notre engagement : leur permettre au quotidien d'être eux-mêmes au travail, et acteurs de leur vie et de leur développement au sein d'Akkodis.
+Akkodis est la marque technologique de The Adecco Group
+
+*Akkodis est une marque commerciale sous laquelle les entités AKKA et Modis opèrent","<p>- Développeur C++ QT (H/F)</p>
+
+<p>- Ingénieur systèmes aéronautique (H/F)</p>
+
+<p>- Développeur logiciel embarqué (H/F)</p>
+
+<p>- Administrateur systèmes et réseaux (H/F)</p>
+
+<p>- Ingénieur en électronique (H/F)</p>
+
+<p>- Développeur Angular (H/F)</p>
+
+<p>- Ingénieur IVV (H/F)</p>
+
+<p>- Développeur C# (H/F)</p>
+
+<p>- Ordonnanceur (H/F)</p>
+
+<p>- Ingénieur qualité logiciel (H/F)</p>
+
+<p>- Ingénieur méthodes (H/F)</p>
+
+<p>- Ingénieur Teststand (H/F)</p>
+
+<p>- Chef de projet (H/F) </p>","<p>- Développeur C++ QT (H/F)</p>
+
+<p>- Ingénieur systèmes aéronautique (H/F)</p>
+
+<p>- Développeur logiciel embarqué (H/F)</p>
+
+<p>- Administrateur systèmes et réseaux (H/F)</p>
+
+<p>- Ingénieur en électronique (H/F)</p>
+
+<p>- Développeur Angular (H/F)</p>
+
+<p>- Ingénieur IVV (H/F)</p>
+
+<p>- Développeur C# (H/F)</p>
+
+<p>- Ordonnanceur (H/F)</p>
+
+<p>- Ingénieur qualité logiciel (H/F)</p>
+
+<p>- Ingénieur méthodes (H/F)</p>
+
+<p>- Ingénieur Teststand (H/F)</p>
+
+<p>- Chef de projet (H/F) </p>",,"<p>- Devenir expert dans son domaine</p>
+
+<p>- Chef de projet</p>
+
+<p>- Business manager</p>
+
+<p>- Coordinateur...</p>",
+Alten SA,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.alten.fr/carriere/jobs/,France,"Automobile, Transport, Aéronautique,Spatial, Énergie, Télécoms, Banque, Finance, Assurance","Depuis plus de 30 ans, avec près de 57 000 collaborateurs présents dans plus de 30 pays, le Groupe ALTEN s'impose comme un leader mondial de l’Ingénierie et de l’IT Services. 
 
 Notre métier ? Accompagner la stratégie de développement de nos clients dans les domaines de l'innovation, de la R&D et des systèmes d’information.","<p>L'activité du Groupe ALTEN s'articule autour de deux métiers<strong><span style=""color:#000000;""> :</span></strong></p>
 
@@ -93,12 +203,18 @@ Plus concrètement, nous intervenons dans les secteurs de l'Aéronautique et du 
         <li>Ingénieur Electronique de Puissance</li>
         <li>Ingénieur Contrôle Commande</li>
         <li>Ingénieur Test et Validation</li>
-</ul>","<p>Nous garantissons à nos ingénieurs un haut niveau d'intervention et une dynamique d'évolution permanente au sein des filières de management et d'expertise technique. Impliqués dans des projets à forte valeur ajoutée, nos ingénieurs sont au contact de technologies de pointe et bénéficient de l'appui des Directions techniques pour l'enrichissement de leur savoir-faire.</p>"
-Apside,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,France,"ESN, Ingénierie, Conseil IT",,,,,
-ArianeGroup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,"France, Allemagne","Spatial, Défense, Aéronautique",,,,,
-Armée de Terre,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.sengager.fr,France,"Militaire, Défense terrestre","L'armée de Terre, c'est : 130 000 hommes et femmes, 16 000 postes à pourvoir dans plus de 100 spécialités !
-Sans diplôme ou détenteur d’un BAC +5, l’armée de Terre permet à 16 000 hommes et femmes d’allier action et responsabilité, de vivre une expérience humaine et professionnelle sans équivalent dans plus de 100 spécialités : maître-chien, météorologue, pilote de chars de combat, moniteur sportif, développeur informatique, analyste d’images, combattant des forces spéciales, maintenancier, pilote de drone, etc.",,,,
-Assystem France,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.assystem.com,"France, International","Nucléaire, Énergies renouvelables, Défense, Hydrogène, Réseaux électriques, Villes et développement territorial","Assystem, un des leaders mondiaux de l’ingénierie nucléaire indépendante, s’est fixé pour mission de contribuer à l’accélération de la transition énergétique. Assystem se considère comme une entreprise militante en faveur du développement de l’énergie nucléaire à travers le monde, convaincue que cette dernière est incontournable pour lutter contre le dérèglement climatique.
+</ul>","<p>Nous garantissons à nos ingénieurs un haut niveau d'intervention et une dynamique d'évolution permanente au sein des filières de management et d'expertise technique. Impliqués dans des projets à forte valeur ajoutée, nos ingénieurs sont au contact de technologies de pointe et bénéficient de l'appui des Directions techniques pour l'enrichissement de leur savoir-faire.</p>","<ul><li>Ingénieur Mécanique</li>
+        <li>Ingénieur Systèmes Electroniques PJA</li>
+        <li>Ingénieur Méthodes </li>
+        <li>Ingénieur Qualité Supply Chain</li>
+        <li>Ingénieur Electronique de Puissance</li>
+        <li>Ingénieur Contrôle Commande</li>
+        <li>Ingénieur Test et Validation</li>
+</ul>"
+ArianeGroup,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,https://ariane.group/,,,,,,,,
+Armée de Terre,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,https://www.sengager.fr,,,"L'armée de Terre, c'est : 130 000 hommes et femmes, 16 000 postes à pourvoir dans plus de 100 spécialités !
+Sans diplôme ou détenteur d’un BAC +5, l’armée de Terre permet à 16 000 hommes et femmes d’allier action et responsabilité, de vivre une expérience humaine et professionnelle sans équivalent dans plus de 100 spécialités : maître-chien, météorologue, pilote de chars de combat, moniteur sportif, développeur informatique, analyste d’images, combattant des forces spéciales, maintenancier, pilote de drone, etc.",,,,,
+Assystem France,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.assystem.com,"France, International","Nucléaire, énergies renouvelables, défense, Hydrogène, Réseaux électriques, Villes et développement territorial","Assystem, un des leaders mondiaux de l’ingénierie nucléaire indépendante, s’est fixé pour mission de contribuer à l’accélération de la transition énergétique. Assystem se considère comme une entreprise militante en faveur du développement de l’énergie nucléaire à travers le monde, convaincue que cette dernière est incontournable pour lutter contre le dérèglement climatique.
 
 Les 7 500 experts d'Assystem accompagnent la transition énergétique dans les 12 pays d’implantation du Groupe. Pour permettre un approvisionnement en énergie bas carbone à un coût abordable, Assystem s'engage dans le développement de l'électricité décarbonée (nucléaire, énergies renouvelables et réseaux électriques) et de l'hydrogène vert. Le Groupe contribue également à développer les usages de l'électricité bas-carbone dans des secteurs industriels tels que le transport.
 
@@ -134,8 +250,8 @@ Assystem est classé dans le top 3 des entreprises du secteur de l'énergie nucl
 
 <p>Afin de rendre la formation accessible à tous les collaborateurs, nous avons développé une plateforme de e-learning accessible dès votre arrivée chez Assystem, vous offrant un parcours de formation dédiée lors de votre onboarding dans le Groupe pour faciliter votre intégration. Elle permet à chacun de monter à bord et de rapidement détenir toutes les informations nécessaires pour sa prise de poste. </p>
 
-<p>La formation chez Assystem, c’est plus de 4800 salariés formés chaque année et 100 000 heures par année de parcours d’apprentissage variés.</p>"
-Astek Group,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.astekgroup.fr/,"France, International","Défense, Transport, Énergie, Life sciences, Finance, Government, Télécom, Média, Retail, Internet services","Créé en 1988, Astek est un groupe international de conseil en technologies et en transformation digitale présent dans 22 pays à travers le monde. 
+<p>La formation chez Assystem, c’est plus de 4800 salariés formés chaque année et 100 000 heures par année de parcours d’apprentissage variés.</p>","<p>Retrouvez toutes nos offres sur notre site internet dans l'espace carrière : <a href=""https://www.assystem.com/fr/carriere/"">https://www.assystem.com/fr/carriere/</a></p>"
+Astek Group,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.astekgroup.fr/,,"Défense, Transport, Energy, life sciences, Finance, government, Télécom, Média, Retail, internet services","Créé en 1988, Astek est un groupe international de conseil en technologies et en transformation digitale présent dans 22 pays à travers le monde. 
 
 Fort de notre expertise dans de nombreux secteurs industriels et tertiaires, le Groupe accompagne ses clients internationaux dans le déploiement intelligent de leurs produits et de leurs services, et dans la mise en œuvre de leur transformation digitale.  
 
@@ -167,8 +283,16 @@ Astek est en forte croissance. Après avoir atteint avec 2 ans d’avance notre 
 
 <p>Stage – 3 Stages – fin d’études / ingénieur – Ingénieur innovation Cybersécurité, blockchain – Paris, France (H/F)</p>
 
-<p>Retrouvez toutes nos offres sur :  <a href=""https://astekjob.fr/"">https://astekjob.fr/</a></p>","<p>Après un stage de fin d'étude, il est possible de vous embaucher en CDI pour votre premier emploi. </p>"
-AT Internet,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.piano.io/,"France, International","Analytics, Big Data, Digital marketing","AT Internet est un acteur mondialement reconnu et leader européen du Digital Analytics. La société édite Piano Analytics, une solution de mesure et d’analyse de l’audience web et mobile plébiscitée par les plus grandes marques internationales, dans tous les secteurs d’activité (médias, e-commerce, finance, institutionnel, etc).
+<p>Retrouvez toutes nos offres sur :  <a href=""https://astekjob.fr/"">https://astekjob.fr/</a></p>","<p>Après un stage de fin d'étude, il est possible de vous embaucher en CDI pour votre premier emploi. </p>","<p>Stage – 9 stages – fin d’études / ingénieur – Ingénieur innovation Architectures de calcul, Modélisation – Rennes, France (H/F)</p>
+
+<p>Stage – 6 stages – fin d’études / ingénieur – Ingénieur innovation Intelligence artificielle, science des données – Paris, France (H/F)</p>
+
+<p>Stage – Stage R&D – fin d’études / ingénieur – Ingénieur innovation Mécatronique – Paris, France (H/F)</p>
+
+<p>Stage – 3 Stages – fin d’études / ingénieur – Ingénieur innovation Cybersécurité, blockchain – Paris, France (H/F)</p>
+
+<p>Retrouvez toutes nos offres sur :  <a href=""https://astekjob.fr/"">https://astekjob.fr/</a></p>"
+AT Internet,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.piano.io/,,"Analytics, Big Data","AT Internet est un acteur mondialement reconnu et leader européen du Digital Analytics. La société édite Piano Analytics, une solution de mesure et d’analyse de l’audience web et mobile plébiscitée par les plus grandes marques internationales, dans tous les secteurs d’activité (médias, e-commerce, finance, institutionnel, etc).
 
 Notre mission est d’aider nos clients à améliorer leurs performances numériques, à maintenir l’engagement de leur audience et à doper leur croissance grâce des données fiables, éthiques et 100 % respectueuses de la vie privée.
 
@@ -190,8 +314,8 @@ Rejoignez-nous pour participer à cet ambitieux et excitant défi !","<p>Au cœu
 
 <p>N'hésitez pas à venir nous voir pour plus d'informations sur nos opportunités.</p>","<p>Au travers de ce stage, vous ne serez pas uniquement formé(e) au métier de votre équipe, mais aussi à toute la stack de développement technique d'AT Internet, vous permettant par la suite d'intégrer l'une des équipes du département.</p>
 
-<p>A plus long terme, les différents métiers et domaines d'expertise de nos équipes de développement donnent lieu à de nombreuses opportunités de mobilité interne tout au long de votre expérience chez AT Internet by Piano, vous permettant de relever de nombreux challenges techniques et découvrir de nouvelles équipes et métiers.</p>"
-Atos France,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.atos.net/fr/,"France, International","Informatique, Transformation digitale, Big Data, Cybersécurité","Le groupe Atos est un leader international de la transformation digitale avec 110 000 collaborateurs et un chiffre d’affaires annuel d’environ 11 milliards d’euros. Numéro un européen du cloud, de la cybersécurité et des supercalculateurs, le Groupe fournit des solutions intégrées pour tous les secteurs, dans 69 pays. Pionnier des services et produits de décarbonation, Atos s’engage à fournir des solutions numériques sécurisées et décarbonées à ses clients.
+<p>A plus long terme, les différents métiers et domaines d'expertise de nos équipes de développement donnent lieu à de nombreuses opportunités de mobilité interne tout au long de votre expérience chez AT Internet by Piano, vous permettant de relever de nombreux challenges techniques et découvrir de nouvelles équipes et métiers.</p>",<p>Nos offres de stages sont toutes tournées vers le développement informatique .
+Atos France,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.atos.net/fr/,,Informatique,"Le groupe Atos est un leader international de la transformation digitale avec 110 000 collaborateurs et un chiffre d’affaires annuel d’environ 11 milliards d’euros. Numéro un européen du cloud, de la cybersécurité et des supercalculateurs, le Groupe fournit des solutions intégrées pour tous les secteurs, dans 69 pays. Pionnier des services et produits de décarbonation, Atos s’engage à fournir des solutions numériques sécurisées et décarbonées à ses clients.
 
 Le groupe ouvre un nouveau chapitre avec la création de deux lignes d’activités adaptées aux spécificités de leurs marchés respectifs : Tech Foundations et Eviden.
 
@@ -205,11 +329,98 @@ Tech Foundations est la ligne de métier du groupe Atos leader dans les services
 
 
 
-<p>Nous considérons le stage et l’alternance comme un tremplin, une première expérience décisive qui vous ouvrira le champ des possibles. Nos stagiaires/alternants sont nos talents de demain !</p>"
-axYus,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,France,"ESN, Conseil IT",,,,,
-BeTomorrow,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,France,"Jeux vidéo, Technologie",,,,,
-Bordeaux Métropole,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.bordeaux-metropole.fr/,France,"Collectivité territoriale, Urbanisme, Transport, Développement durable",,,,,
-Capgemini,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.capgemini.com/fr-fr/carrieres/parcours-professionnels/etudiants-diplomes/stage-et-alternance/,50 pays,"Stratégie, Transformation, Technologie, Application, Ingénierie, Opération","Capgemini, partenaire de la transformation business et technologique de ses clients, les accompagne dans leur transition vers un monde plus digital et durable, tout en créant un impact positif pour la société. Le Groupe, responsable et multiculturel, rassemble 340 000 collaborateurs dans plus de 50 pays. Depuis plus de 55 ans, ses clients lui font confiance pour répondre à l’ensemble de leurs besoins grâce à la technologie. Capgemini propose des services et solutions de bout en bout, allant de la stratégie et du design jusqu’à l’ingénierie, en tirant parti de ses compétences de pointe en intelligence artificielle, en cloud, et en data, ainsi que de son expertise sectorielle et de son écosystème de partenaires. Le Groupe a réalisé un chiffre d’affaires de 22,5 milliards d’euros en 2023. Get the future you want* | www.capgemini.com","<ul><li>Ingénieur Cloud</li>
+<p>Nous considérons le stage et l’alternance comme un tremplin, une première expérience décisive qui vous ouvrira le champ des possibles. Nos stagiaires/alternants sont nos talents de demain !</p>",
+Axyus,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.axyus.com/,,Conseil en transformation digitale - Secteur public,"Depuis plus de 20 ans, axYus, entité du groupe Magellan Partners, contribue à la modernisation des services publics en outillant le lien entre agents et citoyens et répond ainsi aux besoins uniques des acteurs Métier, de leurs clients ou de leurs usagers.
+
+Alliant à la fois expertise technologique, excellence opérationnelle et profonde connaissance de la culture et des processus métiers du secteur, axYus intervient dans toutes les étapes du développement de vos projets numériques durables.
+
+
+𝐍𝐨𝐬 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞𝐬
+
+→ Transformer vos idées en solutions numériques sécurisées pour répondre aux besoins métiers et aux exigences de vos agents et des usagers.
+→ Piloter les grands chantiers de la transformation numérique de l’administration et des réformes du secteur public.
+→ Bâtir des solutions pour faciliter l’accès à l’administration, diminuer la fracture numérique et rapprocher les citoyens de leurs services publics.
+→ Moderniser les services publics en tirant profit des technologies nouvelles des Clouds souverains et des approches agiles.
+
+
+𝐍𝐨𝐭𝐫𝐞 𝐜𝐨𝐧𝐯𝐢𝐜𝐭𝐢𝐨𝐧
+
+Placer l’innovation au service du secteur public. Nous contribuons au changement en bâtissant une approche sur-mesure, basée sur votre réalité, de l’idéation à la réalisation en assurant la conformité, l’évolution et la maintenance de l’ensemble de vos applications et outils.
+
+
+𝐑𝐞𝐣𝐨𝐢𝐧𝐝𝐫𝐞 𝐚𝐱𝐘𝐮𝐬
+
+En intégrant nos équipes, vos embarquez pour une aventure humaine et professionnelle où chacun peut écrire son histoire. En travaillant à nos côtés, vous vous investissez auprès des agents du secteur public, autour de projets d’envergure au service de la Société.
+
+Le saviez-vous ? Le Groupe Magellan Partners est classé 3ème Best Workplace en France en 2024 et labellisé Great Place To Work®!
+
+
+𝐍𝐨𝐬 𝐯𝐚𝐥𝐞𝐮𝐫𝐬
+
+→ Proximité client
+→ Excellence opérationnelle
+→ Intelligence collective
+→ Diversité & Responsabilité
+→ Innovation","<p>📈 Soyez acteur/actrice de la <a href=""https://www.linkedin.com/feed/hashtag/?keywords=transformationaugment%C3%A9e&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7234122940278042624"">#transformationaugmentée</a> chez <a href=""https://www.linkedin.com/company/axyus/"">axYus</a> et le groupe <a href=""https://www.linkedin.com/company/magellan-partners-think-create-digitize/"">Magellan Partners</a> et devenez notre futur ""Consultant Augmenté"" ?<br><br>
+4 points clés à retenir sur le ""Consultant Augmenté"":<br>
+1️⃣ C’est un expert technique et métier,<br>
+2️⃣ C’est un pionnier tourné vers le futur,<br>
+3️⃣ C’est un collaborateur avec une conscience durable,<br>
+4️⃣ C’est l’avenir du métier de Consultants.<br><br>
+Pour plus d'infos sur la <a href=""https://www.linkedin.com/posts/sixtine-descamps-68863b12_horizon2030-transformationaugmentaeze-consultantaugmentaez-activity-7201950112133050369-907t?utm_source=share&utm_medium=member_desktop"">transformation augmentée</a></p>","<p>Nous n'attendons plus que vous, rejoignez nous :<br><br>
+👉 Développeur JAVA Junior F/H à Bordeaux :  <a href=""https://lnkd.in/gyKACbMR"">https://lnkd.in/gyKACbMR</a><br>
+👉 Développeur JAVA Junior F/H à Paris  : <a href=""https://lnkd.in/gWKPMP4f"">https://lnkd.in/gWKPMP4f</a></p>","<p><strong>Sujet 1 : Green IT en Pratique : Mesurer et Réduire l’Impact Environnemental de nos développements logiciels et de nos infrastructures cloud</strong></p>
+
+<p>L'objectif principal de ce stage est de comprendre et d'analyser l'impact environnemental de nos développements logiciels et nos infrastructures, et de proposer des solutions pertinentes et pratiques pour réduire cet impact tout en maintenant la performance et l'efficacité des systèmes d'information.​</p>
+
+<p><strong>Sujet 2 : Conception et mise en œuvre d’un tableau de bord interactif pour le suivi des indicateurs de performance digitaux</strong></p>
+
+<p>L’objectif de ce stage est de concevoir et de mettre en œuvre un tableau de bord interactif pour le suivi des indicateurs de performance digitaux, permettant aux équipes de visualiser et d’analyser facilement les données clés liées à leurs activités numériques.​</p>
+
+<p><strong>Sujet 3 :  Maintenance, Production et Évolution des Applications Web du CNOUS</strong></p>
+
+<p>L'objectif de ce stage est d'apporter un soutien actif à l’équipe en charge de ces applications, notamment en participant à leur maintenance, à leur évolution technologique, et à l'amélioration de la qualité du code, dans un environnement technique basé sur Java, MariaDB, SQL Server, API SOAP & REST1.​</p>","<p>Intégrer axYus, c’est bénéficier :  </p>
+
+<p> </p>
+
+<ul><li>
+        <p>D’une véritable matinée d’intégration RH qui vous permettra d’avoir une vision 360° sur les expertises digitales du groupe Magellan, </p>
+        </li>
+</ul>
+
+<ul><li>
+        <p>D’un “kick off” opérationnel efficace vous permettant d’être autonome sur votre projet, </p>
+        </li>
+</ul>
+
+<ul><li>
+        <p>D’un réel accompagnement de proximité par des managers à l’écoute et des référents carrières disponibles, </p>
+        </li>
+</ul>
+
+<ul><li>
+        <p>D’une montée en compétences tout au long de votre carrière avec des formations et certifications – Agilité, Expertises techniques, Expertises fonctionnelles et Eco Conception, </p>
+        </li>
+</ul>
+
+<ul><li>
+        <p>D’une ambiance de travail bienveillante et conviviale respectant votre équilibre Vie perso/Vie pro. – 2 à 3 jours de télétravail par semaine.  </p>
+        </li>
+        <li>
+        <p>D'un cadre de travail labelisé ""Great place to work 2024""</p>
+        </li>
+</ul>",
+Betclic,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://betclicgroup.com/,France,Jeux en ligne,"Betclic est l'entreprise tech de paris sportifs en ligne avec la croissance la plus rapide en Europe. Sa mission est de faire grandir la passion du sport en offrant l'expérience de pari la plus divertissante dans un environnement de jeu sécurisé et responsable grâce à des technologies de pointe.  
+
+Aux côtés des clubs, ligues et des fédérations sportives, Betclic contribue au dynamisme économique du secteur du sport.
+
+Betclic, dont le siège français est à Bordeaux, est une entreprise multiculturelle et internationale comptant plus de 1050 collaborateurs répartis dans 6 pays d’Europe : France, Italie, Malte, Pologne, Portugal et Côte d'Ivoire.","<p><a href=""https://www.welcometothejungle.com/fr/companies/betclic/jobs"">https://www.welcometothejungle.com/fr/companies/betclic/jobs</a></p>","<p><a href=""https://www.welcometothejungle.com/fr/companies/betclic/jobs"">https://www.welcometothejungle.com/fr/companies/betclic/jobs</a></p>",<p>Besoin en stage en cours de recensement au sein de équipes Tech</p>,"<p><a href=""https://www.welcometothejungle.com/fr/companies/betclic"">https://www.welcometothejungle.com/fr/companies/betclic</a></p>",
+Bordeaux Métropole,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,https://www.bordeaux-metropole.fr/,,,,,,,,
+Bouygues Telecom,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,https://bouyguestelecom-recrute.talent-soft.com/accueil.aspx?LCID=1036,France,Télécommunication,"Bouygues Telecom est un opérateur télécom de référence présent sur le marché depuis plus de 25 ans. Notre expertise, c’est le déploiement et la gestion des réseaux, qu’il soit fixe ou mobile et nos équipes se mobilisent au quotidien pour apporter à l’ensemble de nos clients particuliers et professionnels, les dernières générations de produits et services. Notre ambition repose sur trois piliers stratégiques fondamentaux que nous essayons de renforcer année après année : la qualité, la compétitivité et l’engagement humain.",,,"<p>Plus de 400 opportunités de stage et alternance vous attendent au sein de nos équipes et dans tous nos métiers : télécom, réseaux, SI, innovation, commerce, marketing, digital, relation client… et plus encore.<br>
+L’expérience qui vous attend ? Du challenge, de l’autonomie, des responsabilités, des missions variées… et un réel boost pour votre trajectoire professionnelle !</p>
+
+<p>Alors, vous commencez quand ?</p>",<p>66% de nos postes jeunes diplômés on été pourvus par d'anciens stagiaires et alternants ! </p>,
+Capgemini,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.capgemini.com/fr-fr/carrieres/parcours-professionnels/etudiants-diplomes/stage-et-alternance/,50 pays,"Stratégie, Transformation, Technologie, Application, ingénierie, Opération","Capgemini, partenaire de la transformation business et technologique de ses clients, les accompagne dans leur transition vers un monde plus digital et durable, tout en créant un impact positif pour la société. Le Groupe, responsable et multiculturel, rassemble 340 000 collaborateurs dans plus de 50 pays. Depuis plus de 55 ans, ses clients lui font confiance pour répondre à l’ensemble de leurs besoins grâce à la technologie. Capgemini propose des services et solutions de bout en bout, allant de la stratégie et du design jusqu’à l’ingénierie, en tirant parti de ses compétences de pointe en intelligence artificielle, en cloud, et en data, ainsi que de son expertise sectorielle et de son écosystème de partenaires. Le Groupe a réalisé un chiffre d’affaires de 22,5 milliards d’euros en 2023. Get the future you want* | www.capgemini.com","<ul><li>Ingénieur Cloud</li>
         <li>Développeur, Consultant technique, UX Designer</li>
         <li>Ingénieur qualité logicielle, Ingénieur qualité logicielle automaticien, Ingénieur qualité logicielle charge & performance</li>
         <li>Consultant en stratégie transformation et innovation digitale, Consultant fonctionnel</li>
@@ -230,13 +441,21 @@ Capgemini,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.capgemini
 
 <p>Stage – développeur Java/Python Bordeaux </p>
 
-<p>Stage – Devops Pau</p>","<p>Chez Capgemini, on t’écoute, on te challenge, et surtout on te fait confiance. Tes missions seront multi-secteurs, multi-technologies et à forte responsabilité. Entre deux missions chez le client, tu peux profiter de conférences (startups, éditeurs, experts), de formations en présentiel ou en ligne, d’un accès libre à des plateformes (Coursera, Pluralsight…) ou rejoindre l’un de nos clubs associatifs (sport, musique, tech…) ou nos incubateurs de projets. Et après chaque mission, tu fais le point avec ton RH, ton manager et ton carrière manager. Parcours d’accélération, certifications, formations à de nouveaux métiers… On te donne les clés, à toi de construire ta carrière à ton rythme.</p>"
-Cdiscount,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.emploi.cdiscount.com/,France,E-commerce,"Cdiscount, c'est le pari fou d'une startup ecommerce lancée en 1998 à Bordeaux.
-En plus de 25 ans, Cdiscount a contribué à faire entrer le digital dans le quotidien des foyers français, faisant de lui un acteur incontournable du numérique. Aujourd'hui Cdiscount a fait évoluer son modèle vers une plateforme B2C et B2B avec les filiales C-Logistics, Octopia, et Peaksys.",,,,
-CEA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.cea.fr,France,"Recherche, Innovation, Énergie, Défense","Le CEA est un acteur majeur de la recherche, au service de l’État, de l’économie et des citoyens et citoyennes. Il apporte des solutions concrètes à leurs besoins dans quatre domaines principaux : transition énergétique, transition numérique, technologies pour la médecine du futur, défense et sécurité. Réunissant 20 000 collaborateurs et collaboratrices et implanté au cœur des territoires sur 9 centres équipés de très grandes infrastructures de recherche, le CEA bénéficie d’un large éventail de partenaires académiques et industriels en France, en Europe et à l’international.
+<p>Stage – Devops Pau</p>","<p>Chez Capgemini, on t’écoute, on te challenge, et surtout on te fait confiance. Tes missions seront multi-secteurs, multi-technologies et à forte responsabilité. Entre deux missions chez le client, tu peux profiter de conférences (startups, éditeurs, experts), de formations en présentiel ou en ligne, d’un accès libre à des plateformes (Coursera, Pluralsight…) ou rejoindre l’un de nos clubs associatifs (sport, musique, tech…) ou nos incubateurs de projets. Et après chaque mission, tu fais le point avec ton RH, ton manager et ton carrière manager. Parcours d’accélération, certifications, formations à de nouveaux métiers… On te donne les clés, à toi de construire ta carrière à ton rythme.</p>","<p>Stage – développeur Java Bordeaux </p>
+
+<p>Stage – QA engineer Bordeaux</p>
+
+<p>Stage – développeur Java/Python Pau </p>
+
+<p>Stage – développeur Java/Python Bordeaux </p>
+
+<p>Stage – Devops Pau</p>"
+Cdiscount,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,https://www.emploi.cdiscount.com/,,,"Cdiscount, c'est le pari fou d'une startup ecommerce lancée en 1998 à Bordeaux.
+En plus de 25 ans, Cdiscount a contribué à faire entrer le digital dans le quotidien des foyers français, faisant de lui un acteur incontournable du numérique. Aujourd'hui Cdiscount a fait évoluer son modèle vers une plateforme B2C et B2B avec les filiales C-Logistics, Octopia, et Peaksys.",,,,,
+CEA,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,https://www.cea.fr,,,"Le CEA est un acteur majeur de la recherche, au service de l’État, de l’économie et des citoyens et citoyennes. Il apporte des solutions concrètes à leurs besoins dans quatre domaines principaux : transition énergétique, transition numérique, technologies pour la médecine du futur, défense et sécurité. Réunissant 20 000 collaborateurs et collaboratrices et implanté au cœur des territoires sur 9 centres équipés de très grandes infrastructures de recherche, le CEA bénéficie d’un large éventail de partenaires académiques et industriels en France, en Europe et à l’international.
 Le CESTA, à proximité de Bordeaux, est un des 5 centres de recherche et de développement technologique de la Direction des Applications Militaires  (4600 salariés) du CEA. Le Cesta rassemble 1100 salariés sur un site de 700 hectares au cœur de la Nouvelle Aquitaine, au sud de la Gironde, entre Bordeaux et Arcachon.
-Le CESTA assure la conception d’ensemble des têtes nucléaires de la force de dissuasion française à partir de méthodes d’ingénierie collaborative intégrée. Le CESTA est également responsable de la démonstration de fiabilité, de sûreté et de performance (tenue aux environnements, furtivité, rentrée atmosphérique), dans une démarche de simulation. Ce triptyque « modélisation/calculs/essais » s’appuie sur des modélisations physiques de haut niveau, des calculateurs parmi les plus puissants au monde et un parc exceptionnel de moyens d’essais. Le CESTA dispose de la plus grande installation laser d’Europe, LMJ/PETAL (Laser MégaJoule/PETawatt Aquitaine Laser), instrument de recherche unique qui permet d’étudier la matière dans des conditions extrêmes de température et de pression, représentatives du fonctionnement des armes nucléaires et du cœur des étoiles. Pour cela, le CESTA accueille une expertise reconnue mondialement, en conception laser, en technologie des composants optiques, en informatique industrielle…",,,,
-CGI,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.cgi.com/france/fr-fr,"Canada, États-Unis, France, Espagne, Suisse, Maroc etc.","Informatique, Conseil","Chez CGI, nous sommes convaincus que l’innovation technologique permet aussi bien d’accélérer la transformation de la société et de son économie, que le développement de ses collaborateurs et collaboratrices.
+Le CESTA assure la conception d’ensemble des têtes nucléaires de la force de dissuasion française à partir de méthodes d’ingénierie collaborative intégrée. Le CESTA est également responsable de la démonstration de fiabilité, de sûreté et de performance (tenue aux environnements, furtivité, rentrée atmosphérique), dans une démarche de simulation. Ce triptyque « modélisation/calculs/essais » s’appuie sur des modélisations physiques de haut niveau, des calculateurs parmi les plus puissants au monde et un parc exceptionnel de moyens d’essais. Le CESTA dispose de la plus grande installation laser d’Europe, LMJ/PETAL (Laser MégaJoule/PETawatt Aquitaine Laser), instrument de recherche unique qui permet d’étudier la matière dans des conditions extrêmes de température et de pression, représentatives du fonctionnement des armes nucléaires et du cœur des étoiles. Pour cela, le CESTA accueille une expertise reconnue mondialement, en conception laser, en technologie des composants optiques, en informatique industrielle…",,,,,
+CGI,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.cgi.com/france/fr-fr,"Canada, États-Unis, France, Espagne, Suisse, Maroc etc","informatique, conseil","Chez CGI, nous sommes convaincus que l’innovation technologique permet aussi bien d’accélérer la transformation de la société et de son économie, que le développement de ses collaborateurs et collaboratrices.
 Notre mission, c’est donc d’accompagner les entreprises et les administrations au quotidien pour les rendre plus performantes. 
 Nos 90 000 experts dans le monde (14 000 en France) interviennent dans tous les secteurs d’activités via quatre métiers : business consulting, intégration de systèmes, business solutions, managed IT services.
 Votre mission, en rejoignant CGI, c’est être au cœur des enjeux des entreprises et vivre des missions passionnantes, où l’innovation et l’excellence opérationnelle sont constamment mises au service de nos clients. Développement, cybersécurité, big data, intelligence artificielle... Autant d'enjeux qui rythmeront votre quotidien.
@@ -257,8 +476,13 @@ Vous êtes unique et ça nous plaît !","<ul><li>Métiers du Conseil : conseil e
 
 <p>Expertises : cybersécurité, analyses des données, protection des données, IA, IoT, modernisation IT, supply chain…</p>
 
-<p>Tu souhaites réaliser des missions passionnantes et être au cœur des enjeux de nos clients ? Tu souhaites bénéficier d’un management de proximité reconnu, pour un meilleur partage des expériences et un accompagnement sur la durée ? Tu souhaites rejoindre une entreprise engagée pour l’intérêt général et l’inclusion ? Tu es bien chez CGI !</p>","<p>Vous êtes <span style=""color:#000000;"">accompagné(e)e par un management de proximité afin d’évoluer au sein de nos différentes entités et filières. Nous veillons à la qualité et à la pertinence des formations proposées, nous choisissons les meilleurs dispositifs d’évolution des savoir-faire et savoir-être au regard des situations de chacun. Qu’elles soient techniques, certifiantes, en accompagnement des prises de fonction, CGI propose un large éventail de formations pour développer les compétences de ses professionnels quel que soit le métier ou le niveau d'expérience.</span></p>"
-Cheops Technology,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,France,"Cloud computing, Cybersécurité, Services IT",,,,,
+<p>Tu souhaites réaliser des missions passionnantes et être au cœur des enjeux de nos clients ? Tu souhaites bénéficier d’un management de proximité reconnu, pour un meilleur partage des expériences et un accompagnement sur la durée ? Tu souhaites rejoindre une entreprise engagée pour l’intérêt général et l’inclusion ? Tu es bien chez CGI !</p>","<p>Vous êtes <span style=""color:#000000;"">accompagné(e)e par un management de proximité afin d’évoluer au sein de nos différentes entités et filières. Nous veillons à la qualité et à la pertinence des formations proposées, nous choisissons les meilleurs dispositifs d’évolution des savoir-faire et savoir-être au regard des situations de chacun. Qu’elles soient techniques, certifiantes, en accompagnement des prises de fonction, CGI propose un large éventail de formations pour développer les compétences de ses professionnels quel que soit le métier ou le niveau d'expérience.</span></p>","<ul><li>Métiers du Conseil : conseil en management, conseil en stratégie opérationnelle, conseil en transformation digitale et innovation...</li>
+        <li>Métiers Techniques : ingénierie des technologies de l'information, développement informatique, cybersécurité...</li>
+        <li>Métiers du Delivery : business analyst, assistance à maîtrise d'ouvrage...</li>
+</ul>
+
+<p>Expertises : cybersécurité, analyses des données, protection des données, IA, IoT, modernisation IT, supply chain…</p>"
+Cheops Technology,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.cheops-technology.ch/,,,,,,,,
 CNES,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.cnes.fr,France,Spatial,"Le Centre national d'études spatiales est un établissement public à caractère industriel et commercial chargé d’élaborer et de proposer au gouvernement français le programme spatial français, puis de le mettre en œuvre.
 Nos 4 priorités stratégiques sont :
 -        Renforcer notre autonomie stratégique
@@ -318,9 +542,9 @@ Nos 4 priorités stratégiques sont :
 
 <p>Le CNES s’est doté d’une Charte Mobilité qui vise à définir les principes et les modalités d’accompagnement de la mobilité professionnelle et géographique des collaborateurs.</p>
 
-<p> </p>"
-Continental Automotive France,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,"France, International","Automobile, Électronique, Mobilité",,,,,
-Credit Agricole Group Infrastructure Platform,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.ca-groupinfrastructureplatform.fr/,France,"Informatique, Services financiers","Crédit Agricole Group Infrastructure Platform (CA-GIP) regroupe 80% de la production informatique, des infrastructures et des plateformes technologiques du Groupe Credit Agricole. C’est une force de travail de plus de 4000 personnes dont 2000 collaborateurs répartis partout en France.
+<p> </p>","<p>Toutes nos offres sont mises en ligne régulièremen: <a href=""https://recrutement.cnes.fr/"">https://recrutement.cnes.fr/</a></p>"
+Continental Automotive France,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,https://www.continental.com/fr-fr/,,,,,,,,
+Credit Agricole Group Infrastructure Platform,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.ca-groupinfrastructureplatform.fr/,France,informatique,"Crédit Agricole Group Infrastructure Platform (CA-GIP) regroupe 80% de la production informatique, des infrastructures et des plateformes technologiques du Groupe Credit Agricole. C’est une force de travail de plus de 4000 personnes dont 2000 collaborateurs répartis partout en France.
 Véritable communauté d’experts engagés, l'entreprise anticipe les grandes évolutions technologiques pour mieux répondre aux enjeux liés à la transformation numérique et renforcer la position concurrentielle du Groupe.
 
 Ensemble, et pour les 53 millions de clients du groupe Crédit Agricole, ils mobilisent leurs expertises afin de développer des plateformes et services adaptés aux nouvelles pratiques du digital tout en maintenant un haut niveau de confidentialité, et de sécurité. 
@@ -331,17 +555,97 @@ Certifiée Top Employer, l'entreprise est reconnue comme étant un employeur de 
 
 <p>Administrateur SI/Data Analyst - ingénieur cybersécurité cryptographie - developpeur Backend - Chef de projet IT - Développeur power BI - Ingénieur développement outillage python - Ingénieur devops - Ingénieur infrastructure</p>","<p>Pour nos collaborateurs, travailler chez CA-GIP, c’est avoir un réel impact sur la vie quotidienne et ce, quel que soit leurs domaines d’expertise</p>
 
-<p>Nos collaborateurs évoluent au rythme des innovations technologiques. Nous les accompagnons en leur offrant une offre de formation dynamique et évolutive adaptée à leurs besoins. Quel que soit leur objectif, formation de perfectionnement ou acculturation, il est essentiel pour nous de garantir la montée en compétences de chacun. Chaque collaborateur, même les plus jeunes, peut alors évoluer à son rythme et s’épanouir dans son projet professionnel.</p>"
-Dassault Aviation,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,,France,"Aéronautique, Défense, Aviation d’affaires",,,,,
-Dassault Systèmes,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.3ds.com/fr/,"France, International","Editeur de logiciels 3D, PLM","Dassault Systèmes, l’entreprise de la 3DEXPERIENCE, est un « accélérateur de progrès humain ». La raison d’être de Dassault Systèmes est d’offrir aux entreprises et aux personnes des univers 3DEXPERIENCE leur permettant d’imaginer des innovations durables, capables d’harmoniser produit, nature et vie. 
+<p>Nos collaborateurs évoluent au rythme des innovations technologiques. Nous les accompagnons en leur offrant une offre de formation dynamique et évolutive adaptée à leurs besoins. Quel que soit leur objectif, formation de perfectionnement ou acculturation, il est essentiel pour nous de garantir la montée en compétences de chacun. Chaque collaborateur, même les plus jeunes, peut alors évoluer à son rythme et s’épanouir dans son projet professionnel.</p>","<p>CA-GIP recrute une trentaine de stagiaires sur des missions de :</p>
+
+<p>Administrateur SI/Data Analyst - ingénieur cybersécurité cryptographie - developpeur Backend - Chef de projet IT - Développeur power BI - Ingénieur développement outillage python - Ingénieur devops - Ingénieur infrastructure</p>"
+Dassault Aviation,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,https://www.dassault-aviation.com/fr/,,,"Partenaire majeur de la Défense nationale
+Concepteur et fabricant de l’avion de combat Rafale, capable d’assumer tous les types de missions, pour les armées de l’Air comme pour les forces aéronavales
+Concepteur du drone de combat nEUROn, réalisé en coopération européenne
+Concepteur et fabricant des Falcon, avions d’affaires reconnus pour leurs qualités de vol, leur souplesse d’emploi, leur faible consommation et leurs innovations
+Concepteur et fabricant de Falcon spéciaux pour des missions de surveillance maritime, de renseignement ou d’évacuation sanitaire
+Pivot d’un tissu industriel stratégique qui compte des centaines d’entreprises en France et à l’international
+Actionnaire industriel de référence du groupe Thales
+Détenteur de nombreuses technologies de souveraineté
+Précurseur du numérique, à l’origine de CATIA, logiciel 3D de conception-fabrication devenu standard mondial
+Créateur, en un siècle, d’une centaine de prototypes et de plus de 10 000 avions, vendus dans 90 pays","<p>Métiers de la production </p>
+
+<p>Métiers de la conception</p>",,"<p>Nos offres de stages sont disponibles sur notre site Carrière : <a href=""https://carriere.dassault-aviation.com/accueil.aspx?LCID=1036"">Dassault Aviation - Site d'offres d'emploi (dassault-aviation.com)</a></p>",,
+Dassault Systèmes,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.3ds.com/fr/,France,Editeur de logiciels 3D,"Dassault Systèmes, l’entreprise de la 3DEXPERIENCE, est un « accélérateur de progrès humain ». La raison d’être de Dassault Systèmes est d’offrir aux entreprises et aux personnes des univers 3DEXPERIENCE leur permettant d’imaginer des innovations durables, capables d’harmoniser produit, nature et vie. 
 En développant un jumeau virtuel du monde réel, grâce à la plateforme 3DEXPERIENCE et à ses applications, Dassault Systèmes donne à ses clients les moyens de repousser les limites de l'innovation, de l'apprentissage et de la production. 
 Les 23 800 collaborateurs de Dassault Systèmes travaillent à créer de la valeur pour nos 350 000 clients de toutes tailles, dans toutes les industries, dans plus de 140 pays. Pour plus d'informations, visitez notre site https://www.3ds.com/.","<p>Nous proposons des stages (d'une durée de 6 mois) et apprentissages (d'une durée d'1 à 3 ans) dans les équipes suivantes :</p>
 
 <p><strong>Information Technology :</strong> Pour soutenir nos collaborateurs, l'organisation IT/IS fournit des solutions techniques innovantes autour de la plateforme 3DEXPERIENCE sur le cloud et de nombreuses autres technologies utilisées par nos collaborateurs en interne.</p>
 
-<p><strong>Research & Development : </strong>Nous créons les solutions du futur pour aider nos clients à façonner le monde de demain, en fournissant aux entreprises et aux personnes des univers 3DEXPERIENCE pour imaginer des innovations durables capables d'harmoniser la nature, le produit et la vie. Software Engineer, Quality Engineer, User Success Engineer, Data Analyst and Scientist et Cloud Run Operator sont des rôles au cœur de l'organisation de la R&D.</p>",,"<p>N'hésitez pas à consulter notre site carrières <a href=""https://www.3ds.com/fr/careers/jobs"">https://www.3ds.com/fr/careers/jobs</a> afin de consulter toutes nos offres de stages et d'apprentissages.</p>",<p>L'objectif de Dassault Systèmes est de transformer le maximum de stagiaires et d'apprentis en fin d'études. Plusieurs évènements sont programmés tout au long de l'année pour accompagner nos étudiants et leur proposer des opportunités en interne.</p>
-Dedalus,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,"France, International","Santé, Logiciels médicaux",,,,,
-Dedomainia Group,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.dedomainia.com,"France, Royaume-Uni","Insurtech, Édition de logiciel pour des grands comptes internationaux","Le Groupe Dedomainia via sa filiale française Dataclics, est à la recherche de ses futurs talents.
+<p><strong>Research & Development : </strong>Nous créons les solutions du futur pour aider nos clients à façonner le monde de demain, en fournissant aux entreprises et aux personnes des univers 3DEXPERIENCE pour imaginer des innovations durables capables d'harmoniser la nature, le produit et la vie. Software Engineer, Quality Engineer, User Success Engineer, Data Analyst and Scientist et Cloud Run Operator sont des rôles au cœur de l'organisation de la R&D.</p>",,"<p>N'hésitez pas à consulter notre site carrières <a href=""https://www.3ds.com/fr/careers/jobs"">https://www.3ds.com/fr/careers/jobs</a> afin de consulter toutes nos offres de stages et d'apprentissages.</p>",<p>L'objectif de Dassault Systèmes est de transformer le maximum de stagiaires et d'apprentis en fin d'études. Plusieurs évènements sont programmés tout au long de l'année pour accompagner nos étudiants et leur proposer des opportunités en interne.</p>,"<p>N'hésitez pas à consulter notre site carrières <a href=""https://www.3ds.com/fr/careers/jobs"">https://www.3ds.com/fr/careers/jobs</a> afin de consulter toutes nos offres de stages et d'apprentissages.</p>"
+Dedalus,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,https://www.dedalus.com/fr/fr/,France,E-Santé,"Dedalus, premier fournisseur de logiciels de santé et de diagnostic en Europe, occupe une position de leader dans les principaux pays européens.
+
+Aujourd'hui, le groupe compte plus de 7800 collaborateur.trice.s, dont plus de 1200 en France répartis en agences sur tout le territoire, avec une impressionnante plateforme R&D de plus de 2700 personnes à travers le monde.
+
+Basées sur des standards ouverts, les solutions et services de Dedalus couvrent tous les aspects du parcours de santé avec des applications installées dans les secteurs hospitaliers, mais aussi dans les laboratoires d'analyse médicale, les EHPAD, les cabinets de radiologie.
+
+En France, c'est un portfolio de plus de 70 produits différents qui sont installés chez nos clients.","<p>Chez Dedalus, nos équipes R&D développent des solutions à la pointe de la technologie au travers de nouveaux produits, de l’évolution de ceux existants mais aussi de la création de modules additionnels. Intégrer notre service R&D, c’est rejoindre des équipes</p>
+
+<p>Nos Métiers : L'équipe se compose essentiellement de : Développeur(euse), Product Owner, Scrum Master, Country Product Management Specialist , Team Lead, Tech Lead, etc.</p>
+
+<p>Ce que nous recherchons: Nous recherchons des developpeur(euse)s fullstack dynamiques, motivé(e)s et capable de s'adapter à des équipes multiculturelles.</p>","<p><strong>Ce que vous accomplirez</strong></p>
+
+<p><strong> </strong>En tant que DEVELOPPEUR(EUSE) FULLSTACK…</p>
+
+<p> </p>
+
+<p><strong>Vous aurez la responsabilité de :</strong></p>
+
+<p><strong>Etude et conception</strong></p>
+
+<ul><li>Analyser les spécifications techniques et fonctionnelles</li>
+        <li>Contribuer au choix des technologies</li>
+        <li>Participer à la conception</li>
+        <li>Participer aux différentes cérémonies agiles SCRUM</li>
+</ul>
+
+<p><strong>Développement</strong></p>
+
+<ul><li>Réaliser les développements, conformément aux spécifications détaillées</li>
+        <li>Concevoir les modules destinés à des utilisateurs en établissement de santé</li>
+        <li>Proposer des pistes d’amélioration de nos procédures de développement</li>
+</ul>
+
+<p><strong>Tests et Maintenance </strong></p>
+
+<ul><li>Rédiger la documentation technique</li>
+        <li>Ecrire et réaliser les tests techniques</li>
+        <li>Corriger et maintenir les applications existantes</li>
+</ul>
+
+<p> </p>
+
+
+
+<p><strong>Exigences essentielles </strong></p>
+
+<p> </p>
+
+<ul><li>Expérience significative en gestion de projet de déploiement de logiciel de santé.</li>
+        <li>Maitrise des technologies web, des bases de données, des Webservice et de l’algorithme</li>
+        <li>Idéalement vous avez des bases en réseau</li>
+</ul>
+
+<p> </p>
+
+
+
+<p><strong>Exigences souhaitables </strong></p>
+
+
+
+<ul><li>Vous avez une bonne maitrise de la méthodologie Agile SCRUM et êtes reconnu pour votre travail en équipe</li>
+        <li>Vous avez déjà développer des interfaces graphiques et vous programmer de manière réactive et asynchrone</li>
+        <li>Vous avez une bonne compréhension Comprendre et écrire du SQL avancé</li>
+        <li>Travailler sur des applications à fort legacy</li>
+</ul>",<p>Nous n'avons pas d'offre de stage ouverts pour le moment.</p>,"<p>Dedalus encourage la mobilité interne pour permettre à ses collaborateurs d'explorer différents domaines de l'entreprise et d'acquérir de nouvelles compétences, ce qui peut ouvrir la voie à des opportunités de carrière passionnantes.</p>
+
+<p>La société est en constante croissance et elle est présente dans plusieurs pays, ce qui offre des opportunités de carrière à l'international.</p>",
+Dedomania Group,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.dedomainia.com,"France, Royaume-Uni","insurtech, édition de logiciel pour des grands comptes internationaux","Le Groupe Dedomainia via sa filiale française Dataclics, est à la recherche de ses futurs talents.
 
 Les opérations de longévité sont difficiles, nous les facilitons.
 
@@ -375,8 +679,18 @@ Influencez l’avenir du secteur de l’assurance, rejoignez l’équipe !","<p>
 
 <p>La communication est essentielle entre les équipes et les managers pour trouver les pistes et les perspectives qui vous intéressent : formation sur les outils pour apprendre ou se perfectionner ? améliorer son anglais ou sa communication avec ses collègues ? mieux accompagner les managers avec des formations dédiées ?</p>
 
-<p> </p>"
-DGSI,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.dgsi.interieur.gouv.fr/,France,"Renseignement, Sécurité intérieure","La Direction générale de la sécurité intérieure (DGSI) est l’unique service spécialisé de renseignement français.
+<p> </p>","<p>- data analyst / chargé(e) d'études actuarielles / Client owner</p>
+
+<p>- account mananger</p>
+
+<p>- PO/PM</p>
+
+<p>- développeur informatique</p>
+
+<p>- administrateur systèmes et réseaux</p>
+
+<p>- opérateur Cloud / SRE</p>"
+DGSI,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.dgsi.interieur.gouv.fr/,France,Renseignement,"La Direction générale de la sécurité intérieure (DGSI) est l’unique service spécialisé de renseignement français.
 
 La DGSI relève du ministère de l'Intérieur au sein de la Communauté nationale du renseignement (CNR).
 
@@ -398,8 +712,8 @@ Créée par décret le 30 avril 2014, la DGSI exerce une compétence générale 
 
 <p>- Réseaux & systèmes d'information</p>
 
-<p>- Systèmes élécrtoniques et embarqués</p>","<p>Nous proposons des offres de stages aux étudiants de dernière année dans une logique de recrutement. Les postes sont basés en région parisienne. Attention, le processus de recrutement pour les stages dure entre 4 et 6 mois car il comporte une enquête d'habilitation au Très Secret, permettant aux étudiants d'évoluer au sein des locaux et de travailler sur des projets concrets.</p>",<p>La DGSI favorise la mobilité en interne. Il vous est possible à la fin de votre premier contrat (2 ou 3 ans) de vous positionner sur d'autres postes sur des thématiques diverses. Il est également possible d'évoluer verticalement et de prendre des postes à responsabilités.</p>
-Diapason,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.mydiapason.com,France,"Banque, Finances, Trésorerie","A l’origine de Diapason, MCC Soft, un groupe spécialisé dans l’édition de solutions financières créé en 1990. Constituée d’anciens trésoriers d’entreprise, d’ingénieurs financiers et d’experts en génie logiciel, Diapason est depuis 10 ans spécialisée dans la gestion de trésorerie d’entreprise.
+<p>- Systèmes élécrtoniques et embarqués</p>","<p>Nous proposons des offres de stages aux étudiants de dernière année dans une logique de recrutement. Les postes sont basés en région parisienne. Attention, le processus de recrutement pour les stages dure entre 4 et 6 mois car il comporte une enquête d'habilitation au Très Secret, permettant aux étudiants d'évoluer au sein des locaux et de travailler sur des projets concrets.</p>",<p>La DGSI favorise la mobilité en interne. Il vous est possible à la fin de votre premier contrat (2 ou 3 ans) de vous positionner sur d'autres postes sur des thématiques diverses. Il est également possible d'évoluer verticalement et de prendre des postes à responsabilités.</p>,
+Diapason,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.mydiapason.com,France,"Banque,Finances,Trésorerie","A l’origine de Diapason, MCC Soft, un groupe spécialisé dans l’édition de solutions financières créé en 1990. Constituée d’anciens trésoriers d’entreprise, d’ingénieurs financiers et d’experts en génie logiciel, Diapason est depuis 10 ans spécialisée dans la gestion de trésorerie d’entreprise.
 
 Cette solide expérience acquise dans les domaines de la trésorerie, des paiements et des risques de marché, ainsi que dans les technologies de l’information bénéficie aujourd’hui aux clients de Diapason.
 
@@ -461,8 +775,8 @@ https://www.mydiapason.com/l-entreprise/","<p>Diapason, en tant qu'entreprise d'
         <li><strong>Mobilité interne</strong> : Possibilité de changer de poste ou de département pour acquérir une expérience diversifiée.</li>
         <li><strong>Projets innovants</strong> : Participation à des projets de recherche et développement pour créer des solutions de pointe dans le domaine de la trésorerie.</li>
         <li><strong>Environnement de travail dynamique</strong> : Un cadre de travail stimulant avec une culture d'entreprise axée sur la collaboration, l'innovation et le bien-être des employés.</li>
-</ul>"
-ECM,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.ecm-crit.com,France,"Ingénierie, Aéronautique, Défense","ECM est la filiale Ingénierie et Conseil en Technologies du groupe CRIT.
+</ul>","<p>Nous offrons actuellement deux stages pour des développeurs front-end, permettant aux étudiants de découvrir notre environnement de travail et d'acquérir une expérience précieuse.</p>"
+ECM,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,https://www.ecm-crit.com,,,"ECM est la filiale Ingénierie et Conseil en Technologies du groupe CRIT.
 
 Depuis 50 ans, ECM accompagne les majors des industries aéronautique, automobile, défense, navale, ferroviaire et énergie.
 
@@ -482,8 +796,52 @@ Nos collaborateurs sont les ambassadeurs de la raison d’être de notre entrepr
 
 <p>Ingénieur maintenance</p>
 
-<p>Ingénieur méthodes</p>",,,
-Exail,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.exail.com,France,"Robotique, Défense, Maritime, Aéronautique","Exail est un groupe industriel spécialisé dans les technologies de pointe dans les domaines de la robotique, du maritime, de la navigation, de l’aéronautique, du spatial et de la photonique.
+<p>Ingénieur méthodes</p>","<p>Ingénieur calcul</p>
+
+<p>Ingénieur conception</p>
+
+<p>Ingénieur avionique</p>
+
+<p>Ingénieur certification</p>
+
+<p>Ingénieur maintenance</p>
+
+<p>Ingénieur méthodes</p>",<p>Ingénieur calcul et conception</p>,"<p>Nous investissons dans la formation et le développement des compétences de nos employés en leur offrant des opportunités de perfectionnement professionnel. Des formations techniques pointues aux compétences en gestion et en leadership, nous encourageons nos collaborateurs à améliorer leurs connaissances et à élargir leur expertise et leurs responsabilités.</p>",
+EDF,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.edf.fr/,"France, les Pays du Moyen-Orient et les Emirats Arabes Unis",Energie,"EDF (Électricité de France) est l'un des leaders mondiaux de l'énergie, présent dans la production, le transport, la distribution et le commerce d'électricité. Avec plus de 165 000 collaborateurs à travers le monde, nous jouons un rôle clé dans la transition énergétique, en offrant des solutions innovantes et durables pour répondre aux défis climatiques.
+
+Nos Missions :
+EDF se concentre sur la production d’une énergie décarbonée, sûre et abordable. Notre mix énergétique repose principalement sur l'énergie nucléaire, l'hydraulique, ainsi que sur le développement d’énergies renouvelables (éolien, solaire, biomasse). Nous investissons massivement dans la recherche et le développement pour améliorer l'efficacité énergétique et réduire les émissions de carbone.","<p>EDF offre ainsi une large gamme de métiers, permettant aux jeunes diplômés de contribuer à l’innovation, à la transition énergétique et à la gestion de projets d’envergure.</p>
+
+<p> </p>","<p>Nous recherchons des talents passionnés, curieux et engagés pour accompagner EDF dans sa transition énergétique et répondre aux enjeux de demain.</p>
+
+<ul><li>Capacité à travailler en équipe pluridisciplinaire</li>
+        <li>Esprit d'innovation et force de proposition</li>
+        <li>Solides compétences en gestion de projet</li>
+        <li>Maîtrise de l'anglais</li>
+</ul>","<p>Vous trouverez les offres de stage et alternance disponibles sur notre site internet via ce lien : </p>
+
+<p><a href=""https://www.edf.fr/edf-recrute/rejoignez-nous/voir-les-offres/nos-offres?search%5Bprofil%5D=34952&search%5BcurrentPath%5D=page_entity/345"">https://www.edf.fr/edf-recrute/rejoignez-nous/voir-les-offres/nos-offres?search%5Bprofil%5D=34952&search%5BcurrentPath%5D=page_entity/345</a></p>","<p>Chez EDF, nous mettons tout en œuvre pour accompagner nos collaborateurs dans leur développement professionnel et personnel. Rejoindre notre entreprise, c'est intégrer un environnement stimulant où chaque talent peut évoluer selon ses aspirations et contribuer activement à la transition énergétique.</p>
+
+<p>Rejoindre EDF, c’est s’engager dans un parcours professionnel dynamique et personnalisé, adapté à vos compétences et aspirations.</p>
+
+<p><strong>Un parcours personnalisé</strong></p>
+
+<p>Dès votre arrivée, un <strong>plan de carrière individualisé</strong> est défini, vous permettant de découvrir une diversité de métiers et de responsabilités. Vous aurez accès à :</p>
+
+<ul><li><strong>Mobilité interne</strong> : Changer de poste ou de domaine d’expertise, en France ou à l’international.</li>
+        <li><strong>Formations continues</strong> : Accès à des formations régulières via notre centre interne pour développer vos compétences techniques, managériales et numériques.</li>
+</ul>
+
+<p><strong>Évolution vers des postes à responsabilités</strong></p>
+
+<p>Nous encourageons nos collaborateurs à prendre des <strong>postes à responsabilités</strong> (gestion d’équipes, de projets industriels, innovation), avec un accompagnement adapté via des programmes de formation et de mentorat.</p>
+
+<p><strong>Carrière internationale</strong></p>
+
+<p>EDF offre également des <strong>opportunités à l’international</strong> pour travailler sur des projets stratégiques à l'échelle mondiale.</p>
+
+<p><strong>Chez EDF, vous évoluez dans un environnement stimulant, avec des perspectives variées et un accompagnement continu pour vous permettre d’atteindre vos objectifs.</strong></p>",
+Exail,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,https://www.exail.com,,,"Exail est un groupe industriel spécialisé dans les technologies de pointe dans les domaines de la robotique, du maritime, de la navigation, de l’aéronautique, du spatial et de la photonique.
 
 S’appuyant sur une forte culture entrepreneuriale, Exail assure performance, fiabilité et sécurité à ses clients civils et militaires opérant dans des environnements sévères.
 
@@ -505,8 +863,8 @@ Exail est né en 2022 après qu’ECA Group et iXblue ont uni leurs forces. Le g
         <li>Evoluer dans un <strong>environnement international</strong></li>
         <li>Contribuer à <strong>l'évolution de l'entreprise</strong></li>
         <li>Des <strong>évolutions possibles</strong> en fonction de nos opportunités en interne</li>
-</ul>"
-Exoes,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.exoes.com/,France,"Ingénierie, Mobilité durable, Energie","EXOES est un pionnier des technologies de pointe visant à développer la mobilité durable et à atténuer le changement climatique. L'entreprise est particulièrement réputée pour être l'un des spécialistes mondiaux de la technologie de refroidissement par immersion.
+</ul>",
+Exoes,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,https://www.exoes.com/,France,Ingénierie,"EXOES est un pionnier des technologies de pointe visant à développer la mobilité durable et à atténuer le changement climatique. L'entreprise est particulièrement réputée pour être l'un des spécialistes mondiaux de la technologie de refroidissement par immersion.
 
 EXOES est l'expert en gestion thermique dans le domaine de l'électromobilité. Elle fournit des services d'ingénierie avancés, de la conception à l'intégration des véhicules, et fabrique des produits de haute performance tels que des blocs-batteries, des pompes à chaleur et des composants électroniques de puissance. Ses principaux clients sont des équipementiers, des fournisseurs de premier rang et des fabricants de fluides.
 
@@ -538,7 +896,13 @@ Exoes développera sa présence internationale, poursuivra l'expansion dynamique
 
 <p>- 100% de nos stages réussis donnent lieu à une embauche en CDI.</p>
 
-<p>- Rejoindre un groupe en pleine croissance avec des opportunités d’évolution rapide en France et à l’international.</p>"
+<p>- Rejoindre un groupe en pleine croissance avec des opportunités d’évolution rapide en France et à l’international.</p>","<p>- Stage Ingénieur-e essais</p>
+
+<p>- Stage Ingénieur bancs d'essais </p>
+
+<p>- Stage simulation thermique batterie</p>
+
+<p>- Stage Ingénieur-e mécanique</p>"
 Finaxys,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.finaxys.com/,France,ESN dans la Banque Finance Assurance,"Comme Henry Ford, les Finaxyens pensent qu'en avançant ensemble, le succès viendra de lui-même ! 
 Mais qui sommes-nous ? 
 La Finaxys family c'est du conseil IT auprès des groupes bancaires, des assurances, des néo-banques et des fintechs ! De quoi faire vivre une aventure exceptionnelle et inédite à nos 350 experts situés à Paris. 
@@ -578,8 +942,8 @@ humaine proposant des missions challengeantes avec une réelle proximité avec l
         <li>Une University qui permet à nos collaborateurs d'évoluer vers de nouvelles technologies et de maintenir leur niveau d'expertise sur le marché \ Et c’est aussi intégrer une équipe énergique qui ne fait pas l’impasse sur les afterworks, séances de coaching sportif, team building et tournois de nerfs.</li>
 </ul>
 
-<p> </p>","<p>Intégrer la Finaxys Academy, c'est se donner la possibilité de continuer en CDI chez Finaxys ! Chaque année, 90% de nos stagiaires poursuivent leur aventure chez Finaxys et même souvent en prestation chez le client chez qui ils ont réalisé leur stage. Alors, saute le pas et rejoins nous ! </p>"
-Fortil,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.fortil.group/fr/fortil/,"France, International","Aéronautique, Spatial, Défense, Automobile, Ferroviaire, Énergie, Digital, Santé","FORTIL vous accompagne dans l’accomplissement de vos objectifs professionnels et développe vos compétences au travers de projets complexes, innovants et enrichissants.
+<p> </p>","<p>Intégrer la Finaxys Academy, c'est se donner la possibilité de continuer en CDI chez Finaxys ! Chaque année, 90% de nos stagiaires poursuivent leur aventure chez Finaxys et même souvent en prestation chez le client chez qui ils ont réalisé leur stage. Alors, saute le pas et rejoins nous ! </p>",
+Fortil,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.fortil.group/fr/fortil/,,"Aéronautique, Spatial, Défense, Automobile, Ferroviaire, Energie, digital, Santé","FORTIL vous accompagne dans l’accomplissement de vos objectifs professionnels et développe vos compétences au travers de projets complexes, innovants et enrichissants.
 
 Présent en France et à l’International, nous accompagnons nos partenaires dans la réussite de leurs projets techniques dans différents domaines tels que L’Industrie, l’IT ou la Santé…
 
@@ -596,8 +960,8 @@ Rejoignez-nous !","<p>- Ingénieur Conception Mécanique - H/F<br>
 - Ingénieur Developpement Batterie - H/F<br><br>
  </p>",,,"<p>Votre évolution professionnelle est guidée par notre centre de formation interne et nos programmes de carrières. Les enjeux personnels des collaborateurs sont au cœur de notre modèle de rémunération ce qui permet d’adapter la valorisation des primes et de bénéficier selon les cas d’un effet bonus (dons associatifs, disponibilité temps, immobilier, coaching, etc).<br>
 Notre parcours de carrière unique mêle développement technique, développement entrepreneurial et développement personnel.<br>
-Depuis 10 ans, notre modèle est basé sur des conditions de partage en constante évolution. Nous travaillons sur des systèmes de rémunération attractifs, équitables et transparents. Nous guidons nos ingénieurs, vers l’actionnariat, dans un parcours défini par des niveaux d’engagement et d’apport de valeur-ajoutée pour le groupe. Notre objectif, porté à 30% la part de salariés associés.</p>"
-Gestform,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.gestform.com,France,"Numérisation, Gestion documentaire, Services aux entreprises","GESTFORM, Entreprise Adaptée, prestataire de services de gestion documentaire numérique et de sous-traitance administrative auprès de Grands Comptes prestigieux (Airbus, Orange, Ariane Group, SNCF …), GESTFORM allie depuis 30 ans performance économique et valeurs humaines.
+Depuis 10 ans, notre modèle est basé sur des conditions de partage en constante évolution. Nous travaillons sur des systèmes de rémunération attractifs, équitables et transparents. Nous guidons nos ingénieurs, vers l’actionnariat, dans un parcours défini par des niveaux d’engagement et d’apport de valeur-ajoutée pour le groupe. Notre objectif, porté à 30% la part de salariés associés.</p>",
+Gestform,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,https://www.gestform.com,,,"GESTFORM, Entreprise Adaptée, prestataire de services de gestion documentaire numérique et de sous-traitance administrative auprès de Grands Comptes prestigieux (Airbus, Orange, Ariane Group, SNCF …), GESTFORM allie depuis 30 ans performance économique et valeurs humaines.
 GESTFORM, c'est 400 salariés répartis sur 3 sites, Paris-Bordeaux-Toulouse et une volonté de placer l’innovation et l’amélioration continue au cœur de notre fonctionnement.
 Nous proposons des services innovants et investissons dans la performance sociale, le dialogue, le développement des compétences.
 Depuis son origine en 1986, GESTFORM s’est attachée à promouvoir des valeurs telles que : le Respect, la Loyauté, la Confiance, la Satisfaction Clients et l’Exigence.
@@ -633,10 +997,17 @@ LinkedIn : https://fr.linkedin.com/company/gestform","<p>Au sein du SI</p>
 
 <p>- Devsecops</p>
 
-<p>Un plan de carrière est mis en place avec le DSI et nous mettons en place des formations nécessaires afin de vous faire monter en compétences</p>"
-IKOS Consulting,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,https://www.ikosconsulting.com/,"France, Espagne, Belgique, Allemagne, Suisse, Suède, Italie, Angleterre, Etats Unis, Canada, Maroc, Portugal, Israel","Ferroviaire, Energie, Conseil","IKOS est la société d'ingénierie spécialisée dans l’ingénierie ferroviaire. À travers nos valeurs, nous nous engageons à participer à la transition écologique en développant les modes de transport du futur, qui seront sûrs et durables, ainsi qu’une énergie plus verte. Nos 1600 ingénieurs réalisent des projets avec le support de notre entité IKOS LAB qui pilote également nos programmes de recherches et de formations. IKOS a eu un très fort développement à travers le monde. Le Groupe compte actuellement 27 bureaux dans 13 pays (France, Espagne, Belgique, Allemagne, Suisse, Suède, Italie, Angleterre, Etats-Unis, Canada, Maroc, Portugal, Israël).","<p>Depuis notre création en 2005, nous accompagnons nos clients dans tous les domaines du ferroviaire : signalisation et contrôle commande, matériel roulant, courants faibles et télécom, courants forts et infrastructures.</p>",,,
-Ingeliance Technologies,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.ingeliance.com,France,"Ingénierie, Conseil",,,,,
-Kapsdata,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,https://www.kapsdata.ai,France,"Industrie, Énergie, Bâtiments, DataCenters","KAPSDATA est une entreprise qui fournit des solutions data driven qui rendent AGILES les bâtiments industriels ou commerciaux : bureaux, data centers, bâtiments techniques, usines,… sans les modifier en tenant compte de leur contexte d’utilisation (météo, nombre de personnes, charge IT,…). Cela permet ainsi de rendre les bâtiments moins énergivores et plus performants et d’ainsi réduire leur impact environnemental !","<p>KAPSDATA est spécialisée dans la conception et la fabrication de solutions AI-IIoT en EDGE Computing (Artificial Intelligence in Industrial Internet of Thing) pour l’industrie, le tertiaire et les Data Center (systèmes de métrologie pour l’amélioration de l’efficacité des infrastructures : énergie, matière, équipement, COP, PUE...). En forte croissance, soutenue par la région Haut-de-France et BPI, KAPSDATA renforce ses équipes de recherche et développement.</p>
+<p>Un plan de carrière est mis en place avec le DSI et nous mettons en place des formations nécessaires afin de vous faire monter en compétences</p>","<p>- PFE Développement informatique</p>
+
+<p>- PFE Machine learning</p>
+
+<p>- Stage 2A ou 3A : développement informatique </p>"
+GIE Vigie Ports,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,https://www.vigie-ports.fr,,,"Convaincus de la nécessité de poursuivre et d’accélérer leur transformation numérique, 21 ports français , aussi bien des Grands Ports Maritimes (GPM) que des collectivités territoriales (Régions, Département, Métropoles, Ville), ont décidé de franchir une nouvelle étape en se regroupant au sein d’un Groupement d’Intérêt Économique, le GIE « VIGIE Ports ». Ce GIE est véritablement la « start-up » de ces ports conçue pour développer des services numériques performants et pour anticiper les nouveaux usages des technologies dans l’accompagnement au changement climatique, la transition énergétique ou dans l’intégration du port dans la ville.
+
+VIGIEsip est le premier service développé par le GIE VIGIE ports. Il répond aux enjeux de dématérialisation des formalités du passage portuaire, de sécurité de la navigation et d’organisation optimisée des escales de navires, tout en étant soumis à des réglementations maritimes européennes et en matière de cyber-sécurité. VIGIEsip est une application full web développée en responsive design et disposant d’une version smartphone (IOS et Android).",<p>Le développeur java EE participe à la conception et à l’évolution du système d’information portuaire existant (VIGIEsip) et à des projets touchant à la R&D.</p>,,,,
+IKOS Consulting,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,https://www.ikosconsulting.com/,"France, Espagne, Belgique, Allemagne, Suisse, Suède, Italie, Angleterre, Etats Unis, Canada, Maroc, Portugal, Israel","Ferroviaire, Energie","IKOS est la société d'ingénierie spécialisée dans l’ingénierie ferroviaire. À travers nos valeurs, nous nous engageons à participer à la transition écologique en développant les modes de transport du futur, qui seront sûrs et durables, ainsi qu’une énergie plus verte. Nos 1600 ingénieurs réalisent des projets avec le support de notre entité IKOS LAB qui pilote également nos programmes de recherches et de formations. IKOS a eu un très fort développement à travers le monde. Le Groupe compte actuellement 27 bureaux dans 13 pays (France, Espagne, Belgique, Allemagne, Suisse, Suède, Italie, Angleterre, Etats-Unis, Canada, Maroc, Portugal, Israël).","<p>Depuis notre création en 2005, nous accompagnons nos clients dans tous les domaines du ferroviaire : signalisation et contrôle commande, matériel roulant, courants faibles et télécom, courants forts et infrastructures.</p>",,,,
+Ingeliance Technologies,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,https://www.ingeliance.com,,,,,,,,
+Kapsdata,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,https://www.kapsdata.ai,France,"Industrie,Energie,Batiments,DataCenters","KAPSDATA est une entreprise qui fournit des solutions data driven qui rendent AGILES les bâtiments industriels ou commerciaux : bureaux, data centers, bâtiments techniques, usines,… sans les modifier en tenant compte de leur contexte d’utilisation (météo, nombre de personnes, charge IT,…). Cela permet ainsi de rendre les bâtiments moins énergivores et plus performants et d’ainsi réduire leur impact environnemental !","<p>KAPSDATA est spécialisée dans la conception et la fabrication de solutions AI-IIoT en EDGE Computing (Artificial Intelligence in Industrial Internet of Thing) pour l’industrie, le tertiaire et les Data Center (systèmes de métrologie pour l’amélioration de l’efficacité des infrastructures : énergie, matière, équipement, COP, PUE...). En forte croissance, soutenue par la région Haut-de-France et BPI, KAPSDATA renforce ses équipes de recherche et développement.</p>
 
 <p><strong>VOS TRAVAUX</strong></p>
 
@@ -674,8 +1045,39 @@ Kapsdata,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,https://www.kapsdata.
 
 <p>Compétences requises : langage C, électronique numérique, microcontrôleur PIC32MZ Microchip, processeur ARM 64bits – Cortex A76, connaissances réseau (Ethernet, TCP/IP, UDP/IP, bus terrain MODBUS), architecture hybride UNIX et Temps réel embarqué (UNI/RT), algorithmie et IA embarqués, notion de métrologie industrielle,</p>
 
-<p>Environnement : MPLAB, XC32, DEBIAN, ECLIPSE</p>",,"<p>Avec une équipe de 10 personnes issus de diverses origines, immergée dans l’écosystème du bâtiment (réseau de plus de 20 sociétés expertes dans les diverses composantes du BIM 3D, du jumeau numérique du bâtiment), ce carrefour interdisciplinaire est prêt à émerger comme une entité de référence, à l'échelle nationale et mondiale, dans les domaines pilotage de l’efficacité énergétique des bâtiments complexes.</p>"
-Marine nationale,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,https://www.lamarinerecrute.fr/,France,"Militaire, Défense maritime","Sur tous les océans et toutes les mers du monde, 365 jours par an et 24 heures sur 24, la Marine nationale assure la sécurité et la protection de l’espace maritime français. En mer, sur terre et dans les airs, ses 39 000 marins accomplissent chaque jour des missions de renseignement, de prévention, d’intervention, de protection et de dissuasion. Des femmes et des hommes unis dans l’action, déterminés à préserver la paix et défendre les intérêts de la France. Si vous souhaitez évoluer dans un environnement opérationnel et technologique hors du commun et stimulant, avoir des responsabilités, manager une équipe, voyager et partir à l'aventure : devenez officier de Marine !  La Marine compte plus de 80 métiers au sein des États-majors ou dans les forces. Venez découvrir ce qui peut vous correspondre ! Soyez curieux venez nous rencontrer !","<p><strong>Découvrez la Marine nationale : </strong></p>
+<p>Environnement : MPLAB, XC32, DEBIAN, ECLIPSE</p>",,"<p>Avec une équipe de 10 personnes issus de diverses origines, immergée dans l’écosystème du bâtiment (réseau de plus de 20 sociétés expertes dans les diverses composantes du BIM 3D, du jumeau numérique du bâtiment), ce carrefour interdisciplinaire est prêt à émerger comme une entité de référence, à l'échelle nationale et mondiale, dans les domaines pilotage de l’efficacité énergétique des bâtiments complexes.</p>",
+Madic,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,https://www.groupe.madic.com/,,,"MADIC industries ( Créateur de Solutions)
+
+MADIC industries anciennement LAFON, est une société créée à Bordeaux en 1959 par Georges Lafon, appartenant désormais à MADIC group depuis 2006. MADIC industries se positionne comme un industriel français leader dans le développement de solutions de stockage, de distribution et de gestion des énergies automobiles, ainsi que dans les moyens de paiement sans surveillance. Présent partout dans le monde grâce à son réseau international regroupant 500 salariés répartis sur 8 sites industriels. MADIC industries conçoit et développe ainsi des solutions innovantes pour l’exploitation des stations-service, des flottes privées et des points de charge pour les véhicules électriques.
+MADIC industries, possède un savoir-faire varié couvrant de nombreux domaines, comme l’installation de stations publiques et de stations privatives. MADIC industries offre également une solution complète pour l’installation de stations privatives. MADIC industries dispose par ailleurs d’un savoir-faire en ingénierie grâce aux compétences d’une équipe d’ingénieurs habilitée à intervenir sur les projets les plus complexes. 
+Avec ses nombreuses filiales industrielles, MADIC industries rassemble une grande variété de métiers et d’expertises, gravitant autour des énergies automobiles (stockage, distribution et gestion) et des paiements sans surveillance. Les métiers couverts par MADIC industries concernent ainsi les distributeurs de carburant, les distributeurs d’énergies alternatives, les stations Plug & Play, les automates de paiement, les systèmes de gestion, les réservoirs de stockage, les pétro-équipements, le matériel roulant, ou encore le support technique, pour un suivi de qualité des infrastructures après leur installation.","<p><strong>Rejoignez notre nouveau Pôle Technologique de Saint André de Cubzac en Gironde (33)</strong><br><br><br>
+Intégrez le pôle R&D au sein de nos équipes de développement talentueuses et passionnées.<br>
+Acteur majeur de nos projets, <strong>vous interviendrez sur toutes les phases de la conception à la<br>
+réalisation en étroite collaboration avec nos clients et nos partenaires</strong>.</p>
+
+<p><br>
+De l'analyse des besoins, la faisabilité, la conception, le développement, les tests, la formation, la mise en production et la maintenance des solutions dans un contexte réglementaire lié à nos métiers (mobilité électrique, métrologie légale, paiement). </p>
+
+<p><br>
+Vous développerez des logiciels bas niveau et middleware sur nos bornes de recharges pour véhicules électriques en environnement Linux embarqué. </p>
+
+<p> </p>
+
+<p>Vous participerez à l'intégration des technologies les plus innovantes de l'univers du véhicule électrique : Plug'N'Charge, V2G, Smart Charging.</p>
+
+<ul><li>Nous recrutons des Ingénieurs en Développement Informatique Embarquée (H/F)</li>
+        <li>Nous recrutons des Ingénieurs en Logiciels Embarqués (H/F)</li>
+</ul>","<p>Vous possédez une première expérience en environnement Linux embarqué et vous connaissez les<br>
+langages C/C++.</p>
+
+<p>Vous connaissez l'IDE Eclipse (ou Visual Studio Code), les architectures multiprocessus / threads, les communications basées sur TCP/IP (socket TCP client / serveur), les bus SPI / I2C / série (UART), les outils de build (Autotools / CMake ou Meson).<br><br>
+Vous avez déjà utilisé des outils de gestion de versions, de suivi de bug et de gestion de projet comme GIT, Jira, Mantis, Monday.<br><br>
+Selon votre profil plus orienté système ou applicatif car nous recherchons les deux :<br>
+- Des connaissances sur U-Boot, le noyau Linux (4.x, 5.x), Yocto/OE, Systemd, SWUpdate et Docker/Podman seront appréciées.<br>
+- Des connaissances sur Qt ou LVGL, Gstreamer, le langage SQL et les échanges de données via XML ou JSON seront les bienvenues.<br><br>
+Des notions sur la cryptographie (TDES, AES, PKI, fonction de hachage, TLS...) faciliterons votre apprentissage dans notre environnement bancaire sécurisé.</p>",,"<p>Vos Perspectives dans notre groupe<br><br>
+Après une période d'intégration réussie et en fonction de vos ambitions personnelles, vous pourrez évoluer du poste de concepteur vers les postes de Technical leader, Team leader, Chef de projet ou même Responsable de bureau d'études, chefs produits ou plus encore !</p>",
+Marine Nationale,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,https://www.lamarinerecrute.fr/,France,Militaire,"Sur tous les océans et toutes les mers du monde, 365 jours par an et 24 heures sur 24, la Marine nationale assure la sécurité et la protection de l’espace maritime français. En mer, sur terre et dans les airs, ses 39 000 marins accomplissent chaque jour des missions de renseignement, de prévention, d’intervention, de protection et de dissuasion. Des femmes et des hommes unis dans l’action, déterminés à préserver la paix et défendre les intérêts de la France. Si vous souhaitez évoluer dans un environnement opérationnel et technologique hors du commun et stimulant, avoir des responsabilités, manager une équipe, voyager et partir à l'aventure : devenez officier de Marine !  La Marine compte plus de 80 métiers au sein des États-majors ou dans les forces. Venez découvrir ce qui peut vous correspondre ! Soyez curieux venez nous rencontrer !","<p><strong>Découvrez la Marine nationale : </strong></p>
 
 <p>Le contrat de volontaire officier aspirant permet aux jeunes diplômés ou aux étudiants à la recherche d'une année de césure ou d'une première expérience professionnelle, de s'engager au sein de la Marine nationale pendant 1 an et d'y découvrir un environnement hors du commun. Il existe des poste en Etat-Major : ressources humaines, communication, contrôle de gestion, informatique, relations internationales, cybersécurité, ingénieur …</p>
 
@@ -701,14 +1103,17 @@ Marine nationale,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,https://www.lamari
         <li>Permis B et Anglais B2 indispensables pour certains contratsains contrats</li>
 </ul>","<p>Toutes les offres de stages et d'alternances au sein des armées sont accessibles sur le site : <a href=""https://www.stages.defense.gouv.fr/"">https://www.stages.defense.gouv.fr/</a></p>
 
-<p>Postuler en ligne.</p>",
-Murex,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.murex.com/en,"France, International","Fintech, Finance, Logiciels",,,,,
-Naval Group,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.naval-group.com/fr,"France, International","Industriel, Défense, Naval","Naval Group, acteur incontournable du naval de Défense, conçoit, réalise, maintient en service, déconstruit et démantèle des navires de surface, des sous-marins, des porte-avions, mais également des drones et autres systèmes autonomes. 
+<p>Postuler en ligne.</p>",,"<p>Toutes les offres de stages et d'alternances au sein des armées sont accessibles sur le site : <a href=""https://www.stages.defense.gouv.fr/"">https://www.stages.defense.gouv.fr/</a></p>"
+MBDA,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.mbda-systems.com/,"France, Angleterre, Italie, Allemagne, Espagne","Aéronautique, défense","Première entreprise européenne de Défense intégrée, MBDA est un des leaders mondiaux dans la conception de missiles et systèmes de missiles.
+Seul Groupe capable de répondre à toute la gamme des besoins opérationnels présents et futurs des trois armées (terre, marine et air), MBDA propose une gamme de 45 programmes de systèmes de missiles et de contre-mesures en service opérationnel et plus de 15 autres en développement.
+La société MBDA réalise un chiffre d’affaires de 4.5 milliards d’euros en 2023 et regroupe plus de 14000 collaborateurs, principalement en Europe. MBDA est une filiale commune de Airbus Group (37,5 %), BAE Systems (37,5 %), et Leonardo (25 %).","<p>Gestion de projet, management, expertise technique en environnement international</p>","<p>Études Amont, Architecture Système, Conception Système, Essai et intégration, Simulation et Modélisation, Aérodynamique et Propulsion, Pilotage/Guidage/Navigation, Logiciel, Ingénierie Électronique, Ingénierie Mécanique, Informatique industrielle, Support client...</p>",,,
+Murex,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,https://www.murex.com/en,,,,,,,,
+Naval Group,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.naval-group.com/fr,,"Industriel, défense, Naval","Naval Group, acteur incontournable du naval de Défense, conçoit, réalise, maintient en service, déconstruit et démantèle des navires de surface, des sous-marins, des porte-avions, mais également des drones et autres systèmes autonomes. 
 Maître d’œuvre industriel, concepteur et intégrateur d’ensemble des navires armés et des systèmes de combat, Naval Group fournit également des services pour les infrastructures des chantiers et bases navals.
 Cette entreprise regroupe près de 500 métiers avec des parcours riches et variés au travers de l’ensemble de ses 10 sites implantés en France.
 
 
-Naval Group compte parmi les acteurs internationaux du naval de défense. Depuis plus de 400 ans, nous repoussons sans cesse les limites pour construire le naval de demain. Ouvriers, techniciens, ingénieurs, c'est avec passion que nos 17 000 collaborateurs, en France et à l'international, mettent en commun leurs savoir-faire uniques pour imaginer, concevoir, réaliser et entretenir des produits et des systèmes d'exception tels qu'un sous-marin, un porte-avions ou une frégate de combat. Nous sommes convaincus que la diversité et l'inclusion sont synonymes de richesse et de performance. Nous souhaitons intégrer une véritable diversité de profils : femmes et hommes, avec une mixité sociale et une diversité de formations, de générations, d'origines, de compétences et de talents, mais aussi de parcours de vie. Nos métiers évoluent, nos collaborateurs aussi. Nous nous engageons dans le développement professionnel de nos collaborateurs via la formation continue. Nos collaborateurs développent ainsi leur parcours professionnel selon leurs envies et en adéquation avec les besoins du groupe.",<p>https://www.naval-group.com/fr/nous-rejoindre</p>,<p>Nous recherchons des étudiants (Stages / Alternances) ou des demandeurs d'emploi.</p>,<p>https://www.naval-group.com/fr/nous-rejoindre?keywords=&offerFamilyCategory=&contractType=2463&country=&city=&op=Rechercher&form_build_id=form-vNzSSv9IKnsem5qLapaOFn53y3oM2MWP05DjvR2Qpng&form_id=talent_soft_offers_filters_form#offer-list-content</p>,<p>Les futurs recrutés se voient proposer des postes à forte responsabilité et la possibilité d’évoluer rapidement géographiquement ou sur d’autres métiers en accompagnant la croissance du Groupe à l’international et son développement sur de nouveaux marchés.</p>
+Naval Group compte parmi les acteurs internationaux du naval de défense. Depuis plus de 400 ans, nous repoussons sans cesse les limites pour construire le naval de demain. Ouvriers, techniciens, ingénieurs, c'est avec passion que nos 17 000 collaborateurs, en France et à l'international, mettent en commun leurs savoir-faire uniques pour imaginer, concevoir, réaliser et entretenir des produits et des systèmes d'exception tels qu'un sous-marin, un porte-avions ou une frégate de combat. Nous sommes convaincus que la diversité et l'inclusion sont synonymes de richesse et de performance. Nous souhaitons intégrer une véritable diversité de profils : femmes et hommes, avec une mixité sociale et une diversité de formations, de générations, d'origines, de compétences et de talents, mais aussi de parcours de vie. Nos métiers évoluent, nos collaborateurs aussi. Nous nous engageons dans le développement professionnel de nos collaborateurs via la formation continue. Nos collaborateurs développent ainsi leur parcours professionnel selon leurs envies et en adéquation avec les besoins du groupe.",<p>https://www.naval-group.com/fr/nous-rejoindre</p>,<p>Nous recherchons des étudiants (Stages / Alternances) ou des demandeurs d'emploi.</p>,<p>https://www.naval-group.com/fr/nous-rejoindre?keywords=&offerFamilyCategory=&contractType=2463&country=&city=&op=Rechercher&form_build_id=form-vNzSSv9IKnsem5qLapaOFn53y3oM2MWP05DjvR2Qpng&form_id=talent_soft_offers_filters_form#offer-list-content</p>,<p>Les futurs recrutés se voient proposer des postes à forte responsabilité et la possibilité d’évoluer rapidement géographiquement ou sur d’autres métiers en accompagnant la croissance du Groupe à l’international et son développement sur de nouveaux marchés.</p>,<p>https://www.naval-group.com/fr/nous-rejoindre?keywords=&offerFamilyCategory=&contractType=2463&country=&city=&op=Rechercher&form_build_id=form-vNzSSv9IKnsem5qLapaOFn53y3oM2MWP05DjvR2Qpng&form_id=talent_soft_offers_filters_form#offer-list-content</p>
 NXP Semiconducteurs,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.nxp.com/,"France, Allemagne, Italie, Espagne, Autriche, Roumanie, Pays-Bas, États-Unis",Electronique,"NXP Semiconductors développe des solutions permettant à nos appareils électroniques de comprendre leur environnement et de se connecter en toute sécurité avec d'autres solutions ou réseaux. 
 Lorsqu’un choix doit être fait les solutions NXP se tournent vers l’option la plus intelligente. 
 NXP est présent dans 33 pays dont quatre sites en France.","<ul><li> Junior Embedded Wireless Connectivity Software Engineer (F/M)</li>
@@ -735,14 +1140,41 @@ NXP est présent dans 33 pays dont quatre sites en France.","<ul><li> Junior Em
         <li>Analog & Digital Design Engineer</li>
         <li>Verification Engineer</li>
         <li>Functional Safety Engineer</li>
-</ul>",
-Onepoint,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.groupeonepoint.com/fr/,"France, International","IT, Conseil en transformation digitale",,,,,
-Orange SA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,"France, International","Télécommunications, IT, Cybersécurité",,,,,
-Randstad Digital (ex-Ausy),FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,"France, International","ESN, Conseil en ingénierie, IT",,,,,
-Satlantis France,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,"France, International","Spatial, Imagerie satellitaire","Fondée en 1871 en Allemagne, Continental développe des technologies et services d’avant-garde pour une mobilité plus sûre, durable et connectée. 
+</ul>",,"<ul><li>Digital, RF/HF, Mixed-signal</li>
+        <li>Embedded Software Engineer</li>
+        <li>Software Design & Development Engineer</li>
+        <li>Systems & Architecture Engineer</li>
+        <li>Application Engineer</li>
+        <li>Validation and Characterisation Engineer</li>
+        <li>Product and Test Engineer</li>
+        <li>Analog & Digital Design Engineer</li>
+        <li>Verification Engineer</li>
+        <li>Functional Safety Engineer</li>
+</ul>"
+Onepoint,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.groupeonepoint.com/fr/,,IT,,,,,,
+Orange SA,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,,,,,,,,,
+Randstad Digital,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,https://www.randstaddigital.com/fr/,France,"Aéronautique, ecommerce, Médias, Secteur public, Télécommunication","Randstad Digital est le partenaire technologique de référence des entreprises. Notre mission est d’accompagner nos clients dans leurs projets digitaux et d’innover grâce à notre expertise, nos méthodologies diversifiées et agiles. 
+Nos services s'articulent autour des quatre lignes de service : l'expérience client (UX/UI), l'ingénierie digitale & produit, les datas & analytics et la transformation vers le cloud.
+Quel que soit le projet sur lequel vous démarrez, vous êtes accompagné(e)s dans votre évolution de carrière par votre talent development specialist dédié et vous serez intégré(e) à nos divers évènements tech & fun Randstad Digital. 
+Aujourd’hui nous sommes plus de 3 000 collaborateurs en France et travaillons avec plus de 300 clients leaders dans 5 secteurs d’activité clés.
+
+Rejoindre Randstad Digital c’est participer à des projets technologiques plus ambitieux avec une portée internationale dans plus de 20 pays. C’est aussi intégrer une entreprise certifiée Top Employer 2023 et handi-accueillante aux valeurs fortes où l’esprit d’équipe et la confiance sont la base de notre collaboration.
+
+Anciennement AUSY, nous possédons +30 ans d’expérience dans nos domaines d’expertise. 
+Vous recherchez des challenges à la hauteur de vos ambitions, postulez !","<p>Ingénieur en Développement H/F : systèmes embarqués, java, .net ...</p>
+
+<p>Ingénieur Qualité H/F : Testeur fonctionnel, Automaticien..</p>
+
+<p>Ingénieur en Systèmes : Devops, Cloud, Linux...</p>","<p>Des profils curieux, avec une conscience professionnelle, qui ont l'ambition de poursuivre leur montée en compétences sur leur métier !</p>","<p>Stage sur drone [Développeur en systèmes embarqués en C/C++] H/F: Dans un environnement industriel, chacune des deux équipes en charge de ce<br>
+projet se verra porteuse de leurs propres innovations. Les missions du drône seront de réaliser un vol en formation autonome, un suivi de cible et une analyse de<br>
+l’environnement (reprise en main d'un projet existant).</p>
+
+<p>Stage sur rover [Développeur en systèmes embarqués en C/C++] H/F : même type de défi technique mais en version rover ! </p>","<p>Expert technique, Leader technique, Chef de projet selon sa spécialité !</p>",
+Safran Electronics & Defense,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,https://www.safran-group.com/fr,,,,,,,,
+Satlantis France,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,https://www.continental.com/fr-fr/carriere/,,,"Fondée en 1871 en Allemagne, Continental développe des technologies et services d’avant-garde pour une mobilité plus sûre, durable et connectée. 
 Le secteur d’activité Automotive réunit les technologies associées aux systèmes de sécurité, de freinage, de châssis et de contrôle de trajectoire. Son portefeuille comprend également des solutions innovantes pour la conduite assistée et automatisée, ainsi que des technologies d’affichage. 
-Chaque année, Continental Automotive France accompagne plus de 150 alternants et stagiaires à développer leurs compétences, notamment dans les métiers de l’ingénierie. A la recherche de votre prochain défi ? Rejoignez-nous !","<p><span style=""color:#333333""><a href=""https://jobs.continental.com/fr/?_gl=1*6o4kok*_ga*MjExMjA3MjQ1Mi4xNjc1MTc5Njc5*_ga_CXY4Q1X5YZ*MTcyMjM0NTk5NS4xMjIuMS4xNzIyMzQ2MjI2LjAuMC4w#/?searchTerm=alternance"" target=""_blank"" title=""Ingénieur/Recherche & Développement""><span style=""color:#333333"">Nos équipes d'ingénieurs explorent et développent de nouvelles solutions technologiques pour une mobilité plus sûre, durable et connectée.  Pour les accompagner, nous recrutons chaque année des étudiants en cursus d’école ingénieur sur des fonctions en développement informatique, cybersécurité, radiofréquence, tests, systèmes, électronique, IA, Innovation, robotique, design UX, etc. Nos experts techniques et les formations dispensées par la French KIN (centre d’innovation et réseau d’experts) te permettront de monter rapidement en compétence. </span></a></span></p>",,,
-Serma,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.serma.com/,"France, International","Electronique, Systèmes Embarqués, Cybersécurité","Le groupe SERMA (CA de 174M , plus de 1 400 collaborateurs) est un acteur global indépendant et multisectoriel, nous accompagnons nos partenaires sur l ensemble du cycle de vie des produits et services en tant qu'expert spécialisé dans les systèmes électroniques embarqués et industriels. 
+Chaque année, Continental Automotive France accompagne plus de 150 alternants et stagiaires à développer leurs compétences, notamment dans les métiers de l’ingénierie. A la recherche de votre prochain défi ? Rejoignez-nous !","<p><span style=""color:#333333""><a href=""https://jobs.continental.com/fr/?_gl=1*6o4kok*_ga*MjExMjA3MjQ1Mi4xNjc1MTc5Njc5*_ga_CXY4Q1X5YZ*MTcyMjM0NTk5NS4xMjIuMS4xNzIyMzQ2MjI2LjAuMC4w#/?searchTerm=alternance"" target=""_blank"" title=""Ingénieur/Recherche & Développement""><span style=""color:#333333"">Nos équipes d'ingénieurs explorent et développent de nouvelles solutions technologiques pour une mobilité plus sûre, durable et connectée.  Pour les accompagner, nous recrutons chaque année des étudiants en cursus d’école ingénieur sur des fonctions en développement informatique, cybersécurité, radiofréquence, tests, systèmes, électronique, IA, Innovation, robotique, design UX, etc. Nos experts techniques et les formations dispensées par la French KIN (centre d’innovation et réseau d’experts) te permettront de monter rapidement en compétence. </span></a></span></p>",,,,
+Serma,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,https://www.serma.com/,,,"Le groupe SERMA (CA de 174M , plus de 1 400 collaborateurs) est un acteur global indépendant et multisectoriel, nous accompagnons nos partenaires sur l ensemble du cycle de vie des produits et services en tant qu'expert spécialisé dans les systèmes électroniques embarqués et industriels. 
 
 En nous rejoignant, vous prenez part à des projets innovants et bénéficiez de réelles opportunités d évolution professionnelle. 
 
@@ -789,8 +1221,8 @@ En tant que Groupe industriel, SERMA bénéficie de la convention collective de 
 
 <p>- Ingénieur Evaluation Software</p>
 
-<p>- Ingénieur Evaluation Hardware</p>",,,"<p>Le développement constant de SERMA depuis maintenant plus de 30 ans est synonyme d opportunités et d évolutions professionnelles : changement de métier, mutation, prise de responsabilités, etc. </p>"
-SII,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.sii-group.com/fr-FR,"France, International","ESN, Ingénierie, Conseil IT","Créée en 2003, l'implantation bordelaise de SII a réellement démarré son développement en 2008, pour connaître une croissance fulgurante de 60 à 200 consultants entre 2018 et aujourd’hui. Ce succès s'explique par l'expertise de SII dans les domaines du numérique et du conseil en technologies, ainsi que par son engagement à répondre aux besoins spécifiques des clients de la région Nouvelle-Aquitaine.
+<p>- Ingénieur Evaluation Hardware</p>",,,"<p>Le développement constant de SERMA depuis maintenant plus de 30 ans est synonyme d opportunités et d évolutions professionnelles : changement de métier, mutation, prise de responsabilités, etc. </p>",
+SII,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,https://www.sii-group.com/fr-FR,,,"Créée en 2003, l'implantation bordelaise de SII a réellement démarré son développement en 2008, pour connaître une croissance fulgurante de 60 à 200 consultants entre 2018 et aujourd’hui. Ce succès s'explique par l'expertise de SII dans les domaines du numérique et du conseil en technologies, ainsi que par son engagement à répondre aux besoins spécifiques des clients de la région Nouvelle-Aquitaine.
 
 L’agence Nouvelle-Aquitaine entend poursuivre sa croissance et renforcer son positionnement de partenaire privilégié des entreprises de la région, dans les domaines tels que l'aéronautique, la défense, l'énergie, le secteur bancaire, les télécommunications, le commerce, le retail et la santé. 
 
@@ -806,8 +1238,81 @@ L'ambition de développement est très forte, avec une croissance ciblée de 10%
 
 <p>- logiciel</p>
 
-<p>- système embarqué software</p>",,
-SNCF,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,France,"Transport ferroviaire, Logistique, Mobilité",,,,,
+<p>- système embarqué software</p>",,,
+Smile,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,https://www.smile.eu,,"ESN, open-source, Energie, Santé, immobilier, gouvernement, défense","Qui est SMILE ?
+
+SMILE est une entreprise européenne de services numériques, leader de l'open source.
+
+Nous concevons et créons des expériences numériques performantes, combinant excellence opérationnelle et engagement responsable.
+
+Nous utilisons des solutions innovantes, industrielles, agiles et pragmatiques, en favorisant autant que possible les technologies ouvertes.","<p>Nous recrutons sur l'ensemble des métiers liés à la digitalisation des entreprises : </p>
+
+<p>- Ingénieurs Études et Développement</p>
+
+<p>- Responsable d'Équipe</p>
+
+<p>- Product Owner & Business Analyst</p>
+
+<p>- Ingénieurs Embarqué</p>
+
+<p>- Ingénieurs Devops</p>","<p>Nous recherchons des profils avec une base technique affirmée, mais surtout avec un réel potentiel d'évolution. Nous nous chargerons de vous apporter les compétences techniques nécessaires à la réalisation de nos projets. </p>
+
+<p>Nous sommes une entreprise de passionnés de l'open-source, que nous soyons techniques ou fonctionnels. L'environnement de nos projets présente beaucoup d'autonomie individuelle et de challenges techniques. Le socle commun des profils SMILE : autonome, bon communicant, curiosité technique, résilients... Ajoutez à cela des compétences techniques validées et bienvenu chez SMILE :-)</p>","<p>Nous cherchons des stagiaires sur les métiers suivants : <br><br>
+- Ingénieur Études et Développement en Java ou PHP ou Javascript</p>
+
+<p>Vous serez positionné au sein de nos équipes sur le développement d'applications métiers ou de site e-commerce pour nos clients grand compte. Quelques exemples : Visa, Biocoop, Cultura, GRDF, Le STADE de FRANCE...<br><br>
+- Ingénieur Embarqué C++ : </p>
+
+<p>Vous travaillerez au sein de nos équipes sur des projets R&D pour vous permettre de capitaliser vos connaissances et d'accéder à des projets à haute valeur ajoutés pour des clients dans l'aéronautique et le transport. </p>
+
+<p>- Responsable d'Équipe</p>
+
+<p>En assistance d'un Engagement Manager, vous prendrez en charge une partie du projet et veillerez à la bonne réalisation de celui-ci dans les délais prévus. Nous vous accompagnerons pour monter en compétence dans la gestion du cadrage, des imprévus et le management humain.</p>","<p>Chez SMILE les évolutions font partie du parcours de carrière. Voici le schéma classique</p>
+
+<p>Ingénieur Étude et Développement 1 (IED) > IED 2 > Tech Lead > Tech Expert (positionnement très technique) ou Tech Manager (Positionnement pilotage technique) > Architecte </p>
+
+<p>Responsable d'Equipe > Engagement Manager 1 > Engagement Manager 2</p>",
+SNCF,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,https://www.emploi.sncf.com,,,"SNCF est l'un des premiers groupes mondiaux de transport de voyageurs et de logistique de marchandises avec 20 milliards d'euros de CA depuis janvier 2023, d’après les résultats semetriels, dont un tiers à l'international. Avec son socle ferroviaire français et riche de son expertise d'architecte de transport, le Groupe emploie plus de 271 000 collaborateurs dans 120 pays. Objectif : être la référence d'excellence mondiale des déplacements de demain, tout en respectant la planète. 
+
+Avec 41,4 milliards d’euros de chiffre d’affaires en 2022, dont un tiers à l’international, le groupe SNCF couvre 6 grands métiers : 
+
+• SNCF Réseau : gestion et exploitation du réseau ferroviaire français 
+
+• Les Mobilités quotidiennes : Transilien en Île-de-France, TER en régions et Keolis en France et dans le monde 
+
+• Le Voyage longue distance : TGV inOUI, OUIGO, Intercités, Eurostar, Thalys, OUIBUS et la distribution avec OUI.sncf 
+
+• SNCF Gares & Connexions : gestion et développement des gares 
+
+• SNCF Logistics : transport et logistique de marchandises au niveau mondial avec notamment Geodis, Fret SNCF et Ermewa 
+
+• SNCF Immobilier : gestion et valorisation des actifs immobiliers et fonciers 
+
+ 
+
+En 2024, SNCF a été certifié Top Employer pour la 14ème année consécutive ! Cette labellisation reconnait l’entreprise comme un employeur de qualité où les conditions de travail, les perspectives de carrières et l’épanouissement professionnel et personnel sont un sujet d’amélioration quotidien. 
+
+SNCF recrute dans plus de 150 métiers et offre de nombreuses opportunités de carrière, pour les cadres et non cadres. Nous rejoindre, c'est être au cœur de l'innovation, participer à des projets de grande ampleur et contribuer à la transformation de l'entreprise. 
+
+Rejoindre SNCF, c'est être au cœur de la vie des gens et respectueux de l'environnement. C’est aussi s’engager dans une entreprise citoyenne au service de tous et portant attention à chacun. 
+
+Tous nos métiers sont ouverts aux personnes en situation de handicap. 
+
+ 
+
+Employeur majeur en France, chaque année SNCF recrute partout en France, pour ses activités industrielles et commerciales, plus de 5000 collaborateurs en CDI, de sans diplôme à BAC +5. Dans le cadre d'une recherche d'emploi, d'une mission de stage ou d'une mission d'alternance, rendez-vous sur le site www.emploi.sncf.com pour y retrouver toutes nos offres à pourvoir. Tous les métiers sont ouverts aux personnes en situation de handicap.",,"<p> </p>
+
+<p>Profils recherchés : </p>
+
+<p>• Etudiants Bac+5, </p>
+
+<p>• Jeunes diplômés, </p>
+
+<p>• CDI. </p>
+
+<p> </p>
+
+<p> </p>",,,
 Solutec,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.solutec.fr/,France,"Télécommunication et médias, Industrie, Transport, Services, Grande distribution, Energies, Banques et Assurances, Santé","Une ESN dynamique à taille humaine, située sur Lyon, Paris, Nantes, Bordeaux et Toulouse !
 Spécialisés en ingénierie, conseil et services informatiques, nous accompagnons nos clients dans toutes les phases de leurs projets. Nous intervenons auprès de clients variés dans des secteurs diversifiés : banque / assurance, énergie, grande distribution, services, transport, industrie, télécommunication et média, santé…","<p>4 pôles de compétences qui réunissent un large spectre de technologies et de métiers :</p>
 
@@ -867,9 +1372,67 @@ Spécialisés en ingénierie, conseil et services informatiques, nous accompagno
         <li>Un entretien de carrière annuel pour vous aider à y voir plus clair dans votre horizon professionnel.</li>
 </ul>
 
-<p>Il n'y a pas de carrière type !</p>"
-Sopra Steria,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,"France, International","ESN, Conseil, Transformation digitale",,,,,
-SQLI,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.sqli.com/fr-fr,"France, International","ESN, Digital, E-commerce, Transformation digitale","Notre mission depuis 30 ans ? Être présent au bon moment !​
+<p>Il n'y a pas de carrière type !</p>",
+Sopra Steria,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,https://www.soprasteria.com/fr,,,,,,,,
+Spie ICS,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.spie-ics.com/a-propos/qui-est-spie-ics,"France, Allemagne, Belgique, Pays-Bas, Suisse","Public, Média, loisirs, Santé, Industrie, Energie, Finance, Commerce","Classée dans le top 15 des ESN en France, SPIE ICS maîtrise un spectre complet de services et de solutions IT, tout en s’inscrivant dans une logique de proximité. Nous aidons les organisations à mener leur transformation numérique, grâce à des projets IT maîtrisés qui apportent une simplification d’usage pour les utilisateurs finaux.
+
+L’activité de SPIE ICS est de concevoir, mettre en œuvre et maintenir des infrastructures innovantes au travers d’une offre de services globale : conseil & ingénierie, projets & intégration, infogérance & maintenance, services opérés & cloud.
+
+SPIE ICS s’engage pour un numérique plus sobre, éthique et inclusif, une démarche reconnue par le label Numérique Responsable niveau 2.
+
+SPIE ICS est le partenaire de confiance de votre transformation numérique grâce à :
+- Des expertises techniques fortes pour aborder la complexité d’un système d’information.
+- Une culture de l’innovation pour anticiper les évolutions des marchés.
+- Un pilotage fin et la maîtrise des phases d’industrialisation garantissant qualité et traçabilité.
+- Une approche partenariale avec les constructeurs et les éditeurs pour proposer les solutions les plus adaptées au contexte.
+
+Quels que soient la problématique et les enjeux posés par nos clients, nous développons avec eux les solutions les plus adaptées, aussi bien dans la phase BUILD que dans la phase RUN des services. Nous aidons à les déployer et à les exploiter sereinement grâce au développement de nos deux lignes de services principales que sont l’intégration et l’infogérance.
+Au fil des années et des acquisitions, SPIE ICS s’est renforcée dans ses différentes spécialités :
+
+Infogérance : par les acquisitions de Fast, Sertig et APX
+Cloud : par les acquisitions de VeePee, RDI et AVM Up
+Infrastructures : par l’acquisition de S-Cube et Infidis
+
+Une organisation à l’écoute : Proximité / Co-construction / Sur-mesure / Confiance.","<ul><li>Technicien informatique.</li>
+        <li>Administrateur système, réseau et sécurité</li>
+        <li>Ingénieur/Consultant réseau, sécurité</li>
+        <li>Expert/Architecte nouvelles technologies (Cybersécurité, IoT, Cloud...)</li>
+        <li>Team Leader, Delivery Manager et Service Delivery Manager.</li>
+        <li>Ingénieur d'affaires</li>
+</ul>","<p><strong>Sur les profils d'Administrateurs/ ingénieurs / Experts / Architectes :</strong></p>
+
+<p>- Expertise avérée en technologies du système et/ou de réseau  et/ou sécurité et/ou Cloud.</p>
+
+<p>- Capacité à mener des projets d'envergure en autonomie complète, justifiant donc d'une expérience significative dans un poste similaire.</p>
+
+<p>- Expérience dans le suivi de projets réglementaires.).</p>
+
+<p>- Compétences en gestion de QOS et observabilité/supervision des infrastructures réseau.</p>
+
+<p>- Une certification pertinente pourrait être un atout (ex. : Cisco CCNP, Fortinet NSE).</p>
+
+<p>Qualités personnelles:</p>
+
+<p>- Autonomie dans la gestion de projets et capacité à travailler efficacement sans supervision directe.</p>
+
+<p>- Proactivité et engagement dans une veille technologique constante pour garantir l'innovation et l'amélioration continue des systèmes.</p>
+
+<p>- Excellentes aptitudes à la communication et à la collaboration afin d'interagir avec différents acteurs projets et de niveaux hiérarchiques.</p>
+
+<p><strong>Sur les profils de techniciens :</strong></p>
+
+<p>De formation BTS ou Bac +2, vous bénéficiez d'une première expérience sur un poste similaire.</p>
+
+<p>Nous recherchons une personne volontaire, méthodique, consciencieuse, aimant travailler en équipe. Vous faites preuve d’autonomie, de curiosité, d’organisation et d’une capacité d’auto-formation sur divers sujets.</p>
+
+<p>Vous avez un sens inné de l’engagement, du service client et du travail bien fait.</p>
+
+<p>Vous êtes à l’aise à l’écrit et à l’oral pour maitriser le relationnel avec le client final.</p>",,"<p><strong>Evolution possible</strong><br>
+• Evolution interne :<br>
+o Horizontale (par exemple dans l’équipe recrutement nous avons d’ancien technicien)<br>
+o Verticale (technicien > ingénieur > Chef de projet > architecte > ingénieur d’affaire)<br>
+• Mobilité / Intercontrat : pour pallier une inégalité de charge de travail et éviter la main d’oeuvre inactive nous avons créé une synergie grâce à une organisation dans les équipes qui fait que vous êtes toujours en mode projet et rattaché à un manager d’équipe</p>",
+SQLI,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.sqli.com/fr-fr,,ESN,"Notre mission depuis 30 ans ? Être présent au bon moment !​
 
 Notre expertise ? Accompagner nos clients à capter l’attention de l’utilisateur et transformer cette interaction furtive en une interaction mémorable. C’est dans cette optique que nous accompagnons les entreprises dans la mise en œuvre, et le pilotage de dispositifs digitaux pour une expérience utilisateur réinventée.​
 
@@ -918,22 +1481,43 @@ Oser et créer.​","<p>En tant que stagiaire, rejoins plus de 120 collaborateur
         <li><strong>Managers de carrière</strong> = suivi de carrière par un de ses pairs </li>
         <li>Une <strong>agence vivante</strong> qui veille au bien-être de ses collaborateurs (livraison de fruits frais, communautés sportives, animations, consoles de jeux, afterwork...)</li>
         <li><strong>FLEX@SQLI </strong>: Politique de 3 jours/ semaine </li>
-</ul>"
-STMicroelectronics,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.st.com,"France, International","Electronique, Semi-conducteurs","Chez ST, nous sommes 50 000 hommes et femmes créateurs et fabricants de technologies microélectroniques.
+</ul>",
+STMicroelectronics,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.st.com,,,"Chez ST, nous sommes 50 000 hommes et femmes créateurs et fabricants de technologies microélectroniques.
 Nous collaborons avec 200 000 clients et des milliers de partenaires. Avec eux, nous concevons et créons des produits et des solutions qui répondent à leurs défis et à la nécessité de contribuer à un monde plus durable. Nos technologies de pointe permettent une mobilité plus intelligente, une gestion plus efficace de l’énergie, de la puissance et un déploiement à grande échelle de l’Internet des objets (IoT) et de la 5G. 
 ST a reçu les certifications Top Employer France et HappyTrainees 2024. Elles nous reconnaissent en tant qu’employeur de référence et démontrent notre engagement à faire de l’humain une priorité.
-En intégrant STMicroelectronics, vous aurez l’opportunité de participer à des projets collectifs transverses au-delà de votre mission en tant que tel. Ce programme, intitulé YES (Young Explorer Students), vous permettra de contribuer à des projets site. C’est l’occasion unique de vous impliquer dans la vie de ST, de vivre des projets collectifs et de partager avec vos pairs.",,,,
-SYS1,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,France,"ESN, Conseil, Transformation digitale",,,,,
-TDM,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,https://www.tdm-ing.com/,France,"Ingénierie, Conseils techniques, Transport, Industrie","TDM est équipementier sur spécifications pour équipements électronique pour DASSAULT, vend une gamme de produits propres et possède un B.E . pour développer de nouveaux projets et équipements.","<div id=""aircall-extension-app""> </div>",,,
-TechnicAtome,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.technicatome.com/,France,"Nucléaire, Énergie, Défense","Vous avez le souhait de travailler au sein d’un collectif, dans une entreprise française à taille humaine, à la pointe des technologies ? 
+En intégrant STMicroelectronics, vous aurez l’opportunité de participer à des projets collectifs transverses au-delà de votre mission en tant que tel. Ce programme, intitulé YES (Young Explorer Students), vous permettra de contribuer à des projets site. C’est l’occasion unique de vous impliquer dans la vie de ST, de vivre des projets collectifs et de partager avec vos pairs.",,,,,
+SYS1,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://sys1.fr/,France,informatique,"Installée à Martignas depuis 1994 et à Saint Jean d’Illac depuis 2021, avec une seconde agence sur Montpellier depuis Septembre 2022, SYS1, intégrateur de solutions informatiques, est une Entreprise de Services du Numérique (ESN) à taille humaine et composée d’une équipe de consultants, d’ingénieurs, d’experts et de techniciens.
+
+Après plusieurs années d’expertise sur les grands systèmes industriels de type Mainframe, nous avons développé plusieurs offres dédiées aux grands comptes, PME, collectivités et associations.
+
+Nos équipes sont organisées autour des savoir-faire suivants :
+
+- Audit, Conseil
+- Expertise, infrastructure
+- Expérience utilisateurs
+- Régie et infogérance
+- Support, assistance informatique
+- Hébergement
+- Développement informatique
+
+En tant qu’intégrateur de solutions informatiques, nous vous accompagnons avec nos partenaires stratégiques : DELL TECHNOLOGIES, WITH-SECURE, SPLUNK, STORMSHIELD, VADESECURE, SOPHOS, VMWARE, VEEAM, MICROSOFT, ZIMBRA, SYSTANCIA, DARKTRACE …","<ul><li>Administrateur IT H/F</li>
+        <li>Ingénieur IT H/F</li>
+        <li>Chef de Projet IT H/F</li>
+</ul>",,,"<p>Chez SYS1, nous nous engageons pour faire évoluer nos collaborateurs. Des entretiens annuels et des entretiens professionnels permettent d'identifier les évolutions possibles en interne. </p>
+
+<p>Nous sommes convaincus que les ressources internes sont la clé de notre réussite.</p>",
+TDM,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,https://www.tdm-ing.com/,,,"TDM est équipementier sur spécifications pour équipements électronique pour DASSAULT, vend une gamme de produits propres et possède un B.E . pour développer de nouveaux projets et équipements.","<p> </p>
+
+<div id=""aircall-extension-app""> </div>",,,,
+TechnicAtome,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.technicatome.com/,France,"Nucléaire, Energie, défense","Vous avez le souhait de travailler au sein d’un collectif, dans une entreprise française à taille humaine, à la pointe des technologies ? 
 Portée par plus de 2000 collaborateurs répartis sur 8 sites implantés dans tout l’hexagone, TechnicAtome conçoit les réacteurs nucléaires compacts des sous-marins et porte-avions de la Marine Française, tout en œuvrant dans le domaine du nucléaire civil sur des projets innovants tels que le Réacteur Jules Horowitz ou encore les Small Modular Reactors . 
 Etre collaborateur chez TechnicAtome c’est prendre part à l’excellence technique au sein d’équipes passionnées investies et reconnues pour leur expertise.","<p><span style=""color:#333333;"">Ingénieur Sureté, Ingénieur Thermohydraulique, Ingénieur Mécanique, Ingénieur développement logiciel embarqué, Ingénieur d'études système de contrôle commande et beaucoup d'autres...</span></p>","<p><span style=""color:#333333;"">Nos marchés requièrent la maîtrise de méthodologies et de technologies-clés comme l’architecture système, le management de projets, le numérique sécuritaire, les analyses de sûreté, la thermo-hydraulique et la neutronique, le soutien logistique intégré…</span></p>
 
 <p><span style=""color:#333333;"">Vous avez le souhait de travailler en équipe dans une entreprise française à taille humaine, à la pointe des technologies nucléaires ?<br><br>
 Alors rejoignez-nous sur l’un de nos 8 sites industriels ou d’ingénierie implantés dans tout l’hexagone ! Au global plus de 100 postes en CDI sont à pourvoir, et autant de propositions de stages de contrat en alternance, en particulier dans les différents domaines de l’ingénierie nucléaire pour réacteurs compacts, combustibles et installations associées.</span></p>","<p>Retrouver toutes nos offres sur notre site carrière : <a href=""https://www.technicatome.com/carrieres/"">Carrières - TechnicAtome</a></p>","<p>TechnicAtome offre la possibilité de participer à des projets d'envergures et unique en leur genre.</p>
 
-<p>La mobilité interne est favorisée et permets d'exercer plusieurs métiers au cours de votre carrière chez TA.</p>"
-Technology & Strategy Groupe,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.technologyandstrategy.com/,"France, Allemagne, Belgique, Luxembourg, Suisse, Égypte, Tunisie, Singapour, Hong-Kong, Pays-Bas, Portugal","Ingénierie, Informatique, Systèmes Embarqués","Technology & Strategy est une société de conseil Européenne de plus de 3500 collaborateurs présente en France et à l’international.
+<p>La mobilité interne est favorisée et permets d'exercer plusieurs métiers au cours de votre carrière chez TA.</p>","<p>Retrouver toutes nos offres sur notre site carrière : <a href=""https://www.technicatome.com/carrieres/"">Carrières - TechnicAtome</a></p>"
+Technology & Strategy Groupe,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.technologyandstrategy.com/,"France, Allemadne, Belgique, Luxembourg, Suisse, Egypte, Tunisie, Singapour, Hong-Kong, Pays-Bas Portugal","Ingénieur, Informatique, Systèmes Embarqués","Technology & Strategy est une société de conseil Européenne de plus de 3500 collaborateurs présente en France et à l’international.
 En pleine expansion, T&S est spécialisée dans trois grands domaines d’expertise (Transformation Digitale, Conseil en performance opérationnelle et Systèmes Embarqués), afin d’implémenter des solutions plus intelligentes, plus sûres et plus écologiques, sur les défis d’aujourd’hui et de demain. 
 Et c’est dans cet environnement aux relations humaines fortes, à l’expertise reconnue et aux nombreuses opportunités d’évolution que nous vous invitons à vous développer et à accompagner la croissance du groupe !","<p>Architecte technique, ingénieur systèmes et réseaux, architecte logiciel, consultant en systèmes et réseaux, ingénieur de test logiciel, gestionnaire de projets d'ingénierie, ingénieur en sécurité, ingénieur en électronique embarquée, Business Manager, responsable de l'ingénierie/du développement informatique, architecte fonctionnel, intégrateur de matériel et de logiciels</p>","<ul><li>Futur(e) diplômé(e) d’une formation en d'ingénieur généraliste ou informaticien</li>
         <li>Vous possédez une forte aisance relationnelle et une bonne capacité d’adaptation</li>
@@ -946,12 +1530,12 @@ Et c’est dans cet environnement aux relations humaines fortes, à l’expertis
 
 <p><strong>Directeur de projet informatique</strong>: Le directeur de projet informatique est chargé de gérer un ou plusieurs projets, de la phase d'étude à la réalisation, dans le cadre des objectifs fixés et en veillant au respect des exigences de coût, de délai et de qualité. Il anticipe les impacts des transformations et conduit l'accompagnement du changement.</p>
 
-<p><strong>Directeur opérationnel</strong>: Le directeur opérationnel organise son équipe, structure ses offres et est responsable de l'élargissement de son champ d'action et du développement de ses activités.</p>"
-Thales,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,https://www.thalesgroup.com/fr,"France, International","Défense, Sécurité, Aérospatiale, Transport","Fidèle à son histoire, l’entreprise se positionne aux avant-postes des révolutions technologiques, et en est même parfois un pionnier. Cette volonté de toujours chercher à repousser les limites du possible lui vaut de figurer régulièrement parmi les entreprises les plus innovantes au monde.
+<p><strong>Directeur opérationnel</strong>: Le directeur opérationnel organise son équipe, structure ses offres et est responsable de l'élargissement de son champ d'action et du développement de ses activités.</p>","<p>Nous avons beaucoup d'offres à pourvoir pour des stages/alternances dans de nombreuses villes en France et en Allemagne. Pour en savoir plus, nous vous envourageons à consulter nos offres sur notre site internet: <a href=""https://jobs.technologyandstrategy.com/"">Technology & Strategy Group Careers (technologyandstrategy.com)</a></p>"
+Thales,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,https://www.thalesgroup.com/fr,,,"Fidèle à son histoire, l’entreprise se positionne aux avant-postes des révolutions technologiques, et en est même parfois un pionnier. Cette volonté de toujours chercher à repousser les limites du possible lui vaut de figurer régulièrement parmi les entreprises les plus innovantes au monde.
 
 Aujourd’hui plus que jamais, Thales est convaincu que la technologie est source de progrès pour nos sociétés et peut contribuer à relever les grands défis du 21e siècle, à deux conditions : qu’elle soit centrée sur l’humain et qu’elle respecte des principes éthiques que traduisent, en particulier, ses approches dans les domaines du numérique, de l’intelligence artificielle (Thales TrUE IA) et de la biométrie (TrUE Biometrics).
 
-Cette conviction, Thales l’exprime clairement dans sa raison d’être : « Construisons ensemble un avenir de confiance ».",,,,
+Cette conviction, Thales l’exprime clairement dans sa raison d’être : « Construisons ensemble un avenir de confiance ».",,,,,
 Thelio,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,https://www.thelio.fr,France,Conseil en systèmes et logiciels informatiques,"Cabinet de Conseil et d’Intégration Data, Thélio est né pour relever un défi : démystifier le monde de la Data pour la rendre accessible à toutes les entreprises. Sa raison d’être ? Des entreprises et organisations plus performantes, innovantes et humaines, grâce à l’intelligence de la donnée.
 Né à Bordeaux et continuant sa croissance à Lyon, Aix en Provence et Toulouse, Thélio intervient sur toute la chaîne de valeur de la donnée : Stratégie & Gouvernance Data, Data Visualisation, Modern Data Platform, Intégration Data, Master Data Management, Qualité & Conformité de la Donnée.
 Ce qui nous différencie des autres acteurs de la data : notre capacité à accompagner nos clients de bout en bout sur l’ensemble de la chaine de valeur de la donnée, du conseil à la mise en œuvre au travers de solutions pérennes et évolutives, et en totale indépendance des éditeurs. Le fort niveau d’expertise et la complémentarité de nos consultant(e)s, qui sont des professionnel(le)s expérimenté(e)s et reconnu(e)s. Le souci constant d’apporter de la valeur à nos clients quelle que soit la prestation. Et surtout nos valeurs : une culture d’entreprise libérée qui encourage l’initiative et l’intelligence collective, avec un impact concret pour nos collaborateurs : auto-gestion du temps de travail, télétravail, initiatives internes, RSE etc.
@@ -1003,4 +1587,20 @@ Plus précisément :
         </ul></li>
 </ul>",,"<p>Tout au long de ton parcours chez Thélio, tu auras l'opportunité d'évoluer et de t'épanouir professionnellement. Tu seras impliqué dans des projets concrets, tu bénéficieras du soutien de consultants expérimentés et tu rejoindras nos communautés de partage de connaissances. Ces espaces collaboratifs te permettront de monter en compétences et de développer ta culture Data. À la fin de ton stage, des opportunités de poste permanent pourront s'ouvrir en fonction de tes réalisations.</p>
 
-<p>Perspectives d'évolution dans les métiers de la data : Chef de Projet, Data management, Tech Lead Data, Conseil en Transformation Data.</p>"
+<p>Perspectives d'évolution dans les métiers de la data : Chef de Projet, Data management, Tech Lead Data, Conseil en Transformation Data.</p>",
+Thermo Fisher,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,http://www.thermofisher.com,,,"Thermo Fisher Scientific
+Notre mission est de permettre à nos clients de rendre le monde plus sain, plus propre et plus sûr. Avec plus de 125 000 collègues dans le monde, nous partageons un ensemble de valeurs communes - Intégrité, Intensité, Innovation et Implication - travaillant ensemble pour accélérer la recherche, résoudre des défis scientifiques complexes, stimuler l'innovation technologique et soutenir les patients dans le besoin. #StartYourStory chez Thermo Fisher Scientific, où la diversité des expériences, des parcours et des perspectives est valorisée.
+Dans la division Materials and Structural Analysis (MSD) de Thermo Fisher Scientific, nous fournissons des solutions innovantes pour la microscopie électronique dans les environnements de laboratoires scientifiques et industriels. Un élément clé de ces solutions est notre ensemble de solutions logicielles accompagnant nos instruments scientifiques.","<p>Thermofisher à Bordeaux, entité dédiée au développement de solutions logicielles orientées imagerie 3D, et exploitations de données scientifiques offre des opportunités :</p>
+
+<ul>
+        <li>Ingénieur en développement C++</li>
+        <li>Ingénieur en développement Python</li>
+        <li>Ingénieur en développement web .Net</li>
+        <li>Ingénieur en développement web Angular</li>
+        <li>Ingénieur Devops (Docker, Kubernetes, Helm)</li>
+        <li>UX/UI Designer</li>
+</ul>",,,"<p>Thermofisher offre de très nombreuses possibilités d'évolutions à court, moyen et long terme de part son accompagnement managériale, et la grande diversité des métiers proposés au sein du groupe. Au sein de la R&D à Bordeaux par exemple, de nombreux collègues ont évolué vers des postes de scrum masters, product owners, experts, leaders techniques, architectes, ou managers.</p>
+
+<p>Sur le long terme, les parcours de carrières peuvent conduire nos collègues au delà de la R&D, vers le marketing, le commerce ou la relation client au sein de nos Business Units. </p>
+
+<p>De nombreuses sucess stories sont à retrouver sur le portail carrière de l'entreprise <a href=""https://jobs.thermofisher.com/global/en"">https://jobs.thermofisher.com/global/en</a></p>",
